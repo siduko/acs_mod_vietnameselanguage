@@ -16,5 +16,23 @@
 			<li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
 			<li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
 		</Labels>
-	</Language>	
+	</Language>
+	<Language Name="Vi">
+		<DisplayName>Tiếng Việt</DisplayName>
+		<Icon>viflag.png</Icon>
+		<!--0:CNMODE 1:ENMODE-->
+		<UIMode>1</UIMode>
+		<Desc>Vietnamese Language</Desc>
+		<!--Word Connect with space-->
+		<SpaceConnect>true</SpaceConnect>
+		<!--FamilyName Postposition-->
+		<FamilyPostposition>false</FamilyPostposition>
+		<!--change the labelword in StoryTxt -->
+		<Labels>
+			<li Label="[ENHIM]" SecondPersonF="her" SecondPersonM="him"/>
+			<li Label="[ENHERS]" SecondPersonF="hers" SecondPersonM="his"/>
+			<li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
+			<li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
+		</Labels>
+	</Language>
 </List></Languages>

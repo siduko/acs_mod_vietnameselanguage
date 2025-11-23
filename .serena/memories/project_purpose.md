@@ -1,0 +1,1 @@
+The primary purpose of this project is to localize an existing Vietnamese language modification for a game into Thai. This involves modifying configuration files and text data to replace Vietnamese text and settings with their Thai equivalents.
