@@ -1,8 +1,4 @@
 {
     "mcpServers": {
-        "serena": {
-          "command": "nix",
-          "args": ["run", "github:oraios/serena", "--", "start-mcp-server", "--context", "agent", "--project", "${workspaceFolder}"]
-      }
     }
 }

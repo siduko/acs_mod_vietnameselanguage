@@ -2,6 +2,10 @@
 
 This proposal outlines the steps to add Vietnamese (Vi) as a new supported language, based on the existing Thai (Th) language files. This involves duplicating the `Language/Th` directory structure and content, and updating relevant configuration files.
 
+## Why
+
+To expand the language support of the application to include Vietnamese, catering to a broader user base. This will allow the application to reach a new demographic and improve user experience for Vietnamese speakers.
+
 ## Motivation
 
 To expand the language support of the application to include Vietnamese, catering to a broader user base.

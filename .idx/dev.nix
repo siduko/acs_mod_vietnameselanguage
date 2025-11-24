@@ -45,7 +45,8 @@
       onCreate = {
         # Example: install JS dependencies from NPM
         # npm-install = "npm install";
-        openspec-istall = "npm install -g @fission-ai/openspec@latest";
+        openspec-install = "npm install -g @fission-ai/openspec@latest";
+        uvx-install = "nix profile install nixpkgs#uv";
       };
       # Runs when the workspace is (re)started
       onStart = {
