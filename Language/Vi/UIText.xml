@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="0xrxw6g7qkn8ovp3-n143_bpyo" mz="confirm">ผสาน</string>
+	<string name="0xrxw6g7qkn8ovp3-n143_bpyo" mz="confirm">Hợp nhất</string>
 	<string name="0xrxw6g7rz8yjt-n18_izp4" mz="title">สูญเสียวัยเด็ก</string>
 	<string name="0xrxw6g7sgx1ljrytf-n234_rqwx" mz="n234">ทักษะ</string>
 	<string name="0xrxw6g7mooaljryq5-n263_i269-tips" mz="n263">ส่งออกโค้ดแชร์</string>
-	<string name="0xrxw6g7snc6ovpc-n8_snc6" mz="n8">ยกเลิก</string>
+	<string name="0xrxw6g7snc6ovpc-n8_snc6" mz="n8">Hủy</string>
 	<string name="0xrxw6g7dfojogftck-n5_g4rx-texts_2" mz="n5">หยิน</string>
 	<string name="0xrxw6g7snk12t-n271_b1dv" mz="n271">เลือกวัสดุ</string>
 	<string name="0xrxw6g77a6u3p-n70_oxm4-2" mz="n70">เส้นตรง</string>
@@ -91,7 +91,7 @@
 เลือกหนึ่งจากแต่ละชุดเอฟเฟกต์หยินและหยางรวมกันเป็นเอฟเฟกต์โกลาหล ผลจะคงอยู่จนหมดระยะเวลาของความโกลาหล</string>
 	<string name="0xrxw6g7rjyvljryq1-n269_f6o2" mz="n269">มุมขวาบนจะแสดงเวลาจริงสำหรับมนุษย์</string>
 	<string name="0xrxw6g7rjyvljryq1-n226_rjyv" mz="n226">เคอร์เซอร์จะปรากฏเมื่อคลิกที่พื้นฉาก</string>
-	<string name="0xrxw6g7uqdj52ow6w-n146_l7dv" mz="n146">ยกเลิก</string>
+	<string name="0xrxw6g7uqdj52ow6w-n146_l7dv" mz="n146">Hủy</string>
 	<string name="0xrxw6g7cxoxovpt-n4_cxox" mz="ok">ยืนยัน</string>
 	<string name="0xrxw6g7mf2o2ovw3-n186_oizv" mz="change">แทนที่</string>
 	<string name="0xrxw6g7d8roljrz26-n68_ikic-tips" mz="n68">รับพลังงานเพื่อบ่มเพาะแผ่นหยกม่วงผ่านภารกิจรายสัปดาห์และรายฤดูกาล เพื่อเพิ่มเลเวล พลังงานที่ต้องใช้ในแต่ละเลเวลจะคงที่</string>
@@ -179,7 +179,7 @@
 	<string name="0xrxw6g7qqlcogftcg-n25_t1t8-texts_1" mz="buyDlcTip">โปรดทราบ: เมื่อเกมเริ่มต้นแล้ว ความโกลาหลแห่งสวรรค์ที่ถูกเปิดใช้งานในรอบนี้จะไม่สามารถปิดได้</string>
 	<string name="0xrxw6g7q39452ow2x-n0_bj7q" mz="frame">ลงมือ</string>
 	<string name="0xrxw6g7fuvb3n-n11_q2bi-tips" mz="n11">ขับไล่ศิษย์</string>
-	<string name="0xrxw6g7wtx752ow61-n159_o2ea" mz="n159">ยกเลิก</string>
+	<string name="0xrxw6g7wtx752ow61-n159_o2ea" mz="n159">Hủy</string>
 	<string name="0xrxw6g7farp52ow7z-n191_lomw-4" mz="n191">ไฟ</string>
 	<string name="0xrxw6g7fevgbg-n194_tvk1" mz="title">กลืนโลหิต</string>
 	<string name="0xrxw6g7faz152ow2n-n14_yfwm" mz="title">สิ่งนี้</string>
@@ -324,7 +324,7 @@
 	<string name="0xrxw6g7h0gv2ovtu-n10_n5qm" mz="n10">ค้นหา</string>
 	<string name="0xrxw6g7dsk6ljryum-n9_py9w-11" mz="n9">อัตราการเก็บเกี่ยวแร่และพืช</string>
 	<string name="0xrxw6g7y7grljrytk-n64_jqzn-tips" mz="Level">คลังที่มีลำดับความสำคัญสูงกว่าจะถูกใช้ก่อน</string>
-	<string name="0xrxw6g7iqn052ow6d-n3_jnqn" mz="n3">ยกเลิก</string>
+	<string name="0xrxw6g7iqn052ow6d-n3_jnqn" mz="n3">Hủy</string>
 	<string name="0xrxw6g7shy138-n446_jq30-tips" mz="gongelement">วิชาบ่มเพาะและธาตุทั้งห้า</string>
 	<string name="0xrxw6g7h4ds2ovss-n27_rhxq" mz="onlylrean">แสดงเฉพาะคัมภีร์ที่สามารถเรียนได้</string>
 	<string name="0xrxw6g7v4kf33-n107_gebq-texts_3" mz="title">ฝึกฝน</string>
@@ -450,7 +450,7 @@
 	<string name="0xrxw6g7cbquljryvp-n14_cbqu-0" mz="n14">อสูรโบราณ</string>
 	<string name="0xrxw6g7jr2h3l-n189_rvsk-texts_0" mz="n189">คุณภาพโดยประมาณ:</string>
 	<string name="0xrxw6g7dq2fovp1-n5_dq2f-tips" mz="doublemake">ผู้ฝึกตนขอบเขตวิญญาณปฐมกาลจะสามารถใช้วิญญาณย่อยในการฝังความรู้ของพวกเขาลงไปในอุปกรณ์ต่างๆ</string>
-	<string name="0xrxw6g7fak9vnk-n176_qx12" mz="n176">ยกเลิก</string>
+	<string name="0xrxw6g7fak9vnk-n176_qx12" mz="n176">Hủy</string>
 	<string name="0xrxw6g7ufr7ljrytt-n5_ew8s" mz="n5">สร้างห้อง N ห้อง</string>
 	<string name="0xrxw6g7k0zi4b-n95_ikjz" mz="fu5">ยันต์</string>
 	<string name="0xrxw6g7l1ycljrz3s-n6_f6o2" mz="showloadbg">โหลด</string>
@@ -511,7 +511,7 @@
 	<string name="0xrxw6g7h2yi52ow5y-n279_ency" mz="n279">การตั้งค่า</string>
 	<string name="0xrxw6g78fo852ow71-n43_nd59" mz="goexp">ผจญภัย</string>
 	<string name="0xrxw6g7je7qljrz3k-n11_f6o2" mz="n11">บันทึก</string>
-	<string name="0xrxw6g7gyliovp3-n214_p687" mz="n214">ยกเลิก</string>
+	<string name="0xrxw6g7gyliovp3-n214_p687" mz="n214">Hủy</string>
 	<string name="0xrxw6g7y7grljrytk-n83_l6xy-tips" mz="nq3">ระหว่าง 60% และ 90%</string>
 	<string name="0xrxw6g7px43ljryql-n4_px43-texts_3" mz="n4">เลือกแล้ว</string>
 	<string name="0xrxw6g7do0z3d-n107_gebq" mz="title">ไม่มีแผน</string>
