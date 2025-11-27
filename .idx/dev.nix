@@ -8,14 +8,16 @@
   packages = [
     # pkgs.go
     pkgs.python311
-    pkgs.python311Packages.pip
-    pkgs.uv
+    pkgs.python311Packages.requests
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
+    pkgs.libretranslate
   ];
 
   # Sets environment variables in the workspace
-  env = {};
+  env = {
+    LT_LOAD_ONLY = "th,vi,en";
+  };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
@@ -46,12 +48,13 @@
         # Example: install JS dependencies from NPM
         # npm-install = "npm install";
         openspec-install = "npm install -g @fission-ai/openspec@latest";
-        uvx-install = "nix profile install nixpkgs#uv";
+        libretranslate-install = "libretranslate";
       };
       # Runs when the workspace is (re)started
       onStart = {
         # Example: start a background task to watch and re-build backend code
         # watch-backend = "npm run watch-backend";
+        start-libretranslate = "libretranslate --load-only vi,th,en";
       };
     };
   };
