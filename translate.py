@@ -8,7 +8,7 @@ import os
 import multiprocessing
 
 # --- Checkpoint Setup ---
-BATCH_SIZE = 20  # Number of translations per chunk
+BATCH_SIZE = 100  # Number of translations per chunk
 CHECKPOINT_DIR = 'tmp/.checkpoints'
 
 def get_checkpoint_path(filepath):

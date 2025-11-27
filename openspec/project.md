@@ -1,31 +1,29 @@
 # Project Context
 
 ## Purpose
-[Describe your project's purpose and goals]
+This project is a mod for **Amazing Cultivation Simulator (ACS)** that provides a **Vietnamese language translation**. 
+It was originally based on a Thai language mod, and the goal is to translate the content from Thai (or the original Chinese/English placeholders) into Vietnamese.
 
 ## Tech Stack
-- [List your primary technologies]
-- [e.g., TypeScript, React, Node.js]
+- **XML**: The primary format for game data and language strings (e.g., `UIText.xml`, `Settings/**/*.xml`).
+- **Python**: Used for automation scripts, specifically `translate.py` for batch translation of XML and TXT files.
+- **Text Files**: Key-value pair files like `CodeDictionary.txt` and `MapStoryDictionary.txt`.
 
 ## Project Conventions
 
-### Code Style
-[Describe your code style preferences, formatting rules, and naming conventions]
+### Directory Structure
+- `Language/Th`: Contains the Thai language files (serving as a reference or source for the current translation effort).
+- `Language/Vi`: Contains the Vietnamese language files being developed.
+- `Info.json`: Mod metadata (Name, Author, Description).
 
-### Architecture Patterns
-[Document your architectural decisions and patterns]
+### Translation Workflow
+1.  **Source**: The `Language/Vi` directory was initially duplicated from `Language/Th`.
+2.  **Process**: Use `translate.py` (or manual editing) to translate content in `Language/Vi` from Thai to Vietnamese.
+3.  **Verification**: Ensure XML structure remains valid and game keys are preserved.
 
-### Testing Strategy
-[Explain your testing approach and requirements]
-
-### Git Workflow
-[Describe your branching strategy and commit conventions]
-
-## Domain Context
-[Add domain-specific knowledge that AI assistants need to understand]
-
-## Important Constraints
-[List any technical, business, or regulatory constraints]
+## Active Changes
+- **`translate-to-vietnamese`**: Currently working on translating all files in `Language/Vi` from Thai to Vietnamese.
 
 ## External Dependencies
-[Document key external services, APIs, or systems]
+- **Amazing Cultivation Simulator**: The game for which this mod is built.
+- **Google Translate API** (via `translate.py`): Used for initial machine translation.
