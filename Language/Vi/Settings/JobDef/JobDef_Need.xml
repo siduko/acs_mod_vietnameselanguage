@@ -1,43 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JobAnimalEatFood">
-			<DisplayName>กิน</DisplayName>
+			<DisplayName>Ăn</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalFree">
-			<DisplayName>เดิน</DisplayName>
+			<DisplayName>Đi</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalGiveBirth">
-			<DisplayName>คลอด</DisplayName>
+			<DisplayName>Sinh sản</DisplayName>
 		</Text>
 		<Text Name="JobBirthIt">
-			<DisplayName>ฟักไข่</DisplayName>
+			<DisplayName>Ấp trứng</DisplayName>
 		</Text>
 		<Text Name="JobEatFood">
-			<DisplayName>กิน</DisplayName>
+			<DisplayName>Ăn</DisplayName>
 		</Text>
 		<Text Name="JobDrinkWater">
-			<DisplayName>ดื่ม</DisplayName>
+			<DisplayName>Uống</DisplayName>
 		</Text>
 		<Text Name="JobTakeRest">
-			<DisplayName>นอน</DisplayName>
+			<DisplayName>Ngủ</DisplayName>
 		</Text>
 		<Text Name="JobLookAtSky">
-			<DisplayName>มองท้องฟ้า</DisplayName>
+			<DisplayName>Ngắm trời</DisplayName>
 		</Text>
 		<Text Name="JobFree">
-			<DisplayName>เดินเล่น</DisplayName>
+			<DisplayName>Dạo chơi</DisplayName>
 		</Text>
 		<Text Name="JobRunAway">
-			<DisplayName>วิ่งหนี</DisplayName>
+			<DisplayName>Chạy trốn</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithBuilding">
-			<DisplayName>เล่นสนุก</DisplayName>
+			<DisplayName>Vui chơi</DisplayName>
 		</Text>
 		<Text Name="JobBasePractice">
-			<DisplayName>ฝึกพื้นฐาน</DisplayName>
+			<DisplayName>Luyện căn cơ</DisplayName>
 		</Text>
 		<Text Name="JobIdle">
-			<DisplayName>ว่าง</DisplayName>
+			<DisplayName>Rảnh rỗi</DisplayName>
 		</Text>
 	</List>
 </Texts>

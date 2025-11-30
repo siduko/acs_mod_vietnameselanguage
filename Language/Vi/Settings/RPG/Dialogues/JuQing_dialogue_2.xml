@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JuQing_dialogue_2">
-			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
-			<Nodes.1.Text>ในที่สุดวันนี้ก็มาถึง...</Nodes.1.Text>
-			<Nodes.2.Text>... (ชายนี้มีใบหน้าราวกับรูปสลักที่สว่างไสวด้วยคิ้วโก่งดุจดาบและดวงตาที่เปล่งประกายดุจดวงดาว เสื้อผ้าก็เรียบง่ายที่ดูไม่เหมือนเสื้อผ้าของคนในสมัยนี้ เขานั่งไขว่ห้างอยู่บนพื้นไม่ขยับเขยื้อนราวกับว่าถูกแช่แข็งเอาไว้ในกาลเวลา หากปราศจากลมหายใจแผ่วเบาแล้วละก็ ข้าคงนึกว่าเขานั้นเป็นรูปสลักหยกที่สวยงามชิ้นหนึ่ง)</Nodes.2.Text>
-			<Nodes.3.Text>... (ดูเหมือนว่าชายผู้นี้จะรู้สึกถึงการมีอยู่ของท่าน เขาได้การถอนหายใจยาวออกมาหนึ่งนั้นก่อนที่จะค่อยๆ ลืมตาขึ้นมาอย่างช้าๆ)</Nodes.3.Text>
+			<Nodes.0.Text>Lối vào</Nodes.0.Text>
+			<Nodes.1.Text>Cuối cùng ngày này cũng đã đến...</Nodes.1.Text>
+			<Nodes.2.Text>... (Người đàn ông này có khuôn mặt như tượng khắc, sáng ngời với hàng lông mày cong như kiếm và đôi mắt lấp lánh như sao trời. Quần áo đơn giản, không giống người thời nay. Hắn ngồi khoanh chân trên đất, bất động như bị đóng băng trong thời gian. Nếu không có hơi thở yếu ớt, ta đã nghĩ hắn là một bức tượng ngọc tuyệt đẹp.)</Nodes.2.Text>
+			<Nodes.3.Text>... (Người đàn ông này dường như cảm nhận được sự hiện diện của ngươi. Hắn thở dài một hơi rồi từ từ mở mắt.)</Nodes.3.Text>
 		</Text>
 	</List>
 </Texts>

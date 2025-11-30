@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="TFabaoSkill">
-			<DisplayName>เพิ่มพลังอาวุธวิเศษ</DisplayName>
+			<DisplayName>Tăng uy lực Pháp Bảo</DisplayName>
 		</Text>
 		<Text Name="FabaoSkill_Gong3_1">
-			<DisplayName>ดาบสั่นพ้อง</DisplayName>
+			<DisplayName>Đao Minh</DisplayName>
 		</Text>
 		<Text Name="FabaoSkill_Gong8_1">
-			<DisplayName>ดลจิตกระบี่ทิศเหนือ</DisplayName>
+			<DisplayName>Bắc Phương Kiếm Ý</DisplayName>
 		</Text>
 	</List>
 </Texts>

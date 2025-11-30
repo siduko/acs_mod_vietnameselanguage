@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Turtle_1">
-			<Prefix>กระดอง</Prefix>
+			<Prefix>Mai</Prefix>
 			<Suffix>เต๋า</Suffix>
-			<Desc>กายาเร้นลับที่สืบทอดมาในสายเลือดของเผ่าอสูรเต่าบรรพกาล การใช้พลังแห่งเต๋าทำให้กระดองแข็งแกร่งขึ้น เมื่อฝึกฝนสำเร็จจะส่งผลให้ร่างกายแทบจะอยู่ยงคงกระพัน</Desc>
+			<Desc>Bí Thể huyết mạch của Rùa Thượng Cổ. Dùng sức mạnh Đạo làm cứng mai. Khi thành thục cơ thể gần như bất hoại.</Desc>
 			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
-			<Levels.0.Desc>เพิ่มฐานความทนทานของกายาเร้นลับปานกลาง\n เพิ่มโอกาสสำเร็จในการป้องกันของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+			<Levels.0.Desc>เพิ่มฐานความทนทานของThể chấtเร้นลับปานกลาง\n เพิ่มโอกาสสำเร็จในการป้องกันของThể chấtเร้นลับเป็นอย่างมาก</Levels.0.Desc>
 			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
-			<Levels.1.Desc>เพิ่มฐานความทนทานของกายาเร้นลับเป็นอย่างมาก</Levels.1.Desc>
+			<Levels.1.Desc>เพิ่มฐานความทนทานของThể chấtเร้นลับเป็นอย่างมาก</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>

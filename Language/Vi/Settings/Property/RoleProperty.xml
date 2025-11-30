@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="LeadExperienceAddtion">
@@ -5,7 +6,7 @@
 		</Text>
 		<Text Name="BaseWorkSpeed">
 			<DisplayName>ประสิทธิภาพพื้นฐานการทำงาน</DisplayName>
-			<DisplayValue>{0}/วิ</DisplayValue>
+			<DisplayValue>{0}/s</DisplayValue>
 			<Desc>ความเร็วในการทำงานพื้นฐานของตัวละคร ระบุจำนวนงานที่สามารถทำได้ต่อวินาที</Desc>
 			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
 		</Text>
@@ -26,13 +27,13 @@
 		</Text>
 		<Text Name="VisionRadius">
 			<DisplayName>ระยะการรับรู้</DisplayName>
-			<DisplayValue>{0:N2} เมตร</DisplayValue>
+			<DisplayValue>{0:N2} mét</DisplayValue>
 			<Desc>ระยะทางสูงสุดที่ตัวละครสามารถรับรู้สิ่งรอบตัวได้</Desc>
 			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
 		</Text>
 		<Text Name="MoveSpeed">
 			<DisplayName>ความเร็วการเคลื่อนที่</DisplayName>
-			<DisplayValue>{0:N2} เมตร/วิ</DisplayValue>
+			<DisplayValue>{0:N2} m/s</DisplayValue>
 			<Desc>ความเร็วการเคลื่อนที่ของตัวละคร</Desc>
 			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
 		</Text>
@@ -58,7 +59,7 @@
 		</Text>
 		<Text Name="RecoveryPower">
 			<DisplayName>ความทนทานธรรมชาติ</DisplayName>
-			<DisplayValue>{0}%/วิ</DisplayValue>
+			<DisplayValue>{0}%/s</DisplayValue>
 			<Desc>อัตราการฟื้นตัวจากโรคและการบาดเจ็บตามธรรมชาติของตัวละคร</Desc>
 			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
 		</Text>
@@ -76,7 +77,7 @@
 			<DisplayName>ตัวคูณสภาพอารมณ์</DisplayName>
 		</Text>
 		<Text Name="FavourChangeSpeedRate">
-			<DisplayName>อัตราการเปลี่ยนแปลงความชื่นชอบ</DisplayName>
+			<DisplayName>อัตราBiến Đổiความชื่นชอบ</DisplayName>
 		</Text>
 		<Text Name="NightmareHappenPercent">
 			<DisplayName>โอกาสเกิดฝันร้าย</DisplayName>

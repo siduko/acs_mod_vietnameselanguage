@@ -1,79 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JobPracticeFeeling">
-			<DisplayName>ญาณรู้แจ้ง</DisplayName>
+			<DisplayName>Giác ngộ</DisplayName>
 		</Text>
 		<Text Name="JobPractice">
-			<DisplayName>บ่มเพาะ</DisplayName>
+			<DisplayName>Tu luyện</DisplayName>
 		</Text>
 		<Text Name="JobBrokenNeck">
-			<DisplayName>ทะลวงขอบเขต</DisplayName>
+			<DisplayName>Đột phá cảnh giới</DisplayName>
 		</Text>
 		<Text Name="JobPracticeSkill">
-			<DisplayName>ฝึกฝน</DisplayName>
+			<DisplayName>Luyện tập</DisplayName>
 		</Text>
 		<Text Name="JobReceiveApprentice">
-			<DisplayName>รับเป็นศิษย์</DisplayName>
+			<DisplayName>Nhận đồ đệ</DisplayName>
 		</Text>
 		<Text Name="JobBuildBody">
-			<DisplayName>หลอมร่าง</DisplayName>
+			<DisplayName>Luyện thể</DisplayName>
 		</Text>
 		<Text Name="JobRobBody">
-			<DisplayName>สิงสู่</DisplayName>
+			<DisplayName>Nhập hồn</DisplayName>
 		</Text>
 		<Text Name="JobAbsorbLing">
-			<DisplayName>ดูดซับปราณ</DisplayName>
+			<DisplayName>Hấp thụ Linh Khí</DisplayName>
 		</Text>
 		<Text Name="JobRefiningFabao">
-			<DisplayName>หลอมอาวุธวิเศษ</DisplayName>
+			<DisplayName>Luyện Pháp Bảo</DisplayName>
 		</Text>
 		<Text Name="JobPaintCharm">
-			<DisplayName>วาดยันต์</DisplayName>
+			<DisplayName>Vẽ bùa</DisplayName>
 		</Text>
 		<Text Name="JobTeachHim">
-			<DisplayName>สอนตำรา</DisplayName>
+			<DisplayName>Giảng đạo</DisplayName>
 		</Text>
 		<Text Name="JobLeave2Explore">
-			<DisplayName>ท่องโลก</DisplayName>
+			<DisplayName>Du ngoạn thế gian</DisplayName>
 		</Text>
 		<Text Name="JobMasterHelp">
-			<DisplayName>ป้องกัน</DisplayName>
+			<DisplayName>Phòng thủ</DisplayName>
 		</Text>
 		<Text Name="JobFeelEsoterica">
-			<DisplayName>ศึกษาคัมภีร์</DisplayName>
+			<DisplayName>Nghiên cứu kinh thư</DisplayName>
 		</Text>
 		<Text Name="JobAbsorbGong">
-			<DisplayName>ได้รับประสบการณ์</DisplayName>
+			<DisplayName>Nhận kinh nghiệm</DisplayName>
 		</Text>
 		<Text Name="JobMelting">
-			<DisplayName>กลั่น</DisplayName>
+			<DisplayName>Luyện</DisplayName>
 		</Text>
 		<Text Name="JobEatPracticeFood">
-			<DisplayName>หยิบโอสถ</DisplayName>
+			<DisplayName>Lấy đan dược</DisplayName>
 		</Text>
 		<Text Name="JobJiangdao">
-			<DisplayName>สอนสั่ง</DisplayName>
+			<DisplayName>Giảng dạy</DisplayName>
 		</Text>
 		<Text Name="JobMagicNormal">
-			<DisplayName>ร่ายปาฏิหาริย์</DisplayName>
+			<DisplayName>Thi triển thần thông</DisplayName>
 		</Text>
 		<Text Name="JobGodPractice">
-			<DisplayName>สมดุล</DisplayName>
+			<DisplayName>Cân bằng</DisplayName>
 		</Text>
 		<Text Name="JobCangJingGe">
-			<DisplayName>หอคัมภีร์</DisplayName>
+			<DisplayName>Tàng Kinh Các</DisplayName>
 		</Text>
 		<Text Name="JobGodPractice_Renunciation">
-			<DisplayName>สะกดตน</DisplayName>
+			<DisplayName>Tự kiểm soát</DisplayName>
 		</Text>
 		<Text Name="JobBodyPractice">
-			<DisplayName>หลอมร่าง</DisplayName>
+			<DisplayName>Luyện thể</DisplayName>
 		</Text>
 		<Text Name="JobToHumanThunder">
-			<DisplayName>ทัณฑ์สวรรค์เปลี่ยนร่าง</DisplayName>
+			<DisplayName>Thiên Kiếp Chuyển Thể</DisplayName>
 		</Text>
 		<Text Name="JobBodyTuna">
-			<DisplayName>เดินลมปราณ</DisplayName>
+			<DisplayName>Vận hành khí</DisplayName>
 		</Text>
 	</List>
 </Texts>

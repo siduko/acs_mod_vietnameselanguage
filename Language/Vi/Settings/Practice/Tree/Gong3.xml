@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong3_a2">
@@ -19,7 +20,7 @@
 			<DisplayName>บ่งการกระบี่</DisplayName>
 		</Text>
 		<Text Name="Gong3_b0">
-			<DisplayName>กลืนโลหิต</DisplayName>
+			<DisplayName>Thôn Phệ Huyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_b1">
 			<DisplayName>ปลดพันธนาการอสูร</DisplayName>
@@ -40,7 +41,7 @@
 			<DisplayName>ทุบ</DisplayName>
 		</Text>
 		<Text Name="Gong3_d8">
-			<DisplayName>การควบคุม</DisplayName>
+			<DisplayName>Kiểm soát</DisplayName>
 		</Text>
 		<Text Name="Gong3_b9">
 			<DisplayName>จ้วงแทง</DisplayName>
@@ -49,7 +50,7 @@
 			<DisplayName>พุ่งแทง</DisplayName>
 		</Text>
 		<Text Name="Gong3_d9">
-			<DisplayName>การพลิกแพลง</DisplayName>
+			<DisplayName>Biến Hóa</DisplayName>
 		</Text>
 		<Text Name="Gong3_b10">
 			<DisplayName>ปัดป้อง</DisplayName>
@@ -58,10 +59,10 @@
 			<DisplayName>พุ่งฟัน</DisplayName>
 		</Text>
 		<Text Name="Gong3_d10">
-			<DisplayName>การผ่า</DisplayName>
+			<DisplayName>Phá</DisplayName>
 		</Text>
 		<Text Name="Gong3_c0">
-			<DisplayName>กระชากวิญญาณ</DisplayName>
+			<DisplayName>Đoạt Hồn</DisplayName>
 		</Text>
 		<Text Name="Gong3_c1">
 			<DisplayName>ห้าวิญญาณประทับจิต</DisplayName>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="sys_getnothing">
@@ -10,7 +11,7 @@
 		</Text>
 		<Text Name="sys_brokenneck">
 			<DisplayName>รู้แจ้ง</DisplayName>
-			<Desc>[NAME] จุู่ๆ ก็ได้รับความรู้แจ้งถึงสิ่งหนึ่ง และดูเหมือนว่าสิ่งนั้นจะเป็นวิถีทางการบ่มเพาะบนเส้นทาง[ITS] [IT]ได้รีบนั่งสมาธิอย่างรวดเร็วและคิดทบทวนสิ่งที่เพิ่งได้รู้แจ้งมา</Desc>
+			<Desc>[NAME] đột nhiên giác ngộ điều gì đó, dường như là con đường tu luyện của [ITS]. [IT] vội ngồi thiền để suy ngẫm.</Desc>
 		</Text>
 		<Text Name="sys_openplacelink">
 			<DisplayName>มาถึงเป็นครั้งแรก</DisplayName>
@@ -22,15 +23,15 @@
 		</Text>
 		<Text Name="sys_test">
 			<DisplayName>รู้แจ้ง</DisplayName>
-			<Desc>[NAME] จุู่ๆ ก็ได้รับความรู้แจ้งถึงสิ่งหนึ่ง และดูเหมือนว่าสิ่งนั้นจะเป็นวิถีทางการบ่มเพาะบนเส้นทาง[ITS] [IT]ได้รีบนั่งสมาธิอย่างรวดเร็วและคิดทบทวนสิ่งที่เพิ่งได้รู้แจ้งมา</Desc>
+			<Desc>[NAME] đột nhiên giác ngộ điều gì đó, dường như là con đường tu luyện của [ITS]. [IT] vội ngồi thiền để suy ngẫm.</Desc>
 		</Text>
 		<Text Name="Story_SoulSeach">
 			<DisplayName>ค้นวิญญาณ</DisplayName>
-			<Desc>[NAME] ได้ทำการค้นวิญญาณบนร่างที่กำลังจะตายของผู้ฝึกตน และพยายามที่จะค้นหาข้อมูลที่เป็นประโยชน์ในวิญญาณของพวกเขา</Desc>
+			<Desc>[NAME] lục soát linh hồn tu sĩ sắp chết để tìm thông tin hữu ích.</Desc>
 		</Text>
 		<Text Name="Story_JiangDao">
 			<DisplayName>รู้แจ้งอย่างกระทันหัน</DisplayName>
-			<Desc>[NAME] จมอยู่ในความลึกซึ้งของเต๋า</Desc>
+			<Desc>[NAME] chìm đắm trong sự thâm sâu của Đạo.</Desc>
 		</Text>
 		<Text Name="Story_TitleGold">
 			<DisplayName>แก่นทองคำ</DisplayName>
@@ -54,7 +55,7 @@
 		</Text>
 		<Text Name="System_RobGreateBuilding">
 			<DisplayName>สำคัญของสิ่งมหัศจรรย์</DisplayName>
-			<Desc>[NAME] พยายามจับสาระสำคัญของสิ่งมหัศจรรย์ของเมือง</Desc>
+			<Desc>[NAME] cố gắng nắm bắt tinh hoa của kỳ quan thành phố.</Desc>
 			<Selections.0.Display>จับสาระสำคัญ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
@@ -86,7 +87,7 @@
 		</Text>
 		<Text Name="System_EnterQianKunJie1">
 			<DisplayName>จักรวาลย่อส่วน</DisplayName>
-			<Desc>[NAME] เพียงแค่ตรวจสอบทางเข้า อีกด้านหนึ่งของตราประทับดูเหมือนจะเป็นพื้นที่ว่างเปล่าที่ไม่มีสิ่งมีชีวิตใดๆ เคลื่อนไหว อีกทั้งยังไม่มีสัญญาณอันตรายใดๆ ปรากฏอยู่เลย</Desc>
+			<Desc>[NAME] chỉ kiểm tra lối vào. Bên kia phong ấn dường như là không gian trống rỗng, không có sự sống hay dấu hiệu nguy hiểm nào.</Desc>
 			<Selections.0.Display>เข้าไป</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
@@ -106,18 +107,18 @@
 		</Text>
 		<Text Name="System_Tribute">
 			<DisplayName>บรรณาการ</DisplayName>
-			<Desc>[NAME] ได้มาถึงยัง [PLACE]พร้อมเก็บบรรณาการประจำปี</Desc>
+			<Desc>[NAME] đến [PLACE] để thu cống phẩm hàng năm.</Desc>
 			<Selections.0.Display>เก็บบรรณาการ</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="System_FightMap_UnlockPlant">
 			<DisplayName>เก็บตัวอย่าง</DisplayName>
-			<Desc>[NAME] พยายามที่จะเก็บตัวอย่างจากของชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng lấy mẫu từ vật này.</Desc>
 			<Selections.0.Display>เก็บรวบรวม</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_UnlockBuilding">
 			<DisplayName>สังเกตการณ์</DisplayName>
-			<Desc>[NAME]พยายามเรียนรู้วิธีสร้างสิ่งปลูกสร้างชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng học cách xây dựng kiến trúc này.</Desc>
 			<Selections.0.Display>สังเกตการณ์</Selections.0.Display>
 		</Text>
 		<Text Name="Story_SuperPartItem">

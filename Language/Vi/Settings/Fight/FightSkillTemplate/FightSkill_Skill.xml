@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>ว่าง</DisplayName>
+			<DisplayName>Trống</DisplayName>
 		</Text>
 		<Text Name="TSkillSkill">
-			<DisplayName>เพิ่มพลังปราณเวท</DisplayName>
+			<DisplayName>Tăng uy lực Thuật Pháp</DisplayName>
 		</Text>
 		<Text Name="SkillSkill_Gong10_1">
-			<DisplayName>ประกายแสงตะวัน</DisplayName>
+			<DisplayName>Thái Dương Quang</DisplayName>
 		</Text>
 	</List>
 </Texts>

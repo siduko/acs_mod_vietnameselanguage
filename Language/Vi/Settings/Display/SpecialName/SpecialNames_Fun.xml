@@ -1,52 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
 <SpecialNames>
 	<List>
 		<SpecialItem Name="Item_FunPainting">
 			<None>
-				<li Name="ดนตรีชาววัง" Desc=""></li>
-				<li Name="นักเดินทางท่ามกลางขุนเขาและลำธาร" Desc=""></li>
-				<li Name="ต้นฤดูใบไม้ผลิ" Desc=""></li>
-				<li Name="นกกระทาสีฟ้าและเถาวัลย์หนาม" Desc=""></li>
-				<li Name="นกกางเขนและกระต่าย" Desc=""></li>
-				<li Name="ลมในต้นสนท่ามกลางหุบเขามากมาย" Desc=""></li>
-				<li Name="ต้นสนคู่" Desc=""></li>
+				<li Name="Cung Nhạc Đồ" Desc="" />
+				<li Name="Khê Sơn Hành Lữ Đồ" Desc="" />
+				<li Name="Tảo Xuân Đồ" Desc="" />
+				<li Name="Lam Thước Cức Đằng Đồ" Desc="" />
+				<li Name="Hỷ Thước Thố Đồ" Desc="" />
+				<li Name="Vạn Hác Tùng Phong Đồ" Desc="" />
+				<li Name="Song Tùng Đồ" Desc="" />
 			</None>
 		</SpecialItem>
 		<SpecialItem Name="Item_FunMusic">
 			<None>
-				<li Name="ภูเขาสูงและสายน้ำ" Desc=""></li>
-				<li Name="ทำนองแห่งกวงหลิง" Desc=""></li>
-				<li Name="ท่วงทำนองแห่งชาวประมงกับคนตัดไม้" Desc=""></li>
-				<li Name="สิบแปดทำนองขลุ่ยพยัคฆ์" Desc=""></li>
-				<li Name="หิมะสีขาวในฤดูใบไม้ผลิ" Desc=""></li>
-				<li Name="ห่านป่าลงมาบนสันทราย" Desc=""></li>
-				<li Name="ดนตรียามตะวันลับ" Desc=""></li>
-				<li Name="ซุ่มโจมตีจากทุกด้าน" Desc=""></li>
-				<li Name="พระจันทร์ฤดูใบไม้ร่วงเหนือพระราชวังฮั่น" Desc=""></li>
-				<li Name="ดอกบ๊วยสามสายพันธุ์" Desc=""></li>
+				<li Name="Cao Sơn Lưu Thủy" Desc="" />
+				<li Name="Quảng Lăng Tán" Desc="" />
+				<li Name="Ngư Tiều Vấn Đáp" Desc="" />
+				<li Name="Hồ Già Thập Bát Phách" Desc="" />
+				<li Name="Dương Xuân Bạch Tuyết" Desc="" />
+				<li Name="Bình Sa Lạc Nhạn" Desc="" />
+				<li Name="Tịch Dương Tiêu Cổ" Desc="" />
+				<li Name="Thập Diện Mai Phục" Desc="" />
+				<li Name="Hán Cung Thu Nguyệt" Desc="" />
+				<li Name="Mai Hoa Tam Lộng" Desc="" />
 			</None>
 		</SpecialItem>
 		<SpecialItem Name="Item_FunChess">
 			<None>
-				<li Name="หัวใจและโลหิต" Desc=""></li>
-				<li Name="เส้นทางสู่เสฉวน" Desc=""></li>
-				<li Name="ถ้วยรางวัลเทวะ" Desc=""></li>
-				<li Name="ศาลหยุนฉีเฉิงเซีย" Desc=""></li>
-				<li Name="พระจันทร์แห่งฤดูใบไม้ร่วงเหนือทะเลสาบอันเงียบสงบ" Desc=""></li>
-				<li Name="โบยบินสู่ดวงจันทร์" Desc=""></li>
-				<li Name="ดวงดาราในเมฆา" Desc=""></li>
-				<li Name="เจดีย์ระฟ้า" Desc=""></li>
-				<li Name="มังกรเกิดใหม่" Desc=""></li>
-				<li Name="ล้อมจับปีศาจ" Desc=""></li>
-				<li Name="ภาพประกอบแห่งชีวิตนิรันดร์" Desc=""></li>
-				<li Name="รูปแบบแห่งเซียน" Desc=""></li>
-				<li Name="รูปแบบแห่งแสงทองคำ" Desc=""></li>
-				<li Name="รูปแบบแห่งพรเทวะ" Desc=""></li>
-				<li Name="รูปแบบแห่งจิตกระจ่าง" Desc=""></li>
-				<li Name="รูปแบบแห่งสวรรค์กระจ่าง" Desc=""></li>
-				<li Name="รูปแบบแห่งจุติสวรรค์" Desc=""></li>
-				<li Name="รูปแบบแห่งน้ำกลางทะเลทราย" Desc=""></li>
-				<li Name="รูปแบบแห่งความเที่ยงแท้" Desc=""></li>
-				<li Name="รูปแบบแห่งการเผชิญของเซียน" Desc=""></li>
+				<li Name="Âu Huyết Phổ" Desc="" />
+				<li Name="Thục Đạo Phổ" Desc="" />
+				<li Name="Thần Bôi" Desc="" />
+				<li Name="Vân Khởi Thừa Hạ" Desc="" />
+				<li Name="Bình Hồ Thu Nguyệt" Desc="" />
+				<li Name="Bôn Nguyệt" Desc="" />
+				<li Name="Vân Trung Tinh" Desc="" />
+				<li Name="Trùng Tiêu Tháp" Desc="" />
+				<li Name="Tái Sinh Long" Desc="" />
+				<li Name="Vi Yêu" Desc="" />
+				<li Name="Trường Sinh Đồ" Desc="" />
+				<li Name="Tiên Nhân Cuộc" Desc="" />
+				<li Name="Kim Quang Cuộc" Desc="" />
+				<li Name="Thiên Hựu Cuộc" Desc="" />
+				<li Name="Minh Tâm Cuộc" Desc="" />
+				<li Name="Thiên Minh Cuộc" Desc="" />
+				<li Name="Thiên Giáng Cuộc" Desc="" />
+				<li Name="Thủy Sa Mạc" Desc="" />
+				<li Name="Chân Chính Cuộc" Desc="" />
+				<li Name="Tiên Nhân Đối Dịch" Desc="" />
 			</None>
 		</SpecialItem>
 	</List>

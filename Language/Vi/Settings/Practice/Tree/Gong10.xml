@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong10_a0">
@@ -49,7 +50,7 @@
 			<DisplayName>ประกายแสงตะวัน</DisplayName>
 		</Text>
 		<Text Name="Gong10_c7">
-			<DisplayName>คาถากายามั่นคง</DisplayName>
+			<DisplayName>คาถาThể chấtมั่นคง</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0">
 			<DisplayName>พายุลมร้อน</DisplayName>
@@ -58,10 +59,10 @@
 			<DisplayName>อาณาเขตเทพอัคคีเก้าตะวัน</DisplayName>
 		</Text>
 		<Text Name="Gong10_d1">
-			<DisplayName>กำเนิดสายธารชีพ</DisplayName>
+			<DisplayName>Sinh Mệnh Chi Nguyên</DisplayName>
 		</Text>
 		<Text Name="Gong10_d2">
-			<DisplayName>ชะล้างไขกระดูก</DisplayName>
+			<DisplayName>ชะล้างไขXương</DisplayName>
 		</Text>
 		<Text Name="Gong10_d3">
 			<DisplayName>ไฟสวรรค์กระจ่างใจ</DisplayName>
@@ -73,7 +74,7 @@
 			<DisplayName>ปราณอัคคี</DisplayName>
 		</Text>
 		<Text Name="Gong10_d5_1">
-			<DisplayName>กายาอัคคีเที่ยงแท้</DisplayName>
+			<DisplayName>Chân Hỏa Thể</DisplayName>
 		</Text>
 		<Text Name="Gong10_d7">
 			<DisplayName>ทำนองไฟสวรรค์</DisplayName>

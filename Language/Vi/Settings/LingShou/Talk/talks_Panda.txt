@@ -1,22 +1,22 @@
 talk	notarget	int	string	float	thing
-BabySleep1	ซิวซิวต้องการนอน				
-BabySleep2	ซิวซิวรู้สึกเหนื่อย				
-BabySleep3	ซิวซิวกำลังจะไปนอน				
-BabyPandaTalk	ซิวซิวพัฒนาขึ้นอีกแล้ว				
-BabySilly	ซิวซิวต้องการเล่นกับเซียนเซียน				
-BabyFollow1	เดินตามเซียนเซียน				
-BabyFollow2	ไปหาเซียนเซียน				
-Roll	กลิ้งและกลิ้ง				
-Chop	ฝึกฝน				
-Happy	มีความสุข				
-PlayBB	ข้าช่างยอดเยี่ยม				
-NotEat_Item_Bamboo	ข้าไม่ต้องการกินไม้ไผ่				ข้าไม่ต้องการกินไม้ไผ่
-NotEat_Item_BambooShoot	ข้าไม่ต้องการกินหน่อไม้ไผ่				ข้าไม่ต้องการกินหน่อไม้ไผ่
-WannaEat_Item_Bamboo	ข้าต้องการกินไม้ไผ่				ข้าต้องการกินไม้ไผ่
-WannaEat_Item_BambooShoot	ข้าต้องการกินหน่อไม้ไผ่				ข้าต้องการกินหน่อไม้ไผ่
-DoTalkEat_Item_Bamboo	ข้ากำลังกินไม้ไผ่				ข้ากำลังกินไม้ไผ่
-DoTalkEat_Item_BambooShoot	ข้ากำลังกินหน่อไม้ไผ่				ข้ากำลังกินหน่อไม้ไผ่
-CantEat_Item_Bamboo	ไม่มีไม้ไผ่ให้กิน				ไม่มีไม้ไผ่ให้กิน
-CantEat_Item_BambooShoot	ไม่มีหน่อไม้ไผ่ให้กิน				ไม่มีหน่อไม้ไผ่ให้กิน
-EatTogether	กินอาหารกับเซียนเซียน
-BabyHelpPlay	เล่นกับพวกเขา				เล่นกับ {0}
+BabySleep1	Tú Tú muốn ngủ				
+BabySleep2	Tú Tú cảm thấy mệt				
+BabySleep3	Tú Tú sắp đi ngủ				
+BabyPandaTalk	Tú Tú lại phát triển rồi				
+BabySilly	Tú Tú muốn chơi với Tiên Tiên				
+BabyFollow1	Đi theo Tiên Tiên				
+BabyFollow2	Đi tìm Tiên Tiên				
+Roll	Lăn và lăn				
+Chop	Tu luyện				
+Happy	Vui vẻ				
+PlayBB	Ta thật tuyệt vời				
+NotEat_Item_Bamboo	Ta không muốn ăn tre trúc				Ta không muốn ăn tre trúc
+NotEat_Item_BambooShoot	Ta không muốn ăn măng trúc				Ta không muốn ăn măng trúc
+WannaEat_Item_Bamboo	Ta muốn ăn tre trúc				Ta muốn ăn tre trúc
+WannaEat_Item_BambooShoot	Ta muốn ăn măng trúc				Ta muốn ăn măng trúc
+DoTalkEat_Item_Bamboo	Ta đang ăn tre trúc				Ta đang ăn tre trúc
+DoTalkEat_Item_BambooShoot	Ta đang ăn măng trúc				Ta đang ăn măng trúc
+CantEat_Item_Bamboo	Không có tre trúc nào để ăn				Không có tre trúc nào để ăn
+CantEat_Item_BambooShoot	Không có măng trúc nào để ăn				Không có măng trúc nào để ăn
+EatTogether	Ăn cùng Tiên Tiên
+BabyHelpPlay	Chơi với họ				Chơi với {0}

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong1_a0">
@@ -49,7 +50,7 @@
 			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
 		</Text>
 		<Text Name="Gong1_c0_1">
-			<DisplayName>กระจกวารี</DisplayName>
+			<DisplayName>Thủy Kính</DisplayName>
 		</Text>
 		<Text Name="Gong1_c1">
 			<DisplayName>ลมหายใจวิญญาณ</DisplayName>
@@ -70,7 +71,7 @@
 			<DisplayName>หัวใจมหาสมุทร</DisplayName>
 		</Text>
 		<Text Name="Gong1_c9">
-			<DisplayName>กายาวารี</DisplayName>
+			<DisplayName>Thủy Thể</DisplayName>
 		</Text>
 		<Text Name="Gong1_c10">
 			<DisplayName>ชีพจรปราณวารี</DisplayName>
@@ -85,7 +86,7 @@
 			<DisplayName>อาณาเขตธารา</DisplayName>
 		</Text>
 		<Text Name="Gong1_d1">
-			<DisplayName>กำเนิดวิญญาณทมิฬ</DisplayName>
+			<DisplayName>Hắc Hồn Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong1_d5">
 			<DisplayName>ปราณบรรจบ</DisplayName>

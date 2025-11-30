@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
@@ -10,15 +11,15 @@
 		</Text>
 		<Text Name="Distrust">
 			<DisplayName>ปิดกั้นตนเอง</DisplayName>
-			<Desc>[IT]ไม่เชื่อในรักแท้และไม่ไว้ใจใครทั้งนั้น</Desc>
+			<Desc>[IT] không tin vào tình yêu đích thực và không tin tưởng ai cả.</Desc>
 		</Text>
 		<Text Name="Enthusiasm">
 			<DisplayName>เป็นกันเอง</DisplayName>
-			<Desc>[IT]เป็นมิตรกับทุกคนเป็นอย่างมาก</Desc>
+			<Desc>[IT] rất thân thiện với mọi người.</Desc>
 		</Text>
 		<Text Name="BeReceived">
 			<DisplayName>เป็นที่รัก</DisplayName>
-			<Desc>[HENAME] นั้นมีเสน่ห์ดึงดูดเป็นอย่างมากและได้รับการตอบรับอันดีจากผู้อื่นเสมอมา</Desc>
+			<Desc>[HENAME] rất quyến rũ và luôn được mọi người yêu mến</Desc>
 		</Text>
 		<Text Name="BeTrueMan">
 			<DisplayName>รอบรู้</DisplayName>
@@ -26,15 +27,15 @@
 		</Text>
 		<Text Name="Loyal">
 			<DisplayName>สง่างาม</DisplayName>
-			<Desc>[HENAME] เป็นคนที่ยึดถือคุณธรรมเป็นอย่างมากและเป็นสหายที่ดีของคนรอบตัว</Desc>
+			<Desc>[HENAME] rất coi trọng đạo đức và là bạn tốt của mọi người</Desc>
 		</Text>
 		<Text Name="BeiGuoXia">
 			<DisplayName>แพะรับบาป</DisplayName>
-			<Desc>[HENAME] มักจะแบกรับความผิดของผู้อื่นอยู่เสมอ นี่จึงทำให้ได้รับความรักจากเพื่อนฝูง</Desc>
+			<Desc>[HENAME] thường gánh tội thay người khác nên được bạn bè yêu mến</Desc>
 		</Text>
 		<Text Name="DongShiZhang">
 			<DisplayName>ผู้นำ</DisplayName>
-			<Desc>[HENAME] นั้นมีศักยภาพในการเป็นผู้นำ!</Desc>
+			<Desc>[HENAME] có tố chất lãnh đạo!</Desc>
 		</Text>
 		<Text Name="HaoShuang">
 			<DisplayName>กล้าหาญ</DisplayName>
@@ -42,7 +43,7 @@
 		</Text>
 		<Text Name="BeginTogether">
 			<DisplayName>รักอิสระ</DisplayName>
-			<Desc>[HENAME] นั้นรักอิสระเป็นอย่างมาก [ENHIM2]เป็นคนง่ายๆ สบายๆ ดุจดั่งสายลม</Desc>
+			<Desc>[HENAME] rất yêu tự do, [ENHIM2] phóng khoáng như cơn gió</Desc>
 		</Text>
 		<Text Name="Charisma0">
 			<Desc>เสน่ห์ความชื่นชอบ 0</Desc>
@@ -56,7 +57,7 @@
 		<Text Name="Charisma1">
 			<Desc>เสน่ห์ความชื่นชอบ 1</Desc>
 			<Layers.0.DisplayName>คนเสแสร้ง</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] เป็นคนหลอกลวงที่มักจะทำตัวสูงส่งและทรงพลัง</Layers.0.Desc>
+			<Layers.0.Desc>[HENAME] là kẻ lừa đảo hay tỏ ra cao sang quyền quý</Layers.0.Desc>
 			<Layers.1.DisplayName>มีมารยาท</Layers.1.DisplayName>
 			<Layers.1.Desc>ดูเหมือนว่า [HENAME] นั้นจะเป็นคนดีคนหนึ่ง</Layers.1.Desc>
 			<Layers.2.DisplayName>มีน้ำใจ</Layers.2.DisplayName>
@@ -65,59 +66,59 @@
 		<Text Name="Charisma2">
 			<Desc>เสน่ห์ความชื่นชอบ 2</Desc>
 			<Layers.0.DisplayName>มีคุณธรรมสูง</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] นั้นเป็นบุคคลที่มีคุณธรรมเป็นอย่างมาก</Layers.0.Desc>
+			<Layers.0.Desc>[HENAME] là người rất có đạo đức</Layers.0.Desc>
 			<Layers.1.DisplayName>ห้าวหาญ</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] เป็นที่ห้าวหาญและมีคุณธรรมอันสูงส่ง</Layers.1.Desc>
+			<Layers.1.Desc>[HENAME] hào hiệp và có phẩm chất cao quý</Layers.1.Desc>
 			<Layers.2.DisplayName>ฉายแสงดุจตะวัน</Layers.2.DisplayName>
 			<Layers.2.Desc>การได้ร่วมงานกับ [HENAME] เป็นเรื่องที่น่ายินดีจริงๆ พวกเขาได้รับความอบอุ่นดุจดั่งอยู่ท่ามกลางแสงของตะวันในฤดูหนาว</Layers.2.Desc>
 		</Text>
 		<Text Name="Relative">
-			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+			<Desc>[HENAME] là [TXT] của ta</Desc>
 		</Text>
 		<Text Name="Practice">
-			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+			<Desc>[HENAME] là [TXT] của ta</Desc>
 		</Text>
 		<Text Name="PracticeOther">
-			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+			<Desc>[HENAME] là [TXT] của ta</Desc>
 		</Text>
 		<Text Name="Family">
-			<Desc>[HENAME] นั้นคือ[TXT]ของข้า</Desc>
+			<Desc>[HENAME] là [TXT] của ta</Desc>
 		</Text>
 		<Text Name="Friend">
 			<Desc>ระดับของมิตรภาพ 2</Desc>
 			<Layers.0.DisplayName>สหาย</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] เป็นสหายของข้า แม้ว่าพวกข้าจะมีปัญหากันในบางครั้งก็ตาม</Layers.0.Desc>
+			<Layers.0.Desc>[HENAME] là bạn của ta, dù đôi khi chúng ta có xích mích</Layers.0.Desc>
 			<Layers.1.DisplayName>สหายที่ดี</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] เป็นเพื่อนที่ดีของข้า</Layers.1.Desc>
+			<Layers.1.Desc>[HENAME] là bạn tốt của ta</Layers.1.Desc>
 			<Layers.2.DisplayName>สหายร่วมเป็นร่วมตาย</Layers.2.DisplayName>
-			<Layers.2.Desc>[HENAME] นั้นเป็นสหายร่วมเป็นร่วมตายของข้า</Layers.2.Desc>
+			<Layers.2.Desc>[HENAME] là bạn sinh tử của ta</Layers.2.Desc>
 		</Text>
 		<Text Name="Scar">
 			<DisplayName>รอยแผลเป็น</DisplayName>
-			<Desc>[HENAME] มีรอยแผลเป็นที่น่ารังเกียจอยู่บนใบหน้า</Desc>
+			<Desc>[HENAME] có vết sẹo xấu xí trên mặt</Desc>
 		</Text>
 		<Text Name="Fancy">
 			<DisplayName>เสน่ห์ดึงดูด</DisplayName>
 			<Desc>เสน่ห์ดึงดูด</Desc>
 			<Layers.0.DisplayName>เสน่ห์ดึงดูด</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME]... *เฮ้อ*</Layers.0.Desc>
+			<Layers.0.Desc>[HENAME]... *Haizz*</Layers.0.Desc>
 			<Layers.1.DisplayName>เสน่ห์ดึงดูด</Layers.1.DisplayName>
 		</Text>
 		<Text Name="Lover">
 			<DisplayName>คนรัก</DisplayName>
-			<Desc>[HENAME] นั้นเป็นคนรักของข้า</Desc>
+			<Desc>[HENAME] là người yêu của ta</Desc>
 		</Text>
 		<Text Name="VisceralScar">
 			<DisplayName>รอยแผลอันน่ากลัว</DisplayName>
-			<Desc>[HENAME] มีรอยแผลเป็นที่น่ากลัวอยู่บนร่างกายและมันรู้สึกว่าคงจะเจ็บน่าดูเมื่อมองไป</Desc>
+			<Desc>[HENAME] có vết sẹo đáng sợ trên cơ thể, nhìn thôi đã thấy đau</Desc>
 		</Text>
 		<Text Name="Evilfaced">
 			<DisplayName>ขี้เหร่</DisplayName>
-			<Desc>[HENAME] เป็นคนที่น่าเกลียดและรู้สึกเสียสายตาเมื่อมองไป</Desc>
+			<Desc>[HENAME] rất xấu xí, nhìn vào thật đau mắt</Desc>
 		</Text>
 		<Text Name="BeautifulFace">
 			<DisplayName>รูปงาม</DisplayName>
-			<Desc>[HENAME] นั้นเป็นคนรูปงาม ผู้คนต่างก็มีความสุขเมื่อได้มองไป</Desc>
+			<Desc>[HENAME] dung mạo xuất chúng, ai nhìn cũng thấy vui vẻ</Desc>
 		</Text>
 		<Text Name="Cruel">
 			<DisplayName>ก้าวร้าว</DisplayName>
@@ -246,11 +247,11 @@
 		</Text>
 		<Text Name="AmuseME">
 			<DisplayName>หัวเราะเยาะ</DisplayName>
-			<Desc>[HENAME] หัวเราะเยาะออกมา</Desc>
+			<Desc>[HENAME] cười nhạo</Desc>
 		</Text>
 		<Text Name="PersonalEnemy">
 			<DisplayName>เกลียดชัง</DisplayName>
-			<Desc>[HENAME] ได้สังหาร [TXT]</Desc>
+			<Desc>[HENAME] đã giết [TXT]</Desc>
 		</Text>
 		<Text Name="MagicBad">
 			<DisplayName>ได้รับบาดเจ็บ</DisplayName>
@@ -262,9 +263,9 @@
 		</Text>
 		<Text Name="BeDeclaration">
 			<Layers.0.DisplayName>สารภาพความรู้สึก</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] ได้สารภาพความรู้สึกที่มีต่อข้า ฮ่าฮ่าฮ่า</Layers.0.Desc>
+			<Layers.0.Desc>[HENAME] đã tỏ tình với ta, hahaha</Layers.0.Desc>
 			<Layers.1.DisplayName>สารภาพความรู้สึก</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] ได้สารภาพความรู้สึกที่มีต่อข้า ข้ารู้สึกว่าหัวใจของข้าเต้นแรงผิดปกติ</Layers.1.Desc>
+			<Layers.1.Desc>[HENAME] đã tỏ tình với ta, ta thấy tim đập nhanh bất thường</Layers.1.Desc>
 		</Text>
 		<Text Name="Favour_School_FiveTangZhu">
 			<DisplayName>เหยียดหยัน</DisplayName>
@@ -272,11 +273,11 @@
 		</Text>
 		<Text Name="Favour_School_ZhangMen">
 			<DisplayName>เจ้าสำนัก</DisplayName>
-			<Desc>[HENAME] คือเจ้าสำนักของพวกข้า</Desc>
+			<Desc>[HENAME] là Chưởng Môn của chúng ta</Desc>
 		</Text>
 		<Text Name="Favour_School_TangZhu">
 			<DisplayName>หัวหน้าสาขา</DisplayName>
-			<Desc>[HENAME] คือหัวหน้าสาขาของพวกข้า</Desc>
+			<Desc>[HENAME] là Phân Đà Chủ của chúng ta</Desc>
 		</Text>
 	</List>
 </Texts>

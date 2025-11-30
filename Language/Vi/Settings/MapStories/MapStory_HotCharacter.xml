@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="HotStory_Fun_LingWu">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 			<Selections.1.Display>ได้รับความรู้ความเข้าใจ</Selections.1.Display>
 		</Text>
@@ -13,37 +14,37 @@
 		</Text>
 		<Text Name="HotStory_Make_LingWu">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingGan">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu_Feed">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingFailed">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingSucceed">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_LingWu">
 			<DisplayName>ความรู้ความเข้าใจ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของบางสิ่ง!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về điều gì đó!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Brokening">
@@ -58,12 +59,12 @@
 		</Text>
 		<Text Name="HotStory_Practice_BrokenFailed">
 			<DisplayName>วิญญาณรู้แจ้ง</DisplayName>
-			<Desc>[NAME] ถึงแม้ว่า [NAME] จะไม่สามารถทะลวงขอบเขตได้ ทว่า[ENHIM]กลับพบความรู้บางอย่างจากกฎแห่งสวรรค์และโลก</Desc>
+			<Desc>Dù [NAME] không thể đột phá cảnh giới, nhưng [ENHIM] lại ngộ ra điều gì đó từ quy luật thiên địa.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Golding">
 			<DisplayName>วิญญาณรู้แจ้งแห่งแก่นทองคำ</DisplayName>
-			<Desc>[NAME] ได้เข้าสู่สภาวะสมาธิคนฟ้ารวมหนึ่งในระหว่างที่กำลังผนึกสร้างแก่นทองคำ</Desc>
+			<Desc>[NAME] nhập định Thiên Nhân Hợp Nhất khi kết Đan.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_GoldSucceed">
@@ -72,33 +73,33 @@
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_ThunderSucceed">
-			<DisplayName>Tribulation วิญญาณรู้แจ้ง</DisplayName>
-			<Desc>[NAME] สามารถผ่านทัณฑ์สวรรค์มาได้และได้รับความรู้แจ้งบางอย่างเกี่ยวกับเต๋า</Desc>
+			<DisplayName>Thiên Kiếp: Nguyên Thần</DisplayName>
+			<Desc>[NAME] vượt qua thiên kiếp và ngộ ra chút ít về Đạo.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDan">
 			<DisplayName>วิญญาณรู้แจ้งแก่นแท้โอสถ</DisplayName>
-			<Desc>[NAME] ได้ปลุกสภาวะวิญญาณรู้แจ้งในขณะที่กำลังทำการหลอมโอสถ</Desc>
+			<Desc>[NAME] thức tỉnh trạng thái Giác Ngộ khi đang luyện Đan.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDanFailed">
 			<DisplayName>วิญญาณรู้แจ้งแก่นแท้โอสถ</DisplayName>
-			<Desc>[NAME] ทำการหลอมโอสถล้มเหลวทว่า[ENHIM]กลับได้เรียนรู้ถึงส่วนหนึ่งของแก่นแท้ในการหลอมโอสถ</Desc>
+			<Desc>[NAME] luyện Đan thất bại nhưng lại ngộ ra một phần tinh túy của việc luyện Đan.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Refining">
 			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
-			<Desc>[NAME] ได้ปลุกสภาวะวิญญาณรู้แจ้งในขณะที่กำลังทำการหลอมอาวุธวิเศษ</Desc>
+			<Desc>[NAME] thức tỉnh trạng thái Giác Ngộ khi đang luyện Pháp Bảo.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningGod">
 			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
-			<Desc>[NAME] เข้าใจถึงแนวคิดเชิงลึกของการหลอมอาวุธวิเศษ!</Desc>
+			<Desc>[NAME] đã hiểu sâu sắc về việc luyện Pháp Bảo!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningFailed">
 			<DisplayName>วิญญาณรู้แจ้งแก่นแท้การหลอมอาวุธวิเศษ</DisplayName>
-			<Desc>[NAME] ทำการหลอมอาวุธวิเศษล้มเหลวทว่า[ENHIM]กลับได้เรียนรู้ถึงส่วนหนึ่งของแก่นแท้ในการหลอมอาวุธวิเศษ</Desc>
+			<Desc>[NAME] luyện Pháp Bảo thất bại nhưng lại ngộ ra một phần tinh túy của việc luyện Pháp Bảo.</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Fei_LingWu">

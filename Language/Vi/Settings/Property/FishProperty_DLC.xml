@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="FishTimes">
 			<DisplayName>ปริมาณการตกปลา</DisplayName>
-			<DisplayValue>{0} ตัว</DisplayValue>
+			<DisplayValue>{0} con</DisplayValue>
 			<Desc>จำนวนปลาที่ผู้ฝึกตนรายนี้ตกด้</Desc>
 		</Text>
 		<Text Name="HeaviestFish">
 			<DisplayName>ปลาที่หนักที่สุด</DisplayName>
-			<DisplayValue>{0:f1} ชั่ง</DisplayValue>
+			<DisplayValue>{0:f1} cân</DisplayValue>
 			<Desc>น้ำหนักของปลาที่หนักที่สุดที่ผู้ฝึกตนรายนี้จับได้</Desc>
 		</Text>
 	</List>

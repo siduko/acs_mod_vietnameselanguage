@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="NpcFight_SneakValue">
-			<DisplayName>การซ่อนตัว</DisplayName>
+			<DisplayName>Ẩn Thân</DisplayName>
 			<Desc>ขอบเขตที่ตัวละครถูกซ่อนไว้ขณะซ่อนตัว ยิ่งตัวเลขนี้มากเท่าไหร่ก็ยิ่งยากต่อการตรวจจับตัวละครเท่านั้น</Desc>
 			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
 		</Text>
@@ -34,13 +35,13 @@
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficient">
 			<DisplayName>ระดับของสภาวะจิตที่มั่นคง</DisplayName>
-			<Desc>ความเร็วในการเปลี่ยนแปลงสภาวะจิตของศิษย์สายใน</Desc>
+			<Desc>ความเร็วในBiến Đổiสภาวะจิตของศิษย์สายใน</Desc>
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>อารมณ์ส่งผลต่อความเร็วในการเปลี่ยนแปลงสภาวะจิต</DisplayName>
+			<DisplayName>อารมณ์ส่งผลต่อความเร็วในBiến Đổiสภาวะจิต</DisplayName>
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
-			<DisplayName>อารมณ์ส่งผลต่อความเร็วในการเปลี่ยนแปลงสภาวะจิต</DisplayName>
+			<DisplayName>อารมณ์ส่งผลต่อความเร็วในBiến Đổiสภาวะจิต</DisplayName>
 		</Text>
 		<Text Name="InspirationCoefficient">
 			<DisplayName>อัตราความเร็วในการทำความเข้าใจเกี่ยวกับสิงต่างๆ</DisplayName>
@@ -120,7 +121,7 @@
 		</Text>
 		<Text Name="WorldMapFlySpeed">
 			<DisplayName>ความเร็วบินในการผจญภัย</DisplayName>
-			<DisplayValue>{0:N1} กม/ปราณ</DisplayValue>
+			<DisplayValue>{0:N1} km/Linh Khí</DisplayValue>
 			<Desc>ความเร็วบินสูงสุดในการผจญภัย</Desc>
 			<FunctionKind>ค่าสถานะพื้นฐาน</FunctionKind>
 		</Text>
@@ -135,7 +136,7 @@
 		</Text>
 		<Text Name="NeckCountdownAddV">
 			<DisplayName>ระยะเวลาที่ยืดออกในการทะลวงขอบเขต</DisplayName>
-			<DisplayValue>{0:N0} วินาที</DisplayValue>
+			<DisplayValue>{0:N0} giây</DisplayValue>
 			<Desc>เวลาที่เหลือเพื่อดำเนินการการทะลวงขอบเขต</Desc>
 		</Text>
 		<Text Name="EsotericaNum">
@@ -164,7 +165,7 @@
 		</Text>
 		<Text Name="NutritionWaterAutoRecover">
 			<DisplayName>ประสืทธิภาพการดูดซับปราณ</DisplayName>
-			<DisplayValue>{0:N2}/วิ</DisplayValue>
+			<DisplayValue>{0:N2}/s</DisplayValue>
 			<Desc>ความสามารถในการดูดซับพลังงานโดยตรงจากสวรรค์และโลกเพื่อระงับความหิวและความกระหาย</Desc>
 			<FunctionKind>ค่าสถานะการฝึกตน</FunctionKind>
 		</Text>

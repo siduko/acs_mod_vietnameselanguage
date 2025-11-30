@@ -1,73 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="StarDustLake">
 			<DisplayName>ทะเลสาบแสงดารา</DisplayName>
-			<Desc>"น้ำจากทุกทั่วสารทิศต่างก็มาบรรจบกันที่แห่งนี้เพื่อร่วมกันเป็นหนึ่งก่อนที่จะไหลไปสู่ท้องทะเลอันกว้าง มันเป็นสถานที่ที่เป็นดั่งประตูสู่โลกกว้างที่แม้แต่ทางช้างเผือกมาบรรจบกันที่แห่งนี้ในเวลากลางคืน" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Nước từ khắp nơi đổ về đây, hòa làm một trước khi chảy ra biển lớn. Nơi đây tựa như cửa ngõ ra thế giới rộng lớn, ngay cả Ngân Hà cũng hội tụ về đây khi đêm xuống." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>นโยบาย: ปลดล็อคนโยบายศึกษาเต๋าธรรมชาติ</Effect>
 		</Text>
 		<Text Name="XiuXianCollege">
 			<DisplayName>สถาบันศึกษาเต๋า</DisplayName>
-			<Desc>"การศึกษาต้องเลือกสถานที่ที่เงียบสงบและห่างไกลอยู่เสมอ เพื่อที่ว่าถึงแม้เหล่าศิษย์จะรู้สึกเบื่อหน่ายแต่พวกเขาเหล่านั้นก็ไม่อาจหนีไปไหนได้" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Việc học tập luôn cần chọn những nơi yên tĩnh và hẻo lánh, để dù đệ tử có chán nản đến đâu thì cũng không thể trốn đi đâu được." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>วัตถุดิบการก่อสร้างลดลง 20%</Effect>
 		</Text>
 		<Text Name="HugeToolCabin">
 			<DisplayName>เจดีย์แห่งปัญญา</DisplayName>
-			<Desc>"เจดีย์แห่งปัญญานั้นไม่ใช่สถานที่ธรรมดาทั่วๆ ไป แต่ละสาขาแต่ละแผนกจะสามารถทำงานด้วยตัวของเองและสิ่งที่ได้ออกมานั้นก็ยอดเยี่ยมเกินจินตนาการ หากใช้มันในการผลิตสิ่งทอ ท่านจะได้เสื้อผ้าสวมใส่ที่แสนจะสบาย หรือถ้าหากว่าใช้มันในการหลอมอาวุธ ท่านก็จะได้ดาบที่สามารถตัดได้แม้กระทั่งเพชร" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Tháp Trí Tuệ không phải nơi tầm thường. Mỗi chi nhánh, mỗi bộ phận đều có thể tự vận hành và tạo ra những sản phẩm tuyệt vời ngoài sức tưởng tượng. Nếu dùng để dệt vải, bạn sẽ có những bộ quần áo cực kỳ thoải mái. Hoặc nếu dùng để rèn vũ khí, bạn sẽ có được thanh kiếm chém sắt như chém bùn." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>หุ่นเชิดสองตัว</Effect>
 		</Text>
 		<Text Name="CelestialCommercial">
 			<DisplayName>หอการค้าเมฆขาว</DisplayName>
-			<Desc>"หอการค้าแห่งนี้ตั้งอยู่บนภูเขาซึ่งได้รับการปกป้องโดยค่ายกลป้องกันขนาดใหญ่และทรงพลังอย่างถึงที่สุด(ข้าเองก็ไม่ทรายบว่าทำไมสำนักอื่นๆ ทิ้งไม่มีค่ายกลรูปแบบนี้เอาไว้ใช้งาน) อีกทั้งสถานที่แห่งนี้ยังเป็นศูนย์กลางในการติดต่อค้าขายกันระหว่างผู้ฝึกตนอีกด้วย" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Thương hội này tọa lạc trên núi, được bảo vệ bởi một trận pháp phòng thủ khổng lồ và cực kỳ mạnh mẽ (ta cũng không hiểu sao các môn phái khác lại không dùng loại trận pháp này). Hơn nữa, nơi đây còn là trung tâm giao thương giữa các tu sĩ." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>สามารถซื้อสิ่งของจากพ่อค้าหรือสำนักอื่นๆ ด้วยส่วนลด 20%</Effect>
 		</Text>
 		<Text Name="GreenBrothel">
 			<DisplayName>หอหยกขจี</DisplayName>
-			<Desc>"หอหยกขจีนั้นเป็นหอนางโลมที่ตั้งอยู่บนทะเลสาบ ในสายตาของคนธรรมดาทั่วมันก็จะดูเหมือนกับสถานที่พักผ่อนสำหรับชนชั้นสูงเท่านั้น ทว่าในสายตาของผู้ฝึกตน พวกเขาจะรู้ว่าสถายที่แห่งนี้มีบริการพิเศษในการชำระล้างความคิดให้กระจ่างใส บางที่นี่อาจจะเป็นเหตุผลหลักที่เหล่าผู้ฝึกตนต่างก็แวะเวียนมายังที่แหงนี้" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Ngọc Lâu là kỹ viện nằm trên hồ. Trong mắt người thường, nó chỉ là nơi giải trí cho giới thượng lưu. Nhưng trong mắt tu sĩ, họ biết nơi này có dịch vụ đặc biệt giúp thanh lọc tư tưởng. Có lẽ đây là lý do chính khiến các tu sĩ thường xuyên lui tới nơi này." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>อารมณ์ในการผจญภัยดีขึ้น</Effect>
 		</Text>
 		<Text Name="AppTower">
 			<DisplayName>เจดีย์แห่งความสง่างาม</DisplayName>
-			<Desc>"ช่างเป็นคุณธรรมและความดีงามอย่างใหญ่หลวงที่สร้างทางผ่านให้แก่เหล่าทวยเทพ" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Thật là công đức vô lượng khi xây dựng con đường cho các vị thần." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>ผู้ฝึกตนวิถีเทพทั้งหมดจะมีดินแดนเทวะเพิ่มขึ้นมาอีก 1 พื้นที่</Effect>
 		</Text>
 		<Text Name="RiverDam">
 			<DisplayName>เขื่อนแม่น้ำ</DisplayName>
-			<Desc>"ลองคิดดูสิว่าต้องมีทรราชไร้ยางอายกี่รุ่นจึงจะสามารถสิ่งก่อสร้างขนาดมหึมาเช่นนี้ให้เสร็จได้ มันเป็นไปไม่เลยหรือที่เหล่าเซียนจะลงมาและให้ความช่วยเหลือ?" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Thử nghĩ xem cần bao nhiêu đời bạo chúa vô liêm sỉ mới hoàn thành được công trình đồ sộ nhường này? Chẳng lẽ các vị tiên nhân không thể giáng trần giúp đỡ sao?" trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>ผู้ฝึกตนวิถีเทพทั้งหมดจะมีดินแดนเทวะเพิ่มขึ้นมาอีก 1 พื้นที่</Effect>
 		</Text>
 		<Text Name="MountTemple">
 			<DisplayName>เจดีย์ผสานภูผา</DisplayName>
-			<Desc>"เขื่อนพันไมล์อาจพังทลายลงได้หลายความเสียหายเท่ารังมด ทว่ายอดเขาจางและสันเขาหมื่นยอดสามารถรวมกันกลายเป็นฐานที่มั่นที่แข็งแกร่ง มีเพียงผู้มีทักษะ, สติปัญญาและไหวพริบเท่านั้นที่จะสามารถค้นพบวิธีการเช่นนี้ได้" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Đê ngàn dặm có thể vỡ do tổ kiến, nhưng đỉnh núi cao và vạn dặm trường thành có thể hợp lại thành thành trì vững chắc. Chỉ những người có kỹ năng, trí tuệ và sự nhạy bén mới có thể khám phá ra phương pháp này." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>ผู้ฝึกตนวิถีเทพทั้งหมดจะมีดินแดนเทวะเพิ่มขึ้นมาอีก 1 พื้นที่</Effect>
 		</Text>
 		<Text Name="SanQingTemple">
 			<DisplayName>วิหารรัตนตรัย</DisplayName>
-			<Desc>"เหล่าผู้คนต้องการสถานที่สักการะพระรัตนตรัย ทว่ามันเป็นงานที่ยากมากที่จะสร้างสิ่งๆ ขึ้นมาบนดินแดนของมนุษย์" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Con người cần nơi để thờ phụng Tam Bảo, nhưng việc xây dựng một nơi như vậy trên đất của con người là điều vô cùng khó khăn." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>ค่าความสัมพันธ์ระหว่างสำนักทั้งหมดเพิ่มขึ้น 1 หน่วย</Effect>
 		</Text>
 		<Text Name="TreeGrave">
 			<DisplayName>ทะเลไม้ฝังศพ</DisplayName>
-			<Desc>"ทางตอนใต้ของซินเจียง ผู้คนเชื่อว่าต้นไม้นั้นก็เป็นสิ่งมีชีวิตที่เหมือนสัตว์ และจะเป็นการง่ายที่จะดึงดูดความเคียดแค้นคำสาปแช่งจากพวกมันเหล่านั้นถ้าหากไม่จัดพิธีศพให้อย่างเหมาะสม ดังนั้นต้นไม้โบราณที่ตายแล้วจะถูกรวบรวมและแกะสลักให้เป็นรูปร่างของสิ่งมีชีวิต และดูเหมือนว่ารูปแกะสลักเหล่านั้นจะสามารถดูดซับปราณได้อีกด้วย" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Ở phía nam Tân Cương, người ta tin rằng cây cối cũng có sinh mệnh như động vật, và sẽ dễ dàng thu hút oán khí nguyền rủa nếu không được an táng tử tế. Vì vậy, những cây cổ thụ chết sẽ được thu thập và điêu khắc thành hình dạng sinh vật, dường như những bức tượng đó còn có thể hấp thụ linh khí." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>นโยบาย: ปลดล็อคนโยบายศึกษาเต๋าธรรมชาติ</Effect>
 		</Text>
 		<Text Name="GroundAlter">
 			<DisplayName>กระถางปฐพี</DisplayName>
-			<Desc>"ในภูเขาลึกซึ่งยากสำหรับมนุษย์ทั่วไปจะเข้าถึง มีหลุมแปดเหลี่ยมขนาดยักษ์ซึ่งเต็มไปด้วยน้ำตกที่ไหลลงมาจากภูเขา และ ณ ใจกลางที่แห่งนั้นมันมีกระถางขนาดยักษ์ตั้งเอาไว้อยู่ อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Sâu trong núi thẳm nơi người thường khó lòng đặt chân đến, có một hố bát giác khổng lồ với những thác nước đổ xuống từ trên núi. Và ngay tại trung tâm đó, có một chiếc vạc khổng lồ được đặt ở đó." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>นโยบาย: ปลดล็อคนโยบายศึกษาเต๋าธรรมชาติ</Effect>
 		</Text>
 		<Text Name="WaterTemple">
 			<DisplayName>วัดพระสุเมรุ</DisplayName>
-			<Desc>"วัดนี้เปรียบเสมือนเรือที่ถึงแม้ว่ามันจะสั่นคลอน ทว่ากลับรู้สึกปลอดภัยและมั่นคง อดไม่ได้ว่าแท้ที่จริงแล้ววัดแห่งนี้ก็คือเรือที่กำลังลอยล่องอยู่กลางมหาสมุทรรึเปล่า" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Ngôi chùa này tựa như con thuyền, dù chòng chành nhưng lại mang cảm giác an toàn và vững chãi. Không khỏi tự hỏi liệu ngôi chùa này thực chất có phải là con thuyền đang lênh đênh giữa đại dương hay không?" trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>ความเสถียรของค่ายกลเพิ่มขึ้น 20%</Effect>
 		</Text>
 		<Text Name="CelestialPalace">
 			<DisplayName>ตำหนักเมฆาม่วง</DisplayName>
-			<Desc>"ตำหนักเมฆาม่วงนั้นเปรียบดั่งสถานที่ศักดิ์สิทธิ์แห่งสรวงสวรรค์ที่ยากจะเข้าถึง และทุกคนต่างรู้เรื่องนั้นเป็นอย่างดี" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Tử Tiêu Điện tựa như thánh địa thiên thai khó lòng tiếp cận, ai ai cũng biết điều đó." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>ค่าความสัมพันธ์ระหว่างสำนักทั้งหมดเพิ่มขึ้น 1 หน่วย</Effect>
 		</Text>
 		<Text Name="CircleTemple">
 			<DisplayName>วัดหยวนซวน</DisplayName>
-			<Desc>"ดังคำกล่าวที่ว่ายิ่งยิ่งใหญ่ก็ยิ่งมีคนมากขึ้น พื้นที่จัตุรัสของวัดหยวนซวนนั้นมีขนาดกว้างใหญ่ไร้ที่เปรียบ และในแต่ละปีก็จะมีผู้คนมากมายมาเยี่ยมชมสถานที่แห่งนี้" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก'</Desc>
+			<Desc>"Như người ta thường nói, càng lớn thì càng đông. Quảng trường của chùa Huyền Không rộng lớn vô cùng, mỗi năm thu hút vô số người đến thăm viếng." trích từ 'Lục Đạo Chân Giải'</Desc>
 			<Effect>อัตราการได้รับความศรัทธาหรือความเกลียดชังเพิ่มขึ้น 2 เท่า</Effect>
 		</Text>
 		<Text Name="CityMansion">
@@ -77,7 +78,7 @@
 		</Text>
 		<Text Name="RedTombstone">
 			<DisplayName>ป่าศิลาแดง</DisplayName>
-			<Desc>"ป่าศิลาแดงนั้นได้บันทึกอย่างชีวิตของผู้คนมากมาย มันมีทั้งจักรพรรดิ์ตลอดจนไปถึงชาวบ้านตาดำๆ และสิ่งเดียวที่เหมือนกันนั้นก็คือพวกเขาเหล่านั้นล้วนแล้วแต่เป็นผู้ที่เสียชีวิตไปแล้ว" อ้างอิงจาก 'บันทึกแห่งวิถีทั้งหก' "สิ่งที่ถูกบันทึกเอาไว้ในป่าศิลาแดงนั้นคือประวัติศาสตร์อันยาวนาน อารมณ์ทั้งเจ็ดของโลกและความปรารถนานานับประการของมนุษย์ล้วนถูกบันทึกอยู่ในนั้น น่าเสียดายที่ผู้คนไม่สามารถไไม่สามารถก้าวพ้นความปราถนาและความโลภเหล่านั้นได้ สุดท้ายเรื่องราวใหม่ๆ จึงมักจะถูกบันทึกไว้ในนั้นอยู่เสมอ" อ้างอิงจาก 'คัมภีร์แห่งการสร้างสรรค์'</Desc>
+			<Desc>"Rừng Đá Đỏ ghi lại cuộc đời của vô số người, từ bậc đế vương đến thường dân áo vải. Điểm chung duy nhất là họ đều đã khuất." trích từ 'Lục Đạo Chân Giải' "Thứ được ghi lại trong Rừng Đá Đỏ là lịch sử lâu dài. Thất tình lục dục và vô vàn dục vọng của con người đều được khắc ghi trong đó. Đáng tiếc thay, con người không thể vượt qua được những ham muốn và lòng tham đó, khiến những câu chuyện mới luôn được viết tiếp." trích từ 'Tạo Hóa Thiên Thư'</Desc>
 			<Effect>มองทะลุถึงจิตใจของผู้คนและสามารถรับรู้ถึงงานอดิเรกของพวกเขาเหล่านั้นได้ทันที</Effect>
 		</Text>
 	</List>

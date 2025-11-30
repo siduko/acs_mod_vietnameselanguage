@@ -1,47 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Ls_SheildSkill">
-			<DisplayName>โล่วิญญาณ</DisplayName>
+			<DisplayName>Linh Thuẫn</DisplayName>
 		</Text>
 		<Text Name="Ls_TransferQi">
-			<DisplayName>บทสวดภาวนา </DisplayName>
+			<DisplayName>Kỳ Phúc Chú</DisplayName>
 		</Text>
 		<Text Name="Ls_FabaoSkill">
-			<DisplayName>กระบี่เทวะ</DisplayName>
+			<DisplayName>Thiên Kiếm</DisplayName>
 		</Text>
 		<Text Name="Ls_FoxSkillAmp">
-			<DisplayName>เพลิงโลกันต์</DisplayName>
+			<DisplayName>Địa Ngục Hỏa</DisplayName>
 		</Text>
 		<Text Name="Ls_SkillWater">
-			<DisplayName>ธาราอัสนี</DisplayName>
+			<DisplayName>Thủy Lôi</DisplayName>
 		</Text>
 		<Text Name="Ls_SkillWater5">
-			<DisplayName>มหาธาราอัสนี</DisplayName>
+			<DisplayName>Đại Thủy Lôi</DisplayName>
 		</Text>
 		<Text Name="Ls_Fanshi">
-			<DisplayName>โจมตีสวน</DisplayName>
-			<Desc>สร้างความเสียหายจำนวนหนึ่งโดยเกี่ยวข้องกับปริมาณปราณสูงสุดของอาวุธวิเศษของศัตรู รวมทั้งผนึกการใช้งานความสามารถในการใช้งานอาวุธวิเศษในช่วงระยะเวลาหนึ่ง</Desc>
+			<DisplayName>Phản Kích</DisplayName>
+			<Desc>Gây sát thương dựa trên Linh Khí tối đa của Pháp Bảo địch, đồng thời phong ấn khả năng dùng Pháp Bảo trong một thời gian.</Desc>
 		</Text>
 		<Text Name="Ls_Penhuo">
-			<DisplayName>ภูเขาเพลิง</DisplayName>
+			<DisplayName>Hỏa Sơn</DisplayName>
 		</Text>
 		<Text Name="Ls_Ci">
-			<DisplayName>ลำแสงแรงดึงดูด</DisplayName>
+			<DisplayName>Trọng Lực Quang</DisplayName>
 		</Text>
 		<Text Name="Ls_JinThunder">
-			<DisplayName>สายฟ้าเทวะ</DisplayName>
+			<DisplayName>Thần Lôi</DisplayName>
 		</Text>
 		<Text Name="Ls_AddModifier">
-			<DisplayName>โล่เทวะ</DisplayName>
-			<Desc>เพิ่มพลังเกราะปราณของพันธมิตรและคสามแข็งแกร่งของกายาลี้ลับ</Desc>
+			<DisplayName>Thần Thuẫn</DisplayName>
+			<Desc>Tăng Hộ Thể cho đồng minh và độ bền Thân Thể Bí Ẩn.</Desc>
 		</Text>
 		<Text Name="Ls_Confuse">
-			<DisplayName>สับสน</DisplayName>
-			<Desc>ทำให้ศัตรูตกอยู่ในสภาวะสับสนจนไม่สามารถโจมตีหรือเคลื่อนไหวได้ ทว่าศัตรูจะหายจากสภาพนี้เมื่อถูกโจมตี</Desc>
+			<DisplayName>Bối Rối</DisplayName>
+			<Desc>Khiến kẻ địch Bối Rối, không thể tấn công hoặc di chuyển. Trạng thái này mất khi bị tấn công.</Desc>
 		</Text>
 		<Text Name="Ls_Rongduan">
-			<DisplayName>ชนวนระเบิด</DisplayName>
-			<Desc>ใช้พลังของภูเขาไฟเพื่อสร้างความเสียหายให้แก่ศัตรู อีกทั้งยังระงับการร่ายปราณเวทของศัตรเป็นระยะเวลาหนึ่ง</Desc>
+			<DisplayName>Ngòi Nổ</DisplayName>
+			<Desc>Dùng sức mạnh núi lửa gây sát thương cho địch, đồng thời làm gián đoạn thi triển Thuật Pháp của địch trong một thời gian.</Desc>
 		</Text>
 	</List>
 </Texts>

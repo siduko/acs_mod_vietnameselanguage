@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_TaiShi">
@@ -22,10 +23,10 @@
 		<Text Name="Mutation_TaiXu">
 			<DisplayName>ไท้สวี</DisplayName>
 			<Desc>การทะลวงขั้นของศิษย์ในสำนักแต่ละครั้งมีโอกาสกระตุ้นความโกลาหลแห่งสวรรค์หนึ่งครั้ง</Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] เพิ่งเริ่มต้นบนเส้นทางแห่งความเป็นอมตะ กระตุ้นเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] Vừa bước vào con đường tu tiên, kích hoạt Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
 			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>การฝึกฝนของ [NPC] ก้าวหน้าขึ้น กระตุ้นเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] ได้ล่วงรู้ถึงหนทางอันยิ่งใหญ่ ก่อให้เกิดการเคลื่อนไหวที่ผิดปกติในเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] บรรลุเต๋าและได้จุติขึ้นสู่สวรรค์ กระตุ้นความปั่นป่วนในเต๋าสวรรค์ไท้สวี...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] ngộ ra Đại Đạo, gây biến động Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] Đắc đạo phi thăng, gây chấn động Thái Hư Thiên Đạo...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXuan">
 			<DisplayName>ไท้เสวียน</DisplayName>

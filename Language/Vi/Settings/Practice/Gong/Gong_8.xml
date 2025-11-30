@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_8_Jin">
@@ -18,10 +19,10 @@
 			<Stages.4.DisplayName>ตาชั่งสวรรค์</Stages.4.DisplayName>
 			<Stages.4.Necks.0.DisplayName>ตาชั่งสวรรค์</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.4.Necks.0.Desc>
-			<Stages.5.DisplayName>กระจ่างสวรรค์</Stages.5.DisplayName>
+			<Stages.5.DisplayName>Thâu Thiên</Stages.5.DisplayName>
 			<Stages.5.Necks.0.DisplayName>ขยายขอบเขต</Stages.5.Necks.0.DisplayName>
-			<Stages.5.Necks.1.DisplayName>กระจ่างสวรรค์</Stages.5.Necks.1.DisplayName>
-			<Stages.5.Necks.1.Desc>ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง</Stages.5.Necks.1.Desc>
+			<Stages.5.Necks.1.DisplayName>Thâu Thiên</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>ด้วยDung Hợpจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง</Stages.5.Necks.1.Desc>
 			<Stages.6.DisplayName>แสงสวรรค์</Stages.6.DisplayName>
 			<Stages.6.Necks.0.DisplayName>แสงสวรรค์</Stages.6.Necks.0.DisplayName>
 			<Stages.6.Necks.0.Desc>ละทิ้งกายหยาบไว้เบื้องหลังและจุติขึ้นสู๋แดนสวรรค์เบื้องบน</Stages.6.Necks.0.Desc>

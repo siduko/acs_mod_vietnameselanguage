@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Xiongfeng_penhuo">
-			<DisplayName>ภูเขาเพลิง</DisplayName>
+			<DisplayName>Hỏa Sơn</DisplayName>
 		</Text>
 		<Text Name="Jiaolong_fennuhuodan">
-			<DisplayName>ระเบิดอัคคี</DisplayName>
+			<DisplayName>Hỏa Bạo</DisplayName>
 		</Text>
 		<Text Name="Xiongfeng_penhuoaoe">
-			<DisplayName>ภูเขาเพลิงกัลป์</DisplayName>
+			<DisplayName>Liệt Hỏa Sơn</DisplayName>
 		</Text>
 	</List>
 </Texts>

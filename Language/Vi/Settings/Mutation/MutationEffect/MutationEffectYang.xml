@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
@@ -26,7 +27,7 @@
 			<Effects.0.SpecialAbilities.8.Desc>ทักษะการป้องกันเพิ่มขึ้น 10</Effects.0.SpecialAbilities.8.Desc>
 			<Effects.0.SpecialAbilities.9.Desc>เมื่อผู้ใช้ตาย มันจะแตกสลาย สามารถฝืนชะตาคืนชีพและฟื้นฟูทุกบาดแผล</Effects.0.SpecialAbilities.9.Desc>
 			<Effects.0.SpecialAbilities.10.Desc>ยิ่งผู้ใช้ใกล้ถึงอายุขัยสูงสุดมากเท่าไร อาวุธวิเศษจะทรงพลังมากขึ้นเท่านั้น</Effects.0.SpecialAbilities.10.Desc>
-			<Effects.0.SpecialAbilities.11.Desc>10% ของความเสียหายที่สร้าง จะถูกเติมกลับเข้าสู่ปราณของอาวุธวิเศษ</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% sát thương gây ra chuyển hóa thành Linh Khí của Pháp Bảo</Effects.0.SpecialAbilities.11.Desc>
 			<Effects.0.SpecialAbilities.12.Desc>ทุกการโจมตี 7 ครั้ง จะสร้างเงาร่างกระบี่ที่คงอยู่เป็นเวลา 7 วินาที</Effects.0.SpecialAbilities.12.Desc>
 			<Effects.0.SpecialAbilities.13.Desc>ทักษะเวทเพิ่มขึ้น 10</Effects.0.SpecialAbilities.13.Desc>
 			<Effects.0.SpecialAbilities.14.Desc>เพิ่มความเสียหายต่อเป้าหมายธาตุไม้ 100%</Effects.0.SpecialAbilities.14.Desc>

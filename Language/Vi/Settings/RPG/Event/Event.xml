@@ -1,44 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Initialize">
-			<DisplayName>เริ่มต้น</DisplayName>
+			<DisplayName>Khởi đầu</DisplayName>
 		</Text>
 		<Text Name="StayInTrap">
-			<DisplayName>อยู่ในจุดกับดัก</DisplayName>
-			<PDisplayName>เวลาที่อยู่ (วิ)</PDisplayName>
+			<DisplayName>Ở trong điểm bẫy</DisplayName>
+			<PDisplayName>Thời gian ở (giây)</PDisplayName>
 		</Text>
 		<Text Name="EnterTrap">
-			<DisplayName>เข้าไปในจุดกับดัก</DisplayName>
+			<DisplayName>Đi vào điểm bẫy</DisplayName>
 		</Text>
 		<Text Name="LeaveTrap">
-			<DisplayName>ออกจากจุดกับดัก</DisplayName>
+			<DisplayName>Rời khỏi điểm bẫy</DisplayName>
 		</Text>
 		<Text Name="BeenAttack">
-			<DisplayName>ถูกโจมตี</DisplayName>
+			<DisplayName>Bị tấn công</DisplayName>
 		</Text>
 		<Text Name="BeenDestroy">
-			<DisplayName>ถูกทำลาย</DisplayName>
+			<DisplayName>Bị phá hủy</DisplayName>
 		</Text>
 		<Text Name="Dead">
-			<DisplayName>ตาาย</DisplayName>
+			<DisplayName>Chết</DisplayName>
 		</Text>
 		<Text Name="InSocial">
-			<DisplayName>กำลังโต้ตอบ</DisplayName>
+			<DisplayName>Đang đối thoại</DisplayName>
 		</Text>
 		<Text Name="LeaveSocial">
-			<DisplayName>หลังการโต้ตอบ</DisplayName>
+			<DisplayName>Sau khi đối thoại</DisplayName>
 		</Text>
 		<Text Name="NpcEnterWorkSpace">
-			<DisplayName>ตัวละครเข้าสู่จุดสร้าง</DisplayName>
+			<DisplayName>Nhân vật vào điểm khởi tạo</DisplayName>
 		</Text>
 		<Text Name="NpcLeaveWorkSpace">
-			<DisplayName>ตัวละครเข้าออกจากจุดสร้าง</DisplayName>
+			<DisplayName>Nhân vật ra vào điểm khởi tạo</DisplayName>
 		</Text>
 		<Text Name="OnStep">
-			<DisplayName>เรียกคืน Logic Frame</DisplayName>
+			<DisplayName>Khôi phục Khung logic</DisplayName>
 		</Text>
 		<Text Name="OnRender">
-			<DisplayName>เรียกคืน Rendering Frame</DisplayName>
+			<DisplayName>Khôi phục Khung hiển thị</DisplayName>
 		</Text>
 	</List>
 </Texts>

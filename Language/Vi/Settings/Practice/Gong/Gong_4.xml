@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_4_None">
@@ -18,19 +19,19 @@
 			<Stages.2.Necks.0.DisplayName>ประตูสีชาด</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีสติปํญญาต่ำ[/color]</Stages.2.Necks.0.Desc>
 			<Stages.2.Necks.1.DisplayName>ประตูแก่นลมปราณ</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>การผสาน</Stages.3.DisplayName>
+			<Stages.3.DisplayName>Dung Hợp</Stages.3.DisplayName>
 			<Stages.3.Necks.0.DisplayName>ประตูทองคำ</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.1.DisplayName>ประตูวารี</Stages.3.Necks.1.DisplayName>
 			<Stages.3.Necks.2.DisplayName>ประตูพฤกษา</Stages.3.Necks.2.DisplayName>
 			<Stages.3.Necks.3.DisplayName>ประตูอัคคี</Stages.3.Necks.3.DisplayName>
 			<Stages.3.Necks.4.DisplayName>ประตูพสุธา</Stages.3.Necks.4.DisplayName>
 			<Stages.3.Necks.5.DisplayName>ประตูภวังค์ฝัน</Stages.3.Necks.5.DisplayName>
-			<Stages.4.DisplayName>การเปลี่ยนแปลง</Stages.4.DisplayName>
+			<Stages.4.DisplayName>Biến Đổi</Stages.4.DisplayName>
 			<Stages.4.Necks.0.DisplayName>ประตูแห่งความหลากหลาย</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>ประตูแห่งการเปลี่ยนแปลง</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.DisplayName>ประตูแห่งBiến Đổi</Stages.4.Necks.1.DisplayName>
 			<Stages.5.DisplayName>ทันฑ์สวรรค์</Stages.5.DisplayName>
 			<Stages.5.Necks.0.DisplayName>ประตูแห่งความตาย</Stages.5.Necks.0.DisplayName>
-			<Stages.5.Necks.0.Desc>ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง[color=#D06508]\nในการทะลวงขอบเขตในขั้นตอนนี้มันจะเป็นการท้าทายสวรรค์อย่างแท้จริงและจะไม่ได้ค่าโบนัสใดๆ จากขั้นตอนนี้[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.0.Desc>ด้วยDung Hợpจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง[color=#D06508]\nในการทะลวงขอบเขตในขั้นตอนนี้มันจะเป็นการท้าทายสวรรค์อย่างแท้จริงและจะไม่ได้ค่าโบนัสใดๆ จากขั้นตอนนี้[/color]</Stages.5.Necks.0.Desc>
 			<Stages.5.Necks.1.DisplayName>ประตูแห่งชีวิต</Stages.5.Necks.1.DisplayName>
 		</Text>
 	</List>

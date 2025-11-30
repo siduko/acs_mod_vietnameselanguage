@@ -1,22 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong5_a0">
 			<DisplayName>เวทประทับวิญญาณ</DisplayName>
 		</Text>
 		<Text Name="Gong5_a2">
-			<DisplayName>กัดกร่อนวัย</DisplayName>
+			<DisplayName>Thực Tuế</DisplayName>
 		</Text>
 		<Text Name="Gong5_a2_1">
 			<DisplayName>คืนความเยาว์</DisplayName>
 		</Text>
 		<Text Name="Gong5_a7">
-			<DisplayName>กลั่นกระดูกโลหิต</DisplayName>
+			<DisplayName>Luyện Huyết Cốt</DisplayName>
 		</Text>
 		<Text Name="Gong5_a11">
 			<DisplayName>ลมหายใจเต่าบรรพกาล</DisplayName>
 		</Text>
 		<Text Name="Gong5_b2">
-			<DisplayName>กัดกร่อนสัมผัส</DisplayName>
+			<DisplayName>Thực Cảm</DisplayName>
 		</Text>
 		<Text Name="Gong5_b2_1">
 			<DisplayName>คืนสัมผัส</DisplayName>
@@ -31,7 +32,7 @@
 			<DisplayName>มารสังเวยร่าง</DisplayName>
 		</Text>
 		<Text Name="Gong5_c2">
-			<DisplayName>กัดกร่อนจิต</DisplayName>
+			<DisplayName>Thực Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong5_c2_1">
 			<DisplayName>คืนจิต</DisplayName>
@@ -52,7 +53,7 @@
 			<DisplayName>มหาเวทประทับวิญญาณ</DisplayName>
 		</Text>
 		<Text Name="Gong5_d2">
-			<DisplayName>กัดกร่อนโชค</DisplayName>
+			<DisplayName>Thực Vận</DisplayName>
 		</Text>
 		<Text Name="Gong5_d2_1">
 			<DisplayName>คืนโชค</DisplayName>
@@ -73,7 +74,7 @@
 			<DisplayName>โล่โลหิตเทพ</DisplayName>
 		</Text>
 		<Text Name="Gong5_d8">
-			<DisplayName>ชะล้างไขกระดูก</DisplayName>
+			<DisplayName>ชะล้างไขXương</DisplayName>
 		</Text>
 		<Text Name="Gong5_d11">
 			<DisplayName>ขโมยฟ้า</DisplayName>

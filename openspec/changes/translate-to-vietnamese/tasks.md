@@ -2,40 +2,40 @@
 - [x] 1.1 Translate `Language/Vi/UIText.xml` content from Thai to Vietnamese.
 - [x] 1.2 Translate `Language/Vi/CodeDictionary.txt` content from Thai to Vietnamese.
 - [x] 1.3 Translate `Language/Vi/MapStoryDictionary.txt` content from Thai to Vietnamese.
-- [ ] 1.4 Review and translate XML files under `Language/Vi/Settings/Achievement/`.
-- [ ] 1.5 Review and translate XML files under `Language/Vi/Settings/CommandDef/`.
-- [ ] 1.6 Review and translate XML files under `Language/Vi/Settings/Comment/`.
-- [ ] 1.7 Review and translate XML files under `Language/Vi/Settings/Cosmetics/`.
-- [ ] 1.8 Review and translate XML files under `Language/Vi/Settings/Display/`.
-- [ ] 1.9 Review and translate XML files under `Language/Vi/Settings/ElixirGas/`.
-- [ ] 1.10 Review and translate XML files under `Language/Vi/Settings/Esoterica/`.
-- [ ] 1.11 Review and translate XML files under `Language/Vi/Settings/Fight/`.
-- [ ] 1.12 Review and translate XML files under `Language/Vi/Settings/Fun/`.
-- [ ] 1.13 Review and translate XML files under `Language/Vi/Settings/GameGraphAffix/`.
-- [ ] 1.14 Review and translate XML files under `Language/Vi/Settings/HumanoidEvolution/`.
-- [ ] 1.15 Review and translate XML files under `Language/Vi/Settings/IllustratedHand/`.
-- [ ] 1.16 Review and translate XML files under `Language/Vi/Settings/Input/`.
-- [ ] 1.17 Review and translate XML files under `Language/Vi/Settings/Jianghu/`.
-- [ ] 1.18 Review and translate XML files under `Language/Vi/Settings/JobDef/`.
-- [ ] 1.19 Review and translate XML files under `Language/Vi/Settings/LingShou/`.
-- [ ] 1.20 Review and translate XML files under `Language/Vi/Settings/MapStories/`.
-- [ ] 1.21 Review and translate XML files under `Language/Vi/Settings/Model/`.
-- [ ] 1.22 Review and translate XML files under `Language/Vi/Settings/Modifiers/`.
-- [ ] 1.23 Review and translate XML files under `Language/Vi/Settings/MsgShow/`.
-- [ ] 1.24 Review and translate XML files under `Language/Vi/Settings/Mutation/`.
-- [ ] 1.25 Review and translate XML files under `Language/Vi/Settings/Npc/`.
-- [ ] 1.26 Review and translate XML files under `Language/Vi/Settings/NpcBiography/`.
-- [ ] 1.27 Review and translate XML files under `Language/Vi/Settings/NpcStories/`.
-- [ ] 1.28 Review and translate XML files under `Language/Vi/Settings/Outspread/`.
-- [ ] 1.29 Review and translate XML files under `Language/Vi/Settings/PlantGroups/`.
-- [ ] 1.30 Review and translate XML files under `Language/Vi/Settings/Practice/`.
-- [ ] 1.31 Review and translate XML files under `Language/Vi/Settings/Property/`.
-- [ ] 1.32 Review and translate XML files under `Language/Vi/Settings/Reward/`.
-- [ ] 1.33 Review and translate XML files under `Language/Vi/Settings/Rewards/`.
-- [ ] 1.34 Review and translate XML files under `Language/Vi/Settings/RPG/`.
-- [ ] 1.35 Review and translate XML files under `Language/Vi/Settings/Sacrifices/`.
-- [ ] 1.36 Review and translate XML files under `Language/Vi/Settings/SeasonAffix/`.
-- [ ] 1.37 Review and translate XML files under `Language/Vi/Settings/Secrets/`.
+- [x] 1.4 Review and translate XML files under `Language/Vi/Settings/Achievement/`.
+- [x] 1.5 Review and translate XML files under `Language/Vi/Settings/CommandDef/`.
+- [x] 1.6 Review and translate XML files under `Language/Vi/Settings/Comment/`.
+- [x] 1.7 Review and translate XML files under `Language/Vi/Settings/Cosmetics/`.
+- [x] 1.8 Review and translate XML files under `Language/Vi/Settings/Display/`.
+- [x] 1.9 Review and translate XML files under `Language/Vi/Settings/ElixirGas/`.
+- [x] 1.10 Review and translate XML files under `Language/Vi/Settings/Esoterica/`.
+- [x] 1.11 Review and translate XML files under `Language/Vi/Settings/Fight/`.
+- [x] 1.12 Review and translate XML files under `Language/Vi/Settings/Fun/`.
+- [x] 1.13 Review and translate XML files under `Language/Vi/Settings/GameGraphAffix/`.
+- [x] 1.14 Review and translate XML files under `Language/Vi/Settings/HumanoidEvolution/`.
+- [x] 1.15 Review and translate XML files under `Language/Vi/Settings/IllustratedHand/`.
+- [x] 1.16 Review and translate XML files under `Language/Vi/Settings/Input/`.
+- [x] 1.17 Review and translate XML files under `Language/Vi/Settings/Jianghu/`.
+- [x] 1.18 Review and translate XML files under `Language/Vi/Settings/JobDef/`.
+- [x] 1.19 Review and translate XML files under `Language/Vi/Settings/LingShou/`.
+- [x] 1.20 Review and translate XML files under `Language/Vi/Settings/MapStories/`.
+- [x] 1.21 Review and translate XML files under `Language/Vi/Settings/Model/`.
+- [x] 1.22 Review and translate XML files under `Language/Vi/Settings/Modifiers/`.
+- [x] 1.23 Review and translate XML files under `Language/Vi/Settings/MsgShow/`.
+- [x] 1.24 Review and translate XML files under `Language/Vi/Settings/Mutation/`.
+- [x] 1.25 Review and translate XML files under `Language/Vi/Settings/Npc/`.
+- [x] 1.26 Review and translate XML files under `Language/Vi/Settings/NpcBiography/`.
+- [x] 1.27 Review and translate XML files under `Language/Vi/Settings/NpcStories/`.
+- [x] 1.28 Review and translate XML files under `Language/Vi/Settings/Outspread/`.
+- [x] 1.29 Review and translate XML files under `Language/Vi/Settings/PlantGroups/`.
+- [x] 1.30 Review and translate XML files under `Language/Vi/Settings/Practice/`.
+- [x] 1.31 Review and translate XML files under `Language/Vi/Settings/Property/`.
+- [x] 1.32 Review and translate XML files under `Language/Vi/Settings/Reward/`.
+- [x] 1.33 Review and translate XML files under `Language/Vi/Settings/Rewards/`.
+- [x] 1.34 Review and translate XML files under `Language/Vi/Settings/RPG/`.
+- [x] 1.35 Review and translate XML files under `Language/Vi/Settings/Sacrifices/`.
+- [x] 1.36 Review and translate XML files under `Language/Vi/Settings/SeasonAffix/`.
+- [x] 1.37 Review and translate XML files under `Language/Vi/Settings/Secrets/`.
 - [ ] 1.38 Review and translate XML files under `Language/Vi/Settings/Share/`.
 - [ ] 1.39 Review and translate XML files under `Language/Vi/Settings/Tang/`.
 - [ ] 1.40 Review and translate XML files under `Language/Vi/Settings/Teaching/`.

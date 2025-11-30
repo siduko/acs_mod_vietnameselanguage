@@ -1,22 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Bear_1">
 			<Prefix>ดวงใจ</Prefix>
 			<Suffix>หมีบรรพกาล</Suffix>
-			<Desc>กายาเร้นลับที่สืบทอดมาในสายเลือดของเผ่าอสูรหมีบรรพกาล หล่อหลอมหัวใจและปอดด้วยพลังแห่งหายนะ เมื่อฝึกฝนแล้วจะสามารถสร้างปราณแท้ออกมาได้อย่างต่อเนื่อง</Desc>
+			<Desc>Bí Thể huyết mạch của Gấu Thượng Cổ. Tôi luyện tim phổi bằng sức mạnh tai họa, tạo ra Chân Khí liên tục.</Desc>
 			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
-			<Levels.0.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับปานกลาง</Levels.0.Desc>
+			<Levels.0.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของThể chấtเร้นลับปานกลาง</Levels.0.Desc>
 			<Levels.1.Title>ชั้นที่สอง</Levels.1.Title>
-			<Levels.1.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับเป็นอย่างมาก</Levels.1.Desc>
+			<Levels.1.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของThể chấtเร้นลับเป็นอย่างมาก</Levels.1.Desc>
 			<Levels.2.Title>ชั้นที่สาม</Levels.2.Title>
-			<Levels.2.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของกายาเร้นลับเป็นอย่างมาก</Levels.2.Desc>
+			<Levels.2.Desc>เพิ่มอัตราการฟื้นฟูปราณแท้ของThể chấtเร้นลับเป็นอย่างมาก</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Bear_2">
-			<Prefix>กรงเล็บ</Prefix>
+			<Prefix>Móng vuốt</Prefix>
 			<Suffix>ทัณฑ์อัสนี</Suffix>
-			<Desc>กายาเร้นลับที่สืบทอดมาในสายเลือดของเผ่าอสูรหมีบรรพกาล หล่อหลอมกรงเล็บของตนด้วยพลังที่หลงเหลืออยู่จากอัสนีสวรรค์ซึ่งมีพลังในการทำลายล้างทุกสรรพสิ่ง</Desc>
+			<Desc>Bí Thể huyết mạch của Gấu Thượng Cổ. Tôi luyện móng vuốt bằng tàn dư Thiên Lôi, có sức mạnh hủy diệt vạn vật.</Desc>
 			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
-			<Levels.0.Desc>เพิ่มฐานพลังของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+			<Levels.0.Desc>เพิ่มฐานพลังของThể chấtเร้นลับเป็นอย่างมาก</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>

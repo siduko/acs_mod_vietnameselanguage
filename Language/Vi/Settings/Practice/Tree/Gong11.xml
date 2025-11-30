@@ -1,13 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong11_a5">
-			<DisplayName>กายาแสงจันทร์</DisplayName>
+			<DisplayName>Nguyệt Quang Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_a5_1">
-			<DisplayName>กายาละลองแสงจันทร์</DisplayName>
+			<DisplayName>Nguyệt Hoa Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_a5_2">
-			<DisplayName>กายาน้ำแข็งแสงจันทร์</DisplayName>
+			<DisplayName>Băng Cơ Ngọc Cốt</DisplayName>
 		</Text>
 		<Text Name="Gong11_b1">
 			<DisplayName>เท้าท่องสวรรค์</DisplayName>
@@ -19,10 +20,10 @@
 			<DisplayName>วิถีเก้าแผ่นดิน</DisplayName>
 		</Text>
 		<Text Name="Gong11_b5">
-			<DisplayName>กำราบวิญญาณร้าย</DisplayName>
+			<DisplayName>Trấn Yêu</DisplayName>
 		</Text>
 		<Text Name="Gong11_b7">
-			<DisplayName>กระบี่เงาปีศาจ</DisplayName>
+			<DisplayName>Ma Ảnh Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_b9">
 			<DisplayName>เจ้าแม่ธรณี</DisplayName>
@@ -31,10 +32,10 @@
 			<DisplayName>บทสวดวิญญาณ</DisplayName>
 		</Text>
 		<Text Name="Gong11_c0">
-			<DisplayName>กระชากวิญญาณ</DisplayName>
+			<DisplayName>Đoạt Hồn</DisplayName>
 		</Text>
 		<Text Name="Gong11_c0_1">
-			<DisplayName>กลั่นวิญญาณเก้าเงา</DisplayName>
+			<DisplayName>Cửu Âm Luyện Hồn</DisplayName>
 		</Text>
 		<Text Name="Gong11_c1">
 			<DisplayName>พายุทะเลทราย</DisplayName>
@@ -43,7 +44,7 @@
 			<DisplayName>เวทเกิดใหม่</DisplayName>
 		</Text>
 		<Text Name="Gong11_c3">
-			<DisplayName>กลั่นแปดสูงสุด</DisplayName>
+			<DisplayName>Bát Cực Luyện</DisplayName>
 		</Text>
 		<Text Name="Gong11_c4">
 			<DisplayName>วิสัยทัศน์จิตวิญญาณ</DisplayName>
@@ -103,13 +104,13 @@
 			<DisplayName>ทลายสรรพสิ่ง</DisplayName>
 		</Text>
 		<Text Name="Gong11_d7_1">
-			<DisplayName>กระบี่ทานตะวัน</DisplayName>
+			<DisplayName>Quỳ Hoa Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_d7_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่ทานตะวัน</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Quỳ Hoa Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_d9">
-			<DisplayName>กายามหาเสน่ห์</DisplayName>
+			<DisplayName>Thiên Mị Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_e4">
 			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>

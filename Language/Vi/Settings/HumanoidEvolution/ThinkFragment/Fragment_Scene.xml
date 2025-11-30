@@ -1,152 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SeeTheSky">
-			<DisplayName>มองท้องฟ้า</DisplayName>
-			<SingleFormat.0>ต้องการที่จะโบยบินในขณะที่{0}บนเทือกเขา</SingleFormat.0>
-			<SingleFormat.1>คิดถึงอดีตที่หมองหม่นยามเมื่อ{0}.</SingleFormat.1>
+			<DisplayName>Nhìn bầu trời</DisplayName>
+			<SingleFormat.0>Muốn bay lượn khi {0} trên núi</SingleFormat.0>
+			<SingleFormat.1>Nhớ về quá khứ u ám khi {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="HearEarthQuake">
-			<DisplayName>ได้ยินเสียงแผ่นดินไหว</DisplayName>
-			<SingleFormat.0>หลังจาก{0}มันก็ไม่มีอะไรเกิดขึ้น</SingleFormat.0>
-			<SingleFormat.1>หลังจาก{0}มันก็มีเสียงแปลกๆ ตามมา</SingleFormat.1>
+			<DisplayName>Nghe thấy tiếng động đất</DisplayName>
+			<SingleFormat.0>Sau khi {0} chẳng có gì xảy ra</SingleFormat.0>
+			<SingleFormat.1>Sau khi {0} có tiếng lạ theo sau</SingleFormat.1>
 		</Text>
 		<Text Name="HearFarThunder">
-			<DisplayName>ได้ยินเสียงฟ้าท้อง</DisplayName>
-			<SingleFormat.0>หลังจาก{0}ฝนก็ตก</SingleFormat.0>
-			<SingleFormat.1>หลังจาก{0}มันก็ไม่มีอะไรเกิดขึ้น</SingleFormat.1>
+			<DisplayName>Nghe thấy tiếng sấm</DisplayName>
+			<SingleFormat.0>Sau khi {0} trời mưa</SingleFormat.0>
+			<SingleFormat.1>Sau khi {0} chẳng có gì xảy ra</SingleFormat.1>
 		</Text>
 		<Text Name="SmellRain">
-			<DisplayName>ได้กลิ่นฝนตก</DisplayName>
-			<SingleFormat.0>หลังจาก{0}ฝนมันก็ตก</SingleFormat.0>
-			<SingleFormat.1>ฟ้าเริ่มมือหลังจากที่{0}</SingleFormat.1>
+			<DisplayName>Ngửi thấy mùi mưa</DisplayName>
+			<SingleFormat.0>Sau khi {0} trời đổ mưa</SingleFormat.0>
+			<SingleFormat.1>Trời tối sau khi {0}</SingleFormat.1>
 		</Text>
 		<Text Name="SmellDecay">
-			<DisplayName>กลิ่นเหม็นเน่า</DisplayName>
-			<SingleFormat.0>บางทีอะไรบางอย่างส่ง{0}.</SingleFormat.0>
-			<SingleFormat.1>หลังจากได้{0}ทุกอย่างก็ดูย่ำแย่</SingleFormat.1>
+			<DisplayName>Mùi hôi thối</DisplayName>
+			<SingleFormat.0>Có lẽ thứ gì đó gửi {0}.</SingleFormat.0>
+			<SingleFormat.1>Sau khi có {0} mọi thứ có vẻ tệ đi</SingleFormat.1>
 		</Text>
 		<Text Name="HearLoud">
-			<DisplayName>ได้ยินเสียงดัง</DisplayName>
-			<SingleFormat.0>หลังจาก{0}จึงกระโดดสะดุ้งโหยง</SingleFormat.0>
+			<DisplayName>Nghe thấy tiếng ồn</DisplayName>
+			<SingleFormat.0>Sau khi {0} bèn nhảy dựng lên</SingleFormat.0>
 		</Text>
 		<Text Name="ClimbHigh">
-			<DisplayName>ไต่</DisplayName>
-			<SingleFormat.0>ต้องการ{0}ภูเขา</SingleFormat.0>
+			<DisplayName>Leo trèo</DisplayName>
+			<SingleFormat.0>Cần {0} núi</SingleFormat.0>
 		</Text>
 		<Text Name="SeeStone">
-			<DisplayName>มองดูก้อนหิน</DisplayName>
-			<SingleFormat.0>จดจำ{0}และศึกษาเกี่ยวกับมัน</SingleFormat.0>
+			<DisplayName>Nhìn hòn đá</DisplayName>
+			<SingleFormat.0>Ghi nhớ {0} và học hỏi về nó</SingleFormat.0>
 		</Text>
 		<Text Name="Memory">
-			<DisplayName>รำลึก</DisplayName>
-			<SingleFormat.0>หลังจาก{0}บางสิ่งก็รู้สึกเยาว์วัยขึ้น</SingleFormat.0>
-			<SingleFormat.1>ไม่ชอบการ{0}ถึงอดีตอันวุ่นวาย</SingleFormat.1>
+			<DisplayName>Hồi tưởng</DisplayName>
+			<SingleFormat.0>Sau khi {0} cảm thấy trẻ lại</SingleFormat.0>
+			<SingleFormat.1>Không thích {0} về quá khứ hỗn loạn</SingleFormat.1>
 		</Text>
 		<Text Name="SeeDisciples">
-			<DisplayName>เฝ้ามองการแต่งตัว</DisplayName>
+			<DisplayName>Nhìn thay đồ</DisplayName>
 		</Text>
 		<Text Name="SeeSwords">
-			<DisplayName>เฝ้ามองการบิน</DisplayName>
+			<DisplayName>Nhìn bay</DisplayName>
 		</Text>
 		<Text Name="SeeTrain">
-			<DisplayName>เฝ้ามองการนั่ง</DisplayName>
+			<DisplayName>Nhìn ngồi</DisplayName>
 		</Text>
 		<Text Name="SeePlay">
-			<DisplayName>เฝ้ามองการเล่น</DisplayName>
+			<DisplayName>Nhìn chơi đùa</DisplayName>
 		</Text>
 		<Text Name="SeeAround">
-			<DisplayName>เฝ้ามองแสง</DisplayName>
+			<DisplayName>Nhìn ánh sáng</DisplayName>
 		</Text>
 		<Text Name="SeeScene">
-			<DisplayName>เที่ยวชมสถานที่</DisplayName>
+			<DisplayName>Tham quan</DisplayName>
 		</Text>
 		<Text Name="HearAround">
-			<DisplayName>ฟังดนตรี</DisplayName>
+			<DisplayName>Nghe nhạc</DisplayName>
 		</Text>
 		<Text Name="HearWind">
-			<DisplayName>ฟังเสียงลม</DisplayName>
+			<DisplayName>Nghe tiếng gió</DisplayName>
 		</Text>
 		<Text Name="HearChat">
-			<DisplayName>เฝ้ามองการกิน</DisplayName>
+			<DisplayName>Nhìn ăn</DisplayName>
 		</Text>
 		<Text Name="HearHeartBeat">
-			<DisplayName>ได้กลิ่นตัวยา</DisplayName>
+			<DisplayName>Ngửi thấy mùi thuốc</DisplayName>
 		</Text>
 		<Text Name="HearTrain">
-			<DisplayName>เฝ้ามองการทำงาน</DisplayName>
+			<DisplayName>Nhìn làm việc</DisplayName>
 		</Text>
 		<Text Name="HearStep">
-			<DisplayName>เฝ้ามองการฝึกฝน</DisplayName>
+			<DisplayName>Nhìn tu luyện</DisplayName>
 		</Text>
 		<Text Name="HearWormBeep">
-			<DisplayName>ได้ยินเสียงแมลง</DisplayName>
+			<DisplayName>Nghe thấy tiếng côn trùng</DisplayName>
 		</Text>
 		<Text Name="SmellAround">
-			<DisplayName>ได้กลิ่นธูป</DisplayName>
+			<DisplayName>Ngửi thấy mùi nhang</DisplayName>
 		</Text>
 		<Text Name="SmellDirt">
-			<DisplayName>ได้กลินดิน</DisplayName>
+			<DisplayName>Ngửi thấy mùi đất</DisplayName>
 		</Text>
 		<Text Name="SmellSelf">
-			<DisplayName>ได้กลิ่นตัวเอง</DisplayName>
+			<DisplayName>Ngửi thấy mùi bản thân</DisplayName>
 		</Text>
 		<Text Name="SmellMeal">
-			<DisplayName>ได้กลิ่นอาหาร</DisplayName>
-			<SingleFormat.0>เมื่อ{0}น้ำลายก็เริ่มไหลออกมา</SingleFormat.0>
+			<DisplayName>Ngửi thấy mùi thức ăn</DisplayName>
+			<SingleFormat.0>Khi {0} nước miếng bắt đầu chảy</SingleFormat.0>
 		</Text>
 		<Text Name="SmellFire">
-			<DisplayName>ได้กลิ่นไหม้</DisplayName>
+			<DisplayName>Ngửi thấy mùi khét</DisplayName>
 		</Text>
 		<Text Name="LickSelf">
-			<DisplayName>เลียตัวเอง</DisplayName>
+			<DisplayName>Liếm lông</DisplayName>
 		</Text>
 		<Text Name="Sneeze">
-			<DisplayName>จาม</DisplayName>
+			<DisplayName>Hắt hơi</DisplayName>
 		</Text>
 		<Text Name="Dream">
-			<DisplayName>ฝัน</DisplayName>
+			<DisplayName>Mơ</DisplayName>
 		</Text>
 		<Text Name="PlaySelf">
-			<DisplayName>เล่นสนุก</DisplayName>
+			<DisplayName>Chơi vui</DisplayName>
 		</Text>
 		<Text Name="DayDream">
-			<DisplayName>ฝันกลางวัน</DisplayName>
+			<DisplayName>Mơ mộng</DisplayName>
 		</Text>
 		<Text Name="Sweat">
-			<DisplayName>เหงื่อออก</DisplayName>
+			<DisplayName>Đổ mồ hôi</DisplayName>
 		</Text>
 		<Text Name="Poo">
-			<DisplayName>ขับถ่าย</DisplayName>
+			<DisplayName>Bài tiết</DisplayName>
 		</Text>
 		<Text Name="Wander">
-			<DisplayName>ได้กลิ่นหอมหวาน</DisplayName>
+			<DisplayName>Ngửi thấy mùi ngọt ngào</DisplayName>
 		</Text>
 		<Text Name="Betouch">
-			<DisplayName>ออกล่า</DisplayName>
-			<SingleFormat.0>หวนนึกถึงการวิ่งยาม{0}</SingleFormat.0>
+			<DisplayName>Đi săn</DisplayName>
+			<SingleFormat.0>Nhớ lại lúc chạy khi {0}</SingleFormat.0>
 		</Text>
 		<Text Name="Sleep">
-			<DisplayName>กำลังหลับ</DisplayName>
+			<DisplayName>Đang ngủ</DisplayName>
 		</Text>
 		<Text Name="SeeEast">
-			<DisplayName>มองไปทางทิศตะวันออก</DisplayName>
-			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+			<DisplayName>Nhìn về phía Đông</DisplayName>
+			<SingleFormat.0>Khi {0} cảm thấy luồng gió lạ</SingleFormat.0>
 		</Text>
 		<Text Name="SeeSouth">
-			<DisplayName>มองไปทางทิศใต้</DisplayName>
-			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+			<DisplayName>Nhìn về phía Nam</DisplayName>
+			<SingleFormat.0>Khi {0} cảm thấy luồng gió lạ</SingleFormat.0>
 		</Text>
 		<Text Name="SeeWest">
-			<DisplayName>มองไปทางทิศตะวันตก</DisplayName>
-			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+			<DisplayName>Nhìn về phía Tây</DisplayName>
+			<SingleFormat.0>Khi {0} cảm thấy luồng gió lạ</SingleFormat.0>
 		</Text>
 		<Text Name="SeeNorth">
-			<DisplayName>มองไปทางทิศเหนือ</DisplayName>
-			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+			<DisplayName>Nhìn về phía Bắc</DisplayName>
+			<SingleFormat.0>Khi {0} cảm thấy luồng gió lạ</SingleFormat.0>
 		</Text>
 		<Text Name="SeeDirt">
-			<DisplayName>มองไปยังฝุ่นละออง</DisplayName>
-			<SingleFormat.0>เมื่อ{0}ก็รู้สึกถึงสายลมที่แปลกประหลาด</SingleFormat.0>
+			<DisplayName>Nhìn bụi bay</DisplayName>
+			<SingleFormat.0>Khi {0} cảm thấy luồng gió lạ</SingleFormat.0>
 		</Text>
 	</List>
 </Texts>

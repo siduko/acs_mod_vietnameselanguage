@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Disaster_Drought">
@@ -30,22 +31,22 @@
 		</Text>
 		<Text Name="Place_Drought">
 			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
-			<Desc>[NAME] ได้ตัดสินใจจัดการกับภัยแล้ง</Desc>
+			<Desc>[NAME] quyết định đối phó với hạn hán.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="Place_Flood">
 			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
-			<Desc>[NAME] ได้ตัดสินใจจัดการกับน้ำท้วม</Desc>
+			<Desc>[NAME] quyết định đối phó với lũ lụt.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="Place_Siberia">
 			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
-			<Desc>[NAME] ได้ตัดสินใจจัดการกับคลื่นความเย็น</Desc>
+			<Desc>[NAME] quyết định đối phó với đợt lạnh.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="Place_EarthQuake">
 			<DisplayName>บรรเทาภัยพิบัติ</DisplayName>
-			<Desc>[NAME] ได้ตัดสินใจจัดการกับแผ่นดินไหว</Desc>
+			<Desc>[NAME] quyết định đối phó với động đất.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="MapStory_DroughtFinish">

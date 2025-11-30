@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_13_Yang_a0">
@@ -25,7 +26,7 @@
 			<DisplayName>แสงตะวันเที่ยงแท้</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_b8_1">
-			<DisplayName>กลวิธีปราณไหลเวียน</DisplayName>
+			<DisplayName>Phương Pháp Vận Khí</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_c0">
 			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
@@ -61,16 +62,16 @@
 			<DisplayName>คัมภีร์เต๋าเมฆาม่วง</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_d7">
-			<DisplayName>กระบี่ลืมเลือน</DisplayName>
+			<DisplayName>Vong Tình Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_d7_1">
-			<DisplayName>กระบี่วัฏจักรการเกิด</DisplayName>
+			<DisplayName>Luân Hồi Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_d7_2">
 			<DisplayName>ตำรากระบี่ผู้พิชืต</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_d8">
-			<DisplayName>กระบี่สัจธรรม</DisplayName>
+			<DisplayName>Chân Lý Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yang_d8_1">
 			<DisplayName>วิถีสัจธรรม</DisplayName>
@@ -109,13 +110,13 @@
 			<DisplayName>แสงจันทราบริสุทธิ์</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_b8_1">
-			<DisplayName>กลวิธีปราณไหลเวียน</DisplayName>
+			<DisplayName>Phương Pháp Vận Khí</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_c0">
 			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_c1">
-			<DisplayName>การทำนายแห่งเทพ</DisplayName>
+			<DisplayName>Thần Chi Tiên Tri</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_c4">
 			<DisplayName>บันทึกไร้สิ้นสุด</DisplayName>
@@ -145,10 +146,10 @@
 			<DisplayName>คัมภีร์เต๋าเมฆาม่วง</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_d7">
-			<DisplayName>กระบี่จักรพรรดิ์</DisplayName>
+			<DisplayName>Đế Vương Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_d7_1">
-			<DisplayName>กระบี่วัฏจักรการเกิด</DisplayName>
+			<DisplayName>Luân Hồi Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong_13_Yin_d7_2">
 			<DisplayName>ตำรากระบี่ผู้พิชืต</DisplayName>

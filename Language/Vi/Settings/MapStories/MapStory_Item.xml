@@ -1,12 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Story_BoxFind1">
 			<DisplayName>เปิดกล่อง</DisplayName>
-			<Desc>[NAME] พบกล่องเก่าๆ ที่มีของที่มีประโยชน์อยู่ข้างใน</Desc>
+			<Desc>[NAME] tìm thấy hộp cũ chứa đồ hữu ích bên trong.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind2">
 			<DisplayName>ค้นศพ</DisplayName>
-			<Desc>[NAME] ค้นศพอย่างระมัดระวังและพบว่าไม่มีอะไรอื่นนอกจากอาวุธที่สามารถใช้ได้</Desc>
+			<Desc>[NAME] cẩn thận lục soát thi thể và thấy chẳng có gì dùng được ngoài vũ khí.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind3">
 			<DisplayName>ค้นศพ</DisplayName>
@@ -14,7 +15,7 @@
 		</Text>
 		<Text Name="Story_BoxFind4">
 			<DisplayName>ค้นศพ</DisplayName>
-			<Desc>[NAME] ค้นศพอย่างระมัดระวังและพบว่าไม่มีอะไรอื่นนอกจากอาวุธที่สามารถใช้ได้</Desc>
+			<Desc>[NAME] cẩn thận lục soát thi thể và thấy chẳng có gì dùng được ngoài vũ khí.</Desc>
 		</Text>
 		<Text Name="Story_Item_StoneBox">
 			<DisplayName>กล่องหิน</DisplayName>
@@ -79,7 +80,7 @@
 		</Text>
 		<Text Name="Story_Item_BossSoulItem">
 			<DisplayName>แนวคิด</DisplayName>
-			<Desc>[NAME] พยายามหาข้อมูลที่เป็นประโยชน์จากมัน</Desc>
+			<Desc>[NAME] cố gắng tìm thông tin hữu ích từ nó.</Desc>
 			<Selections.0.Display>ใช้วิญญาณปฐมกาล</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
@@ -102,30 +103,30 @@
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
 			<DisplayName>ทำลาย</DisplayName>
-			<Desc>[NAME] ทำลายของชิ้นนี้แล้ว ทว่าก็ไม่มีอะไรเกิดขึ้น</Desc>
+			<Desc>[NAME] đã phá hủy vật này nhưng không có gì xảy ra.</Desc>
 			<Selections.0.Display>เฮ้อ..</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Eat_StrangeMush">
 			<DisplayName>ลองชิมดู</DisplayName>
-			<Desc>[NAME] ต้องการที่จะลองชิมเห็ดแปลกๆ ด้วยความสงสัยใคร่รู้</Desc>
+			<Desc>[NAME] tò mò muốn nếm thử nấm lạ.</Desc>
 			<Selections.0.Display>ลองเสี่ยงกินดู</Selections.0.Display>
 			<Selections.1.Display>ไม่เสี่ยงดีกว่า</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
 			<DisplayName>วิเคราะห์แนวคิด</DisplayName>
-			<Desc>[NAME] พยายามวิเคราะห์ผังรูปแบบค่ายกล</Desc>
+			<Desc>[NAME] cố gắng phân tích sơ đồ trận pháp.</Desc>
 			<Selections.0.Display>วิเคราะห์ผังรูปแบบค่ายกล</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu">
 			<DisplayName>ตรวจสอบของชิ้นนี้</DisplayName>
-			<Desc>[NAME] พยายามตรวจสอบของชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng kiểm tra vật này.</Desc>
 			<Selections.0.Display>ตรวจสอบของชิ้นนี้</Selections.0.Display>
 			<Selections.1.Display>ปลดผนึก</Selections.1.Display>
 			<Selections.2.Display>ยอมแพ้</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
 			<DisplayName>ตรวจสอบของชิ้นนี้</DisplayName>
-			<Desc>[NAME] รู้สึกว่าผนึกของวัตถุชิ้นนี้ดูคุ้นมาก มันดูเหมือนว่า[ENHIM]เคยเห็นมันมาก่อน</Desc>
+			<Desc>[NAME] thấy phong ấn này rất quen, hình như đã gặp ở đâu rồi.</Desc>
 			<Selections.0.Display>ตรวจสอบอย่างระมัดระวัง</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu2">
@@ -145,32 +146,32 @@
 		</Text>
 		<Text Name="Story_Item_God_Guard">
 			<DisplayName>ปรับแต่ง</DisplayName>
-			<Desc>[NAME] พยายามที่จะปรับแต่งของชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng tinh chỉnh vật này.</Desc>
 			<Selections.0.Display>ปรับแต่ง</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_2">
 			<DisplayName>ปลดผนึก</DisplayName>
-			<Desc>[NAME] พยายามที่จะปลดผนึกของชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng giải ấn vật này.</Desc>
 			<Selections.0.Display>ปลดผนึก</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Gong12">
 			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
-			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Desc>[NAME] cẩn thận kiểm tra bí kíp.</Desc>
 			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_2">
 			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
-			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Desc>[NAME] cẩn thận kiểm tra bí kíp.</Desc>
 			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_5">
 			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
-			<Desc>[NAME] ตรวจสอบคัมภีร์อย่างระมัดระวัง</Desc>
+			<Desc>[NAME] cẩn thận kiểm tra bí kíp.</Desc>
 			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_GongAll">
 			<DisplayName>ตรวจสอบบันทึกสมบัติ</DisplayName>
-			<Desc>[NAME] ตรวจสอบบันทึกสมบัติอย่างระมัดระวัง</Desc>
+			<Desc>[NAME] cẩn thận kiểm tra bảo điển.</Desc>
 			<Selections.0.Display>ได้รับวิชาบ่มเพาะ</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_SpringBox">

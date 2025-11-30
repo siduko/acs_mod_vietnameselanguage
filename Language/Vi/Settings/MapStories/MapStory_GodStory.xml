@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="GodStory_1">
@@ -12,7 +13,7 @@
 		</Text>
 		<Text Name="Secrets_GodStory_1">
 			<DisplayName>สงครามแดนมนุษย์</DisplayName>
-			<Desc>[NAME] ได้เร่งรีบไปยัง[PLACE]และพบว่าที่นี่มีผู้ประสบภัยจากสงครามที่ทุกข์ทรมานอยู่มากมาย</Desc>
+			<Desc>[NAME] vội đến [PLACE], thấy nhiều nạn nhân chiến tranh đau khổ.</Desc>
 			<Selections.0.Display>เรียกร้องให้หยุดทำสงคราม</Selections.0.Display>
 			<Selections.1.Display>หยุดสงครามด้วยการใช้กำลัง</Selections.1.Display>
 			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
@@ -20,7 +21,7 @@
 		</Text>
 		<Text Name="Secrets_GodStory_2">
 			<DisplayName>ภัยพิบัติโรคระบาด</DisplayName>
-			<Desc>[NAME] ได้เร่งรีบไปยัง[PLACE]และพบว่าที่นี่กำลังมีโรคระบาดที่รุนแรงแพร่กระจายไปทั่ว ชาวเมืองมากมายต่างก็ล้มตายลงไป.</Desc>
+			<Desc>[NAME] vội đến [PLACE], thấy dịch bệnh hoành hành, dân chúng chết rất nhiều.</Desc>
 			<Selections.0.Display>ช่วยรักษาชาวเมือง</Selections.0.Display>
 			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
 			<Selections.1.Display>ทำการปิดเมืองและกักตัวผู้ป่วย</Selections.1.Display>

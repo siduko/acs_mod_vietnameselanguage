@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_6_Huo">
@@ -26,7 +27,7 @@
 			<Stages.6.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้สามารถทำได้โดยการใช้ความพยายามซ้ำแล้วซ้ำอีก\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.6.Necks.0.Desc>
 			<Stages.7.DisplayName>มหาสมุทรความทุกข์</Stages.7.DisplayName>
 			<Stages.7.Necks.0.DisplayName>มหาสมุทรความทุกข์</Stages.7.Necks.0.DisplayName>
-			<Stages.7.Necks.0.Desc>ก้าวผ่านมหาสมุทรแห่งความทุกข์ ด้วยการผสานจิตวิญญาณปฐมกาลของตนเองเข้ากับเต๋าแห่งสวรรค์ คนผู้นั้นจะต้องเผชิญหน้ากับความโกรธเกรี้ยวของสวรรค์โดยตรง</Stages.7.Necks.0.Desc>
+			<Stages.7.Necks.0.Desc>Vượt qua biển khổ. Bằng cách hợp nhất Nguyên Thần với Thiên Đạo, người đó phải đối mặt trực tiếp với cơn giận của trời.</Stages.7.Necks.0.Desc>
 			<Stages.8.DisplayName>หยางบริสุทธิ์</Stages.8.DisplayName>
 			<Stages.8.Necks.0.DisplayName>หยางบริสุทธิ์</Stages.8.Necks.0.DisplayName>
 		</Text>

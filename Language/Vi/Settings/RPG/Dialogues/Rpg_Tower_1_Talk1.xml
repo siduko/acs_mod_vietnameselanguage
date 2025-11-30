@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Rpg_Tower_1_Talk1">
-			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
-			<Nodes.1.Text>ดีจริงๆ ในชั่วพริบตาเดียว หญ้าในที่แห่งนี้ก็ได้ผลัดกันเหี่ยวเฉาและเบ่งบานมาแล้วกว่าห้าร้อยครั้ง ในที่สุดก็มีคนมาที่สถานแห่งนี้ซะที ที่ๆ ซึ่งโชคชะตาได้ถูกหยุดนิ่ง... ทว่ามันกำลังจะเริ่มเดินอีกครั้งหนึ่งแล้ว! *แค่กๆๆ*</Nodes.1.Text>
+			<Nodes.0.Text>Lối vào</Nodes.0.Text>
+			<Nodes.1.Text>Tốt lắm, trong nháy mắt, cỏ cây nơi đây đã tàn lụi rồi lại nở hoa hơn năm trăm lần. Cuối cùng cũng có người đến nơi này rồi. Nơi vận mệnh đã ngừng lại... nhưng nó sắp bắt đầu lại rồi! *Khụ khụ khụ*</Nodes.1.Text>
 		</Text>
 	</List>
 </Texts>

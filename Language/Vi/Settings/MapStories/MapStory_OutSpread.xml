@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_Start">
@@ -7,17 +8,17 @@
 		</Text>
 		<Text Name="OutSpread_Accelerate">
 			<DisplayName>ใช้แรงงานคน</DisplayName>
-			<Desc>[NAME] ได้ดูแลคนงาน</Desc>
+			<Desc>[NAME] đã chăm sóc công nhân.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
 			<DisplayName>ล่าสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ออกล่าสมบัติ</Desc>
+			<Desc>[NAME] đi săn kho báu.</Desc>
 			<Selections.0.Display>ตรวจสอบผลลัพธ์</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
 			<DisplayName>ระหว่างทาง</DisplayName>
-			<Desc>[NAME] ได้ถูกปล้น</Desc>
+			<Desc>[NAME] đã bị cướp.</Desc>
 			<Selections.0.Display>ให้หินวิญญาณแก่พวกมัน</Selections.0.Display>
 			<Selections.1.Display>เจรจา</Selections.1.Display>
 		</Text>

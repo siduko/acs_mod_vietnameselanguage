@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong4_a0">
@@ -40,16 +41,16 @@
 			<DisplayName>หลอมผลึกเต๋า</DisplayName>
 		</Text>
 		<Text Name="Gong4_c3">
-			<DisplayName>การชำระเมล็ดจิต</DisplayName>
+			<DisplayName>Tẩy Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong4_c3_1">
-			<DisplayName>การชำระเมล็ดจิต</DisplayName>
+			<DisplayName>Tẩy Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong4_c3_2">
-			<DisplayName>การชำระเมล็ดจิต</DisplayName>
+			<DisplayName>Tẩy Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong4_c3_3">
-			<DisplayName>การชำระเมล็ดจิต</DisplayName>
+			<DisplayName>Tẩy Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong4_c5">
 			<DisplayName>พรจากเทพธิดาแห่งชีวิต</DisplayName>
@@ -73,7 +74,7 @@
 			<DisplayName>วิญญาณผู้รู้แจ้ง</DisplayName>
 		</Text>
 		<Text Name="Gong4_d1">
-			<DisplayName>การทำนายแห่งเทพ</DisplayName>
+			<DisplayName>Thần Chi Tiên Tri</DisplayName>
 		</Text>
 		<Text Name="Gong4_d2">
 			<DisplayName>ทำนายวัฏจักรชะตาฟ้า</DisplayName>

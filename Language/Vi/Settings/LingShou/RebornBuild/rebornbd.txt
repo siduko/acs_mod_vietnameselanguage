@@ -1,5 +1,5 @@
 race	bdtag	desc
-LsDog	DogStone	ลูกสุนัขที่ถูกทิ้งเพราะโตช้า เนื่องจากเป็นสัตว์อสูรวิญญาณที่กำเนิดจากพลังแห่งสวรรค์และโลกจึงเป็นสัตว์อสูรวิญญาณที่พบได้ยากยิ่ง มีความสามารถในการใช้เกราะปราณและปราณเวท
-LsFox	FoxStone	อสูรวิญญาณที่ถูกเลี้ยงโดยสำนักไท้อี้ นางได้ออกไปส่งข้อความอะไรบางอย่างและเมื่อนางกลับมาก็พบว่าสำนักไท้อี้ได้ถูกทำลายไปแล้ว นางร่อนเร่อยู่เป็นเวลานานนับแต่นั้นมา มีความสามารถในการใช้แก่นอสูรและการเคลื่อนไหวที่เกี่ยวข้อง
-LsDragon	DragonStone	อสูรที่สืบเชื้อสายของมังกร เขาเป็นอสูรศักดิ์สิทธิ์ที่มีศักยภาพสูงในทุกๆ ด้าน มีความสามารถในการใช้ปราณเวทในการโจมตีสูงมาก
-LsPhoenix	PhoenixStone	อสูรที่สืบเชื้อสายของวิหคเพลิง เขาเป็นอสูรศักดิ์สิทธิ์ที่มีศักยภาพสูงในทุกๆ ด้าน มีความสามารถในการใช้ปราณเวทและแก่นอสูร
+LsDog	DogStone	Tiểu Khuyển bị bỏ rơi vì chậm lớn. Là Linh Thú sinh ra từ năng lượng Thiên Địa, vô cùng hiếm gặp. Có khả năng dùng Hộ Thể và Thuật Pháp.
+LsFox	FoxStone	Linh Thú được môn phái Thái Ất nuôi dưỡng, nàng đi đưa tin rồi khi về thì thấy môn phái đã bị diệt. Từ đó nàng lang thang phiêu bạt. Có khả năng dùng Yêu Đan và các chiêu thức liên quan.
+LsDragon	DragonStone	Yêu thú huyết mạch Long, là Linh Thú thánh phẩm có tiềm lực cao mọi mặt, khả năng tấn công Thuật Pháp rất mạnh.
+LsPhoenix	PhoenixStone	Yêu thú huyết mạch Hỏa Linh Thú, là Linh Thú thánh phẩm có tiềm lực cao mọi mặt, có khả năng dùng Thuật Pháp và Yêu Đan.

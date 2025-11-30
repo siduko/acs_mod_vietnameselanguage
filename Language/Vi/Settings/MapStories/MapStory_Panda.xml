@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Ls_School_Panda">
@@ -17,7 +18,7 @@
 		</Text>
 		<Text Name="HotStory_Practice_Fish">
 			<DisplayName>การรู้แจ้งครั้งแรก</DisplayName>
-			<Desc>[NAME] ได้รับแนวคิดใหม่!</Desc>
+			<Desc>[NAME] nhận được lĩnh ngộ mới!</Desc>
 			<Selections.0.Display>ได้รับความรู้ความเข้าใจ</Selections.0.Display>
 		</Text>
 		<Text Name="Little_Panda">

@@ -1,20 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="RpgTower">
-			<Title>รอยแยกมิติระหว่างโลก: ดินแดนไร้สูญ</Title>
-			<Desc>ประตูมิติลึกลับที่ซ่อนอยู่ลึกลงไปในรอยแยกของอีกโลกหนึ่ง สถานที่ที่ซึ่งความจริงและความฝันได้มาบรรจบกัน สถานที่ที่ซึ่งได้รวบรวมประวัติศาสตร์หลายแสนหลายล้านปีเอาไว้</Desc>
+			<Title>Vết nứt không gian giữa các thế giới: Vô Tận Chi Địa</Title>
+			<Desc>Cổng không gian bí ẩn ẩn sâu trong vết nứt của một thế giới khác. Nơi thực tại và giấc mơ giao thoa. Nơi tích tụ hàng trăm triệu năm lịch sử.</Desc>
 		</Text>
 		<Text Name="RpgQianKun">
 			<Title>รอยแยกระหว่างโลกจักรวาล: สถานที่แห่งความโดดเดี่ยว</Title>
-			<Desc>ถ้ำลึกลับที่อยู่ภายในจักรวาลย่อส่วน มันถูกผนึกอันทรงพลังขวางกั้นเอาไว้ ทว่าประตูกลับเปิดเพราะ "บันทึกลับไท้อี้" มันมีบางสิ่งบางอย่างถูกซ่อนเอาวไว้ในนั้น</Desc>
+			<Desc>Động bí ẩn bên trong Tiểu Vũ Trụ Giới bị phong ấn mạnh mẽ. Nhưng cánh cửa lại mở ra vì "Thái Ất Bí Lục". Có thứ gì đó được giấu bên trong.</Desc>
 		</Text>
 		<Text Name="RpgArena">
-			<Title>โรงฝึก</Title>
-			<Desc>สถานที่ที่เหล่าศิษย์มาฝึกซ้อมและประลองกระชับมิตรกัน</Desc>
+			<Title>Luyện công phòng</Title>
+			<Desc>Nơi đệ tử tập luyện và tỉ thí hữu nghị.</Desc>
 		</Text>
 		<Text Name="RpgArena_YingTian">
-			<Title>แท่นบูชาสวรรค์กึกก้อง</Title>
-			<Desc>รอยแยกระหว่างจิตใจเชื่อมโยงระหว่างโลก</Desc>
+			<Title>Thiên Minh Đàn</Title>
+			<Desc>Vết nứt tinh thần liên kết giữa các thế giới</Desc>
 		</Text>
 	</List>
 </Texts>

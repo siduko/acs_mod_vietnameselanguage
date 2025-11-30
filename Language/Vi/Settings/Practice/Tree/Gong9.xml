@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong9_a0">
@@ -16,7 +17,7 @@
 			<DisplayName>สัจธรรมสามภพ</DisplayName>
 		</Text>
 		<Text Name="Gong9_a9">
-			<DisplayName>กักเก็บปฐพี</DisplayName>
+			<DisplayName>Địa Tàng</DisplayName>
 		</Text>
 		<Text Name="Gong9_b2">
 			<DisplayName>เบิกเนตร</DisplayName>
@@ -34,7 +35,7 @@
 			<DisplayName>ทำนองหนึ่งเดียว</DisplayName>
 		</Text>
 		<Text Name="Gong9_b9">
-			<DisplayName>บันทึกแห่งการผสานรวม</DisplayName>
+			<DisplayName>บันทึกแห่งDung Hợpรวม</DisplayName>
 		</Text>
 		<Text Name="Gong9_c0">
 			<DisplayName>พายุละอองเกสรพิษ</DisplayName>
@@ -55,7 +56,7 @@
 			<DisplayName>วิถีแห่งยมทูต</DisplayName>
 		</Text>
 		<Text Name="Gong9_c5">
-			<DisplayName>บัญญัติแห่งการเกิดใหม่</DisplayName>
+			<DisplayName>บัญญัติแห่งTái Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong9_c6">
 			<DisplayName>เวทประทับวิญญาณ</DisplayName>
@@ -76,7 +77,7 @@
 			<DisplayName>สร้างร่างใหม่</DisplayName>
 		</Text>
 		<Text Name="Gong9_d2">
-			<DisplayName>การทำนายแห่งเทพ</DisplayName>
+			<DisplayName>Thần Chi Tiên Tri</DisplayName>
 		</Text>
 		<Text Name="Gong9_d5">
 			<DisplayName>หลอมจิตกำเนิดใหม่</DisplayName>
@@ -94,31 +95,31 @@
 			<DisplayName>วัฏจักรย้อนกลับ-ลี้ลับ</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9">
-			<DisplayName>กายาแห่งสวรรค์และโลก</DisplayName>
+			<DisplayName>Thiên Địa Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9_1">
-			<DisplayName>กายาแห่งสวรรค์และโลก</DisplayName>
+			<DisplayName>Thiên Địa Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9_2">
-			<DisplayName>กายาแห่งสวรรค์และโลก</DisplayName>
+			<DisplayName>Thiên Địa Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10">
-			<DisplayName>กายาแห่งแก่นแท้</DisplayName>
+			<DisplayName>Chân Nguyên Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10_1">
-			<DisplayName>กายาแห่งแก่นแท้</DisplayName>
+			<DisplayName>Chân Nguyên Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10_2">
-			<DisplayName>กายาแห่งแก่นแท้</DisplayName>
+			<DisplayName>Chân Nguyên Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11">
-			<DisplayName>กายาแห่งนรกอเวจี</DisplayName>
+			<DisplayName>Địa Ngục Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11_1">
-			<DisplayName>กายาแห่งนรกอเวจี</DisplayName>
+			<DisplayName>Địa Ngục Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11_2">
-			<DisplayName>กายาแห่งนรกอเวจี</DisplayName>
+			<DisplayName>Địa Ngục Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_e4">
 			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>

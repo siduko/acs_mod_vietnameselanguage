@@ -1,9 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JuQing_dialogue_3">
-			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
-			<Nodes.1.Text>คุณลักษณะใหม่</Nodes.1.Text>
-			<Nodes.3.Text>คุณลักษณะใหม่</Nodes.3.Text>
+			<Nodes.0.Text>Lối vào</Nodes.0.Text>
+			<Nodes.1.Text>Thuộc tính mới</Nodes.1.Text>
+			<Nodes.3.Text>Thuộc tính mới</Nodes.3.Text>
 		</Text>
 	</List>
 </Texts>

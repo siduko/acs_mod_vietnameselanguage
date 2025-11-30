@@ -1,18 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="System_FightMap_RedWall">
 			<DisplayName>สังเกต</DisplayName>
-			<Desc>[NAME] พยายามเรียนรู้วิธีการสร้างสิ่งปลูกสร้างชิ้นนี้</Desc>
+			<Desc>[NAME] cố gắng học cách xây dựng kiến trúc này.</Desc>
 			<Selections.0.Display>สังเกต</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">
 			<DisplayName>สังเกต</DisplayName>
-			<Desc>[NAME] พยายามขอพรด้วยธูปมังกร</Desc>
+			<Desc>[NAME] cố gắng cầu nguyện bằng Nhang Rồng.</Desc>
 			<Selections.0.Display>สังเกต</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">
 			<DisplayName>ขอพร</DisplayName>
-			<Desc>[NAME] พยายามขอพรด้วยธูปมังกร</Desc>
+			<Desc>[NAME] cố gắng cầu nguyện bằng Nhang Rồng.</Desc>
 			<Selections.0.Display>ขอให้จิตแจ่มใส</Selections.0.Display>
 			<Selections.1.Display>ขอให้แข็งแกร่งไวๆ</Selections.1.Display>
 			<Selections.2.Display>ขอให้มีโชคลาภ</Selections.2.Display>
@@ -22,19 +23,19 @@
 		</Text>
 		<Text Name="Story_Building_TaiZiDian">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งอยู่ที่โต๊ะและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi tại bàn, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoJianZhen">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งข้างโล่และดาบ และพยายามใช้การรับรู้ในการสื่อสารกับมัน</Desc>
+			<Desc>[NAME] ngồi cạnh khiên và kiếm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoDanLu">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งอยู่ข้างเตาหลอมโอสถ และพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi cạnh lò luyện đan, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
@@ -45,7 +46,7 @@
 		</Text>
 		<Text Name="Story_Building_ZiXiaoShiBei">
 			<DisplayName>สัมผัส</DisplayName>
-			<Desc>[NAME] สัมผัสตัวอักษรที่สลักอยู่บนศิลาจารึก</Desc>
+			<Desc>[NAME] chạm vào chữ khắc trên bia đá.</Desc>
 			<Selections.0.Display>สัมผัส</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Pessimism">
@@ -14,47 +15,47 @@
 		</Text>
 		<Text Name="Sensitive">
 			<DisplayName>อยากรู้อยากเห็น</DisplayName>
-			<Desc>[IT]มีความอยากรู้อยากเห็นเกี่ยวกับโลกภายนอกเป็นอย่างมากและไม่สามารถทนต่อการใช้ชีวิตที่น่าเบื่อหน่ายได้</Desc>
+			<Desc>[IT] rất tò mò về thế giới bên ngoài và không chịu được cuộc sống nhàm chán.</Desc>
 		</Text>
 		<Text Name="Enthusiasm">
 			<DisplayName>เป็นกันเอง</DisplayName>
-			<Desc>[IT]เป็นมิตรกับทุกคนเป็นอย่างมาก</Desc>
+			<Desc>[IT] rất thân thiện với mọi người.</Desc>
 		</Text>
 		<Text Name="Distrust">
 			<DisplayName>ปิดกั้นตนเอง</DisplayName>
-			<Desc>[IT]ไม่เชื่อในรักแท้และไม่ไว้ใจใครทั้งนั้น</Desc>
+			<Desc>[IT] không tin vào tình yêu đích thực và không tin tưởng ai cả.</Desc>
 		</Text>
 		<Text Name="Strong">
 			<DisplayName>จิตใจเข้มแข็ง</DisplayName>
-			<Desc>[IT]มีจิตใจเข้มแข็งและอดทนต่อความเจ็บปวดได้มากยิ่งกว่าผู้อื่น</Desc>
+			<Desc>[IT] có tâm trí kiên cường và chịu đau giỏi hơn người khác.</Desc>
 		</Text>
 		<Text Name="Weak">
 			<DisplayName>อ่อนแอ</DisplayName>
-			<Desc>[IT]ได้รับการปกป้องมาโดยตลอดและแทบจะไม่สามารถทนต่อความเจ็บปวดได้</Desc>
+			<Desc>[IT] luôn được bảo bọc nên hầu như không chịu nổi đau đớn.</Desc>
 		</Text>
 		<Text Name="BadMentality">
 			<DisplayName>จิตใจว้าวุ่น</DisplayName>
-			<Desc>[IT]มักจะกระสับกระส่ายอยู่เสมอและมักจะทำงานที่ได้รับมอบหมายไม่สำเร็จ</Desc>
+			<Desc>[IT] luôn bồn chồn và thường không hoàn thành nhiệm vụ được giao.</Desc>
 		</Text>
 		<Text Name="GoodMentality">
 			<DisplayName>จิตใจมั่นคง</DisplayName>
-			<Desc>[IT]มีจิตใจที่มั่นคง [IT]จะรู้สึกหงุดหงิดหรือโศกเศร้าได้ยากมาก</Desc>
+			<Desc>[IT] có tâm trí vững vàng, rất khó cảm thấy bực bội hay buồn bã.</Desc>
 		</Text>
 		<Text Name="Rugged">
 			<DisplayName>เลินเล่อ</DisplayName>
-			<Desc>[IT]มักจะประมาทเลินเล่อในงานของตนอยู่เสมอ แม้ว่า[IT]จะทำงานเสร็จเร็วกว่าคนทั่วไป ทว่างานที่ออกมานั้นกลับไม่ค่อยจะดีนัก</Desc>
+			<Desc>[IT] thường cẩu thả trong công việc. Dù làm xong nhanh hơn người khác nhưng chất lượng lại không tốt.</Desc>
 		</Text>
 		<Text Name="Careful">
 			<DisplayName>พิถีพิถัน</DisplayName>
-			<Desc>[IT]นั้นจะพิถีพิถันในงานของตนเองเป็นอย่างมาก นี่จึงทำให้[IT]ทำงานได้ค่อนข้างช้า ทว่าผลงานที่ได้ออกมานั้นดีมาก</Desc>
+			<Desc>[IT] rất tỉ mỉ trong công việc, khiến [IT] làm việc khá chậm, nhưng kết quả luôn rất tốt.</Desc>
 		</Text>
 		<Text Name="Lazy">
 			<DisplayName>เกียจคร้าน</DisplayName>
-			<Desc>[IT]ไม่ชอบทำงาน</Desc>
+			<Desc>[IT] không thích làm việc.</Desc>
 		</Text>
 		<Text Name="Industrious">
 			<DisplayName>สู้หนัก</DisplayName>
-			<Desc>[IT]มีความขยันหมั่นเพียรและมีประสิทธิภาพในการทำงานที่ดีมาก</Desc>
+			<Desc>[IT] cần cù chăm chỉ và làm việc rất hiệu quả.</Desc>
 		</Text>
 		<Text Name="Feminization">
 			<DisplayName>ใจเป็นหญิง</DisplayName>

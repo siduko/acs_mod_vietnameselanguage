@@ -1,8 +1,8 @@
-ชาวบ้าน,ผู้เฒ่า,ขุนนาง,ราชา,จักรพรรดิ,เจ้าเมือง,องค์ชาย,อ๋อง,คุณชาย,นายน้อย,สุภาพบุรุษ,บัณฑิต,ครู,เจ้าบ้าน,คนพเนจร,นักสำรวจ
-ชาวบ้านปกติ,ผู้เฒ่า,ขุนนาง,ราชา,จักรพรรดิ,เจ้าเมือง,องค์ชาย,อ๋อง,คุณชาย,นายน้อย,สุภาพบุรุษ,บัณฑิต,ครู,เจ้าบ้าน,คนพเนจร,นักสำรวจ
-ชาวบ้านใจดี,ผู้เฒ่า,ขุนนาง,ราชา,จักรพรรดิ,เจ้าเมือง,องค์ชาย,อ๋อง,คุณชาย,นายน้อย,สุภาพบุรุษ,บัณฑิต,ครู,เจ้าบ้าน,คนพเนจร,นักสำรวจ
-ชาวบ้านชั่วร้าย,อสูร,ปีศาจ,มือสังหาร,มารร้าย,นักเชือด,ผู้เฒ่า,ขุนนาง,ราชา,จักรพรรดิ,เจ้าเมือง,องค์ชาย,อ๋อง,คุณชาย,นายน้อย,สุภาพบุรุษ
-หญิงชาวบ้าน,แม่นาง,นายหญิง,องค์หญิง,ท่านหญิง,เจ้าบ้าน,คนพเนจร,นักสำรวจ,มือกระบี่หญิง
-หญิงชาวบ้านปกติ,แม่นาง,นายหญิง,องค์หญิง,ท่านหญิง,เจ้าบ้าน,คนพเนจร,นักสำรวจ,มือกระบี่หญิง
-หญิงชาวบ้านใจดี,แม่นาง,นายหญิง,องค์หญิง,ท่านหญิง,เจ้าบ้าน,คนพเนจร,นักสำรวจ,มือกระบี่หญิง
-นางมารร้าย,ปีศาจสาว,หมอผี,นักเชือด,นายหญิง,เจ้ามารยา,นางจิ้งจอก
+Dân Thường,Lão Trượng,Quan Lại,Quốc Vương,Hoàng Đế,Thành Chủ,Hoàng Tử,Vương Gia,Công Tử,Thiếu Gia,Quân Tử,Nho Sinh,Phu Tử,Gia Chủ,Lãng Khách,Thám Hiểm Giả
+Dân Thường,Lão Trượng,Quan Lại,Quốc Vương,Hoàng Đế,Thành Chủ,Hoàng Tử,Vương Gia,Công Tử,Thiếu Gia,Quân Tử,Nho Sinh,Phu Tử,Gia Chủ,Lãng Khách,Thám Hiểm Giả
+Dân Thường,Lão Trượng,Quan Lại,Quốc Vương,Hoàng Đế,Thành Chủ,Hoàng Tử,Vương Gia,Công Tử,Thiếu Gia,Quân Tử,Nho Sinh,Phu Tử,Gia Chủ,Lãng Khách,Thám Hiểm Giả
+Ác Dân,Yêu Quái,Ác Quỷ,Sát Thủ,Tà Ma,Đồ Tể,Lão Quái,Gian Thần,Bạo Chúa,Hôn Quân,Ác Bá,Nghịch Tử,Gian Thương,Ngụy Quân Tử,Tiểu Nhân,Ngụy Nho
+Thôn Nữ,Cô Nương,Phu Nhân,Công Chúa,Tiểu Thư,Nữ Chủ,Lãng Khách,Thám Hiểm Giả,Nữ Kiếm Khách
+Thôn Nữ,Cô Nương,Phu Nhân,Công Chúa,Tiểu Thư,Nữ Chủ,Lãng Khách,Thám Hiểm Giả,Nữ Kiếm Khách
+Thôn Nữ,Cô Nương,Phu Nhân,Công Chúa,Tiểu Thư,Nữ Chủ,Lãng Khách,Thám Hiểm Giả,Nữ Kiếm Khách
+Yêu Nữ,Ma Nữ,Vu Bà,Đồ Tể,Độc Phụ,Hồ Ly Tinh,Yêu Hồ

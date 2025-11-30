@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Secrets_BadFight1">
 			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักมารได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết đệ tử ma môn để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.0.Tip>พื้นฐานลมปราณ</Selections.0.Tip>
 			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
@@ -11,7 +12,7 @@
 		</Text>
 		<Text Name="Secrets_BadFight2">
 			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักมารได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết đệ tử ma môn để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
 			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
@@ -20,7 +21,7 @@
 		</Text>
 		<Text Name="Secrets_BadFight3">
 			<DisplayName>ร่องรอยของสำนักมาร</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ผู้อาวุโสจากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết trưởng lão chính phái để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
 			<Selections.1.Display>หยุดพวกเขา</Selections.1.Display>
@@ -29,7 +30,7 @@
 		</Text>
 		<Text Name="Secrets_GoodFight1">
 			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết đệ tử chính phái để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
 			<Selections.1.Tip>พื้นฐานลมปราณ</Selections.1.Tip>
@@ -37,7 +38,7 @@
 		</Text>
 		<Text Name="Secrets_GoodFight2">
 			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ศิษย์จากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết đệ tử chính phái để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
 			<Selections.1.Tip>สร้างแก่นลมปราณ</Selections.1.Tip>
@@ -45,7 +46,7 @@
 		</Text>
 		<Text Name="Secrets_GoodFight3">
 			<DisplayName>ร่องรอยของสำนักธรรมะ</DisplayName>
-			<Desc>[NAME] ได้พบร่องรอยบางอย่างที่ผู้อาวุโสจากสำนักธรรมะได้ทิ้งเอาไว้ใกล้ๆ กับ[PLACE]</Desc>
+			<Desc>[NAME] tìm thấy dấu vết trưởng lão chính phái để lại gần [PLACE].</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.1.Display>ลอบโจมตี</Selections.1.Display>
 			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
@@ -53,28 +54,28 @@
 		</Text>
 		<Text Name="Secrets_FabaoAppear1">
 			<DisplayName>ค้นพบสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Desc>[NAME] phát hiện kho báu ẩn giấu ở [PLACE].</Desc>
 			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
 			<Selections.0.Tip>พื้นฐานลมปราณ</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear2">
 			<DisplayName>ค้นพบสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Desc>[NAME] phát hiện kho báu ẩn giấu ở [PLACE].</Desc>
 			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
 			<Selections.0.Tip>สร้างแก่นลมปราณ</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3">
 			<DisplayName>ค้นพบสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE]</Desc>
+			<Desc>[NAME] phát hiện kho báu ẩn giấu ở [PLACE].</Desc>
 			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
 			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3_Cold">
 			<DisplayName>ค้นพบสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE] และเนื่องจากรอยผนึกที่แตกออกทำให้ดินแดนโดยรอบของทั่วทั้งบริเวณนี้จึงถูกปกคลุมไปด้วยน้ำแข็ง นี่จึงทำให้ไม่มีใครสามารถเข้าใกล้มันได้ถ้าคนผู้นั้นหากปราศจากพื้นฐานการบ่มเพาะที่แข็งแกร่ง</Desc>
+			<Desc>[NAME] phát hiện kho báu ở [PLACE]. Do phong ấn vỡ, khu vực xung quanh bị băng bao phủ, không ai có thể lại gần nếu không có tu vi cao.</Desc>
 			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
 			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
 			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
@@ -82,7 +83,7 @@
 		</Text>
 		<Text Name="Secrets_FabaoAppear3_Hot">
 			<DisplayName>ค้นพบสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ค้นพบสมบัติบางอย่างที่ซ่อนอยู่ใน[PLACE] และเนื่องจากรอยผนึกที่แตกออกทำให้ดินแดนโดยรอบของทั่วทั้งบริเวณนี้จึงถูกปกคลุมไปด้วยลาวาเพลิง นี่จึงทำให้ไม่มีใครสามารถเข้าใกล้มันได้ถ้าคนผู้นั้นหากปราศจากพื้นฐานการบ่มเพาะที่แข็งแกร่ง</Desc>
+			<Desc>[NAME] phát hiện kho báu ở [PLACE]. Do phong ấn vỡ, khu vực xung quanh bị dung nham bao phủ, không ai có thể lại gần nếu không có tu vi cao.</Desc>
 			<Selections.0.Display>ต่อสู้เพื่อแย่งชิงมัน</Selections.0.Display>
 			<Selections.0.Tip>แก่นทองคำ</Selections.0.Tip>
 			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
@@ -90,14 +91,14 @@
 		</Text>
 		<Text Name="Secrets_DongFuAppear">
 			<DisplayName>ถ้ำเซียน</DisplayName>
-			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่</Desc>
+			<Desc>[NAME] tìm thấy động phủ tiên nhân ở [PLACE], bên trong ẩn chứa nhiều kho báu.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Cold">
 			<DisplayName>ถ้ำเซียน</DisplayName>
-			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ อย่างไรก็ตามถ้ำแห่งนี้ได้รับการปกป้องด้วยคาถาป้องกัน ทำให้ข้างในนั้นปกคลุมไปด้วยไอเย็นที่สามารถฆ่าใครก็ตามที่ไม่มีความต้านทานสูงมากพอ</Desc>
+			<Desc>[NAME] tìm thấy động phủ tiên nhân ở [PLACE] chứa nhiều kho báu. Tuy nhiên nơi này được bảo vệ bởi cấm chế, bên trong tràn ngập khí lạnh có thể giết chết bất kỳ ai không đủ sức chống chịu.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
@@ -105,7 +106,7 @@
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Hot">
 			<DisplayName>ถ้ำเซียน</DisplayName>
-			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ อย่างไรก็ตามถ้ำแห่งนี้ได้รับการปกป้องด้วยคาถาป้องกัน ทำให้ข้างในนั้นปกคลุมไปด้วยไอร้อนที่สามารถฆ่าใครก็ตามที่ไม่มีความต้านทานสูงมากพอ</Desc>
+			<Desc>[NAME] tìm thấy động phủ tiên nhân ở [PLACE] chứa nhiều kho báu. Tuy nhiên nơi này được bảo vệ bởi cấm chế, bên trong tràn ngập khí nóng có thể giết chết bất kỳ ai không đủ sức chống chịu.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>จากไปอย่างไม่เต็มใจ</Selections.1.Display>
@@ -113,14 +114,14 @@
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Manual">
 			<DisplayName>ถ้ำเซียน</DisplayName>
-			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ เจ้าของถ้ำแห่งนี้เป็นปรมาจารย์ด้านการหลอมอาวุธวิเศษ ซึ่งได้สร้างกับดักและคาถาป้องกันจำนวนนับไม่ถ้วนด้วยทักษะนี้ ผู้ที่เข้ามาโดยปราศจากทักษะการหลอมอาวุธวิเศษขั้นสูงนั้นย่อมต้องพบกับความพินาศ</Desc>
+			<Desc>[NAME] tìm thấy động phủ tiên nhân ở [PLACE] chứa nhiều kho báu. Chủ nhân là bậc thầy luyện khí, đã đặt vô số bẫy và cấm chế. Kẻ không có kỹ năng luyện khí cao siêu bước vào ắt phải chết.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ทักษะหลอมอาวุธวิเศษ</Selections.0.Tip>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Medicine">
 			<DisplayName>ถ้ำเซียน</DisplayName>
-			<Desc>[NAME] พบที่พำนักของเซียนอมตะใน[PLACE] ข้างในนั้นมีขุมทรัพย์มากมายที่ซ่อนอยู่ เจ้าของถ้ำแห่งนี้เป็นปรมาจารย์ด้านการหลอมโอสถ ซึ่งได้สร้างกับดักและคาถาป้องกันจำนวนนับไม่ถ้วนด้วยทักษะนี้ ผู้ที่เข้ามาโดยปราศจากทักษะการหลอมโอสถขั้นสูงนั้นย่อมต้องพบกับความพินาศ</Desc>
+			<Desc>[NAME] tìm thấy động phủ tiên nhân ở [PLACE] chứa nhiều kho báu. Chủ nhân là bậc thầy luyện đan, đã đặt vô số bẫy và cấm chế. Kẻ không có kỹ năng luyện đan cao siêu bước vào ắt phải chết.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ทักษะหลอมโอสถ</Selections.0.Tip>
 			<Selections.1.Display>จากไป</Selections.1.Display>
@@ -178,13 +179,13 @@
 		</Text>
 		<Text Name="Secrets_Baozang_EX3">
 			<DisplayName>พระราชวังสวรรค์</DisplayName>
-			<Desc>[NAME] หวนนึกถึงสิ่งที่ถูกบันทึกไว้ในบันทึกการเดินทางของผู้กล่อมสายลม: เล่มที่ 1 ยังมีถ้ำภายในลึกลับอีกแห่งอยู่ใต้ถ้ำของหมอเทวะที่ตั้งอยู่บนยอดเขาโอสถ ดังนั้น[ENHIM]จึงตัดสินใจสำรวจสถานที่แห่งนี้</Desc>
+			<Desc>[NAME] nhớ lại Ngự Phong Tử Du Ký: Quyển 1, có hang động bí ẩn dưới động Thần Y trên đỉnh Luyện Đan Phong, nên quyết định đi thám hiểm.</Desc>
 			<Selections.0.Display>สำรวจ</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Baozang_EX4">
 			<DisplayName>ถ้ำแห่งเพลิง</DisplayName>
-			<Desc>[NAME] หวนนึกถึงสิ่งที่ถูกบันทึกไว้ในบันทึกลับหยุนจี้: ทะเลทรายไร้ขอบเขต ทะเลทรายแห่งนี้ได้ก่อตัวมาจากอุกกาบาตที่ตกลงมาจากสวรรค์เมื่อครั้งสมัยโบราณ ในเวลาต่อมาสถานที่ที่อุกกาบาตก้อนนั้นได้ตกลงมานั้นเป็นที่รู้จักกันในชื่อถ้ำอัคคี บางทีอาจจะมีปริศนาอะไรบางอย่างแฝงอยู่ในถ้ำแห่งนี้เพื่อรอการสำรวจอยู่</Desc>
+			<Desc>[NAME] nhớ lại Vân Cấp Thất Thiêm: Đại Mạc. Sa mạc này hình thành từ thiên thạch rơi xuống thời thượng cổ, nơi đó gọi là Hỏa Huyệt. Có lẽ nơi này ẩn chứa bí ẩn gì đó.</Desc>
 			<Selections.0.Display>สำรวจ</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
@@ -215,13 +216,13 @@
 		</Text>
 		<Text Name="Secrets_NanPing1">
 			<DisplayName>กล่องหิน</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังหมู่บ้านหนานปิงและได้ทราบว่าชายที่มีชื่อว่าจางเอ้อวานั้นได้อาศัยอยู่ที่หมู่บ้านแห่งนี้</Desc>
+			<Desc>[NAME] đến thôn Nam Bình và biết Trương Nhị Oa sống ở đây.</Desc>
 			<Selections.0.Display>ถามเกี่ยวกับกล่องหิน</Selections.0.Display>
 			<Selections.0.Tip>เสน่ห์</Selections.0.Tip>
 		</Text>
 		<Text Name="Secrets_XianJianLing1">
 			<DisplayName>กองกำลังกระบี่สวรรค์</DisplayName>
-			<Desc>[NAME] ได้มายังภูเขาซูเพื่อสืบเกี่ยวกับเรื่องของกองกำลังกระบี่สวรรค์.</Desc>
+			<Desc>[NAME] đến Thục Sơn điều tra về Thiên Kiếm Minh.</Desc>
 			<Selections.0.Display>สืบถามรายละเอียด</Selections.0.Display>
 			<Selections.1.Display>ติดต่อภูเขาซู</Selections.1.Display>
 			<Selections.2.Display>ปกปิดความจริง</Selections.2.Display>
@@ -236,7 +237,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui">
 			<DisplayName>เทศกาลแห่งเขาคุนหลุน</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังภูเขาคุนหลุนและได้พบว่าเทศกาลแห่งเขาคุนหลุนนั้นได้เริ่มขึ้นแล้ว เหล่าผู้ฝึกตนและเหล่าเซียนต่างก็มารวมตัวกันในงานเทศกาลคครั้งนี้เพื่อแสดงความสามารถของพวกเขา และมีเพียงผู้ที่อยู่ในขอบเขตแก่นทองคำหรือสูงกว่าเท่านั้นจึงจะสามารถเข้าร่วมงานเทศกาลในครั้งนี้ได้ ผู้ที่ได้รับชัยชนะจากงานเทศกาลสามารถรับวิชาบ่มเพาะบางอย่างจากวิหารหยกสิ้นสูญได้ [NAME] กำลังสงสัยว่า[ENHIM]ควรจะเข้าร่วมการแข่งขันประเภทใดดี</Desc>
+			<Desc>[NAME] đến Côn Luân và thấy Côn Luân Pháp Hội đã bắt đầu. Các tu sĩ tụ tập để thể hiện tài năng, chỉ Kim Đan Cảnh trở lên mới được tham gia. Người thắng có thể nhận bí kíp từ Ngọc Hư Cung. [NAME] đang phân vân nên thi đấu gì.</Desc>
 			<Selections.0.Display>แข่งขันบรรยายเต๋า</Selections.0.Display>
 			<Selections.1.Display>แข่งขันหลอมอาวุธวิเศษ</Selections.1.Display>
 			<Selections.2.Display>แข่งขันหลอมโอสถ</Selections.2.Display>
@@ -246,7 +247,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui1">
 			<DisplayName>การบรรยายเต๋าแห่งเขาคุนหลุน</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังยอดเขาหลักของภูเขาคุนหลุน มันเป็นสถานที่ๆ ผู้ที่เข้าร่วมการเสวนาเต๋าได้มารวมตัวกันอย่างหนาแน่น ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์หยกบริสุทธิ์อมตะ</Desc>
+			<Desc>[NAME] đến đỉnh chính Côn Luân, nơi mọi người tụ tập luận đạo. Người thắng sẽ nhận được Ngọc Thanh Tiên Pháp.</Desc>
 			<Selections.0.Display>บรรยายเต๋า</Selections.0.Display>
 			<Selections.0.Tip>สติปัญญา/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
 			<Selections.1.Display>บรรยายเต๋า</Selections.1.Display>
@@ -257,7 +258,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui2">
 			<DisplayName>แข่งขันหลอมอาวุธวิเศษ</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังถ้ำชีพจรมังกรบนเขาคุนหลุน สถานที่ที่ผู้ฝึกตนจะแสดงทักษะการหลอมอาวุธวิเศษของพวกเขาออกมา ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์หมื่นวิถีกำเนิดสรรพวุธ</Desc>
+			<Desc>[NAME] đến Long Mạch Động trên núi Côn Luân, nơi thi đấu kỹ năng luyện khí. Người thắng sẽ nhận được Kỷ Vật Lục.</Desc>
 			<Selections.0.Display>เข้าร่วมการแข่งขัน</Selections.0.Display>
 			<Selections.0.Tip>ทักษะหลอมอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
 			<Selections.1.Display>เข้าร่วมการแข่งขัน</Selections.1.Display>
@@ -268,7 +269,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui3">
 			<DisplayName>แข่งขันหลอมโอสถ</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังสระหยกบนเขาคุนหลุน สถานทีที่ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษในการเตรียมสมุนไพรและหลอมกลั่นโอสถชั้นยอดออกมา ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์กลั่นโอสถปฐมกาล</Desc>
+			<Desc>[NAME] đến Dao Trì trên núi Côn Luân, nơi thi đấu luyện đan. Người thắng sẽ nhận được Cửu Chuyển Kim Đan Trực Chỉ.</Desc>
 			<Selections.0.Display>เข้าร่วมการแข่งขัน</Selections.0.Display>
 			<Selections.0.Tip>ทักษะหลอมโอสถ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
 			<Selections.1.Display>เข้าร่วมการแข่งขัน</Selections.1.Display>
@@ -279,7 +280,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui4">
 			<DisplayName>ประลองกระบี่</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังลานชุมนุมเซียนบนเขาคุนหลุน ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษเพื่อคว้าชัยชนะในฐานะผู้ฝึกฝนกระบี่ที่แข็งแกร่งที่สุด ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์เจ็ดวิถีกระบี่สังหาร</Desc>
+			<Desc>[NAME] đến Đăng Tiên Đài trên núi Côn Luân, nơi thi đấu kiếm thuật. Người thắng sẽ nhận được Thất Sát Kiếm Quyết.</Desc>
 			<Selections.0.Display>เข้าร่วมการประลอง</Selections.0.Display>
 			<Selections.0.Tip>ทักษะอาวุธวิเศษ/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
 			<Selections.1.Display>เข้าร่วมการประลอง</Selections.1.Display>
@@ -290,7 +291,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui5">
 			<DisplayName>ประลองปราณเวท</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังซากวิหารสิ้นสูญบนเขาคุนหลุน ผู้ฝึกตนที่มีชื่อเสียงแต่ละคนจะแสดงความสามารถพิเศษเพื่อคว้าชัยชนะในฐานะผู้ใช้ทักษะปราณเวทที่แข็งแกร่งที่สุด ตามแนวทางปฏิบัติที่ผ่านมาในอดีต ผู้ชนะจะได้รับคัมภีร์เทพสะบั้นอารมณ์</Desc>
+			<Desc>[NAME] đến Di Tích Đạo Điển trên núi Côn Luân. Các tu sĩ nổi tiếng sẽ thi đấu để chọn ra người dùng Thuật Pháp mạnh nhất. Người thắng sẽ nhận được Thái Thượng Vong Tình Đạo.</Desc>
 			<Selections.0.Display>เข้าร่วมการประลอง</Selections.0.Display>
 			<Selections.0.Tip>ทักษะปราณเวท/ใช้โชค/ค่าสถานะโดยรวม</Selections.0.Tip>
 			<Selections.1.Display>เข้าร่วมการประลอง</Selections.1.Display>
@@ -354,14 +355,14 @@
 		</Text>
 		<Text Name="Secrets_WuHeYouZhiXiang">
 			<DisplayName>ตำนานต่างโลก</DisplayName>
-			<Desc>[NAME] ได้มายังรอยแยกต่างมิติเพื่อพยายามตรวจสอบเส้นทางลึกลับที่นำไปสู่ดินแดนหายนะ</Desc>
+			<Desc>[NAME] đến vết nứt không gian để kiểm tra con đường dẫn đến Tai Ách Chi Địa.</Desc>
 			<Selections.0.Display>สำรวจ</Selections.0.Display>
 			<Selections.0.Tip>เมล็ดเต๋า</Selections.0.Tip>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YingTianTai">
 			<DisplayName>ผู้มาเยือนจากต่างโลก</DisplayName>
-			<Desc>[NAME] ได้มายังรอยแยกต่างมิติเพื่อและพยายามตามหาผู้มาเยือนจากต่างโลกที่ถูกกล่าวถึงในตำนาน</Desc>
+			<Desc>[NAME] đến vết nứt không gian tìm người dị giới trong truyền thuyết.</Desc>
 			<Selections.0.Display>ค้นหา</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
@@ -373,8 +374,8 @@
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi1">
 			<DisplayName>รอยแยกจากต่างโลก</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังจุดที่ถูกกล่าวถึงและตามที่คาดเอาไว้ ที่นี่มันมีรอยแตกของมิติอยู่อย่างมากมาย แต่ที่น่าประหลาดใจก็คือ กระแสที่แผ่ออกมาจากรอยแตกของมิติ ณ ที่แห่งนี้นั้นค่อนข้างเสถียรเป็นอย่างมาก แล [NAME] ยังสามารถสัมผัสได้ถึงบรรยากาศสุขสงบที่อยู่เบื้องหลังรอยแห่งมิติแห่งนี้ ซึ่งดูเหมือนว่ามันจะปลอดภัยมาก</Desc>
-			<Selections.0.Display>Try to ตรวจสอบ</Selections.0.Display>
+			<Desc>[NAME] đến điểm đã hẹn, quả nhiên có nhiều vết nứt không gian. Ngạc nhiên là dòng chảy từ vết nứt khá ổn định và [NAME] cảm nhận được sự bình yên sau đó, có vẻ rất an toàn.</Desc>
+			<Selections.0.Display>Thử kiểm tra</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi11">
@@ -436,7 +437,7 @@
 		</Text>
 		<Text Name="Secrets_TianJi3">
 			<DisplayName>กลับบ้าน</DisplayName>
-			<Desc>[NAME] ได้มอบกายเนื้อของปรมาจารย์สวรรค์คืนให้แก่วังเหนือนภา ทั่วทั้งวังเหนือนภารู้ศึกปิติยินดีเป็นอย่างมาก ใบหน้าของเหล่าศิษย์แห่งวังเหนือเหนือนภาต่างเต็มไปด้วยร่องรอยของความสุข</Desc>
+			<Desc>[NAME] trao trả thân xác Thiên Sư cho Cực Thiên Cung. Cả cung vui mừng khôn xiết, đệ tử ai nấy đều hân hoan.</Desc>
 			<Selections.0.Display>คืนร่างให้แก่วังเหนือนภา</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_SuoYingTuJuan">
@@ -451,21 +452,21 @@
 		</Text>
 		<Text Name="Secrets_BossLong">
 			<DisplayName>ร่องรอยของมังกรวารี</DisplayName>
-			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของมังกรวารี</Desc>
+			<Desc>[NAME] đến [PLACE] và cảm nhận được dấu vết của Thủy Long.</Desc>
 			<Selections.0.Display>ยั่วยุมังกรน้ำให้ปรากฏ</Selections.0.Display>
 			<Selections.0.Tip>บินด้วยความเร็วสูง</Selections.0.Tip>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_BossFeng">
 			<DisplayName>ร่องรอยของหงส์เพลิง</DisplayName>
-			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของหงส์เพลิง</Desc>
+			<Desc>[NAME] đến [PLACE] và cảm nhận được dấu vết của Phượng Hoàng.</Desc>
 			<Selections.0.Display>ยัวยุหงส์เพลิงให้ปรากฏ</Selections.0.Display>
 			<Selections.0.Tip>บินด้วยความเร็วสูง</Selections.0.Tip>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_BossZhuLong">
 			<DisplayName>ปราณแห่งหยินหยาง</DisplayName>
-			<Desc>[NAME] ได้มาถึงยัง[PLACE] และสัมผัสได้ถึงร่องรอยของความสมดุลของหยินและหยางที่ถูกรบกวน</Desc>
+			<Desc>[NAME] đến [PLACE] và cảm nhận được sự cân bằng Âm Dương bị xáo trộn.</Desc>
 			<Selections.0.Display>ชักนำปราณแห่งหยินหยาง</Selections.0.Display>
 			<Selections.0.Tip>ความเร็วบินผจญภัย</Selections.0.Tip>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
@@ -494,84 +495,84 @@
 		</Text>
 		<Text Name="Story_Building_SwordTower">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งอยู่หน้าเจดีย์และพยายามสื่อสารกับเจดีย์ด้วยการรับรู้</Desc>
+			<Desc>[NAME] ngồi trước tháp, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_HenZhiBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_LongZhiBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_TongLing">
 			<DisplayName>ร่องรอยของสหายเก่า</DisplayName>
-			<Desc>[NAME] ได้มาถึงยังภูเขาถงหลิงและใช้สัมผัสปราณเพื่อค้นหา [ENHIM]พบว่าชายแปลกๆ คนนั้นกำลังนอนอยู่ในเหมืองร้าง... และแท้จริงแล้วกลายเป็นว่าชายคนนั้นก็คือผู้อาวุโสเจ็ดนั่นเอง!</Desc>
+			<Desc>[NAME] đến núi Đồng Lăng và dùng Thần Thức tìm kiếm. [ENHIM] thấy người đàn ông lạ đang nằm trong mỏ hoang... hóa ra là Thất Sư Huynh!</Desc>
 			<Selections.0.Display>ทักทายเขา</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Building_ShouZhiBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_ShouZhiBeiQian">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] ใช้การรับรู้เพื่อพยายามสื่อสารกับศพ</Desc>
+			<Desc>[NAME] dùng Thần Thức cố gắng giao tiếp với xác chết.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_WinterSummer">
 			<DisplayName>เก็บเกี่ยว</DisplayName>
-			<Desc>[NAME] ค่อยหยิบหนอนหิมะอัคคีขึ้นมา</Desc>
+			<Desc>[NAME] từ từ nhặt Tuyết Hỏa Trùng lên.</Desc>
 			<Selections.0.Display>เก็บเกี่ยว</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_JiZhiBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_HuanZhiBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Jin">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Desc>[NAME] ngồi xuống và cố gắng dùng Thần Thức để kiểm tra.</Desc>
 			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Mu">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Desc>[NAME] ngồi xuống và cố gắng dùng Thần Thức để kiểm tra.</Desc>
 			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Shui">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Desc>[NAME] ngồi xuống và cố gắng dùng Thần Thức để kiểm tra.</Desc>
 			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Huo">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Desc>[NAME] ngồi xuống và cố gắng dùng Thần Thức để kiểm tra.</Desc>
 			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_LingZhi_Tu">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] นั่งและพยายามใช้การรับรู้เพื่อตรวจสอบ</Desc>
+			<Desc>[NAME] ngồi xuống và cố gắng dùng Thần Thức để kiểm tra.</Desc>
 			<Selections.0.Display>ตรวจสอบ</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
@@ -583,47 +584,47 @@
 		</Text>
 		<Text Name="Story_Building_ZhongBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_XingBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_LingBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_MuBei">
 			<DisplayName>ตอบโต้</DisplayName>
-			<Desc>[NAME] นั่งหน้าอนุสรณ์สถานและพยายามสื่อสารกับมันโดยใช้การรับรู้</Desc>
+			<Desc>[NAME] ngồi trước đài tưởng niệm, cố gắng dùng Thần Thức giao tiếp với nó.</Desc>
 			<Selections.0.Display>ตอบโต้</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_TaiYi">
 			<DisplayName>ทำความเคารพสำนัก</DisplayName>
-			<Desc>[NAME] ได้คุกเข่าลงต่อหน้าประตูภูเขาไท้อี้ และความทรงจำของเหตุการณ์ในอดีตก็ผุดขึ้นมาภายในใจของ[ENHIM]</Desc>
+			<Desc>[NAME] quỳ trước cổng núi Thái Ất, ký ức xưa ùa về trong lòng [ENHIM].</Desc>
 		</Text>
 		<Text Name="Story_Building_NoLight">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] รู้สึกแปลกใจที่โคมไฟนี้ไม่ถูกจุด [ENHIM]นั่งลงเพื่อตรวจสอบและพบบางอย่างเกี่ยวกับทิวทัศน์</Desc>
+			<Desc>[NAME] ngạc nhiên vì đèn không sáng. [ENHIM] ngồi xuống kiểm tra và phát hiện điều gì đó về phong cảnh.</Desc>
 		</Text>
 		<Text Name="Story_Building_FireLantern">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] พบว่ามันแปลก ทำไมโคมถึงทำด้วยแท่งแกนอัคคี? เมื่อมองอย่างระมัดระวัง [ENHIM]พบว่าบริเวณโดยรอบดูเหมือนจะไม่ใช่หอพักของคนงานเหมืองอีกต่อไป</Desc>
+			<Desc>[NAME] thấy lạ, sao đèn lại làm bằng Hỏa Tinh Đĩnh? Nhìn kỹ lại thì xung quanh dường như không còn là ký túc xá thợ mỏ nữa.</Desc>
 		</Text>
 		<Text Name="Story_Building_GolemLantern">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] รู้สึกแปลกๆ หรือที่นี้จะมีเสาโคมไฟที่ทำจากหินศักดิ์สิทธิ์มาก่อนไหม? หลังจากเข้าไปแล้ว[ENHIM]ก็รู้สึกถึงายลมเย็นและไม่รู้สึกร้อนอีกต่อไป</Desc>
+			<Desc>[NAME] thấy lạ, liệu nơi này từng có cột đèn bằng đá thiêng? Sau khi vào, [ENHIM] cảm thấy gió mát và không còn nóng nữa.</Desc>
 		</Text>
 		<Text Name="Story_Building_OddLantern">
 			<DisplayName>ตรวจสอบ</DisplayName>
-			<Desc>[NAME] รู้สึกแปลกๆ นี่คือตำแหน่งที่เหมาะสมสำหรับตะเกียงนี้งั้นหรือ? หรือว่าพวกเขาพยายามทำให้มันอยู่ในตำแหน่งนี้ ทันใดนั้น จู่ๆ ก็ดูเหมือนตะเกียงก็ส่งเสียงอะรบางอย่างออกมาและสภาพแวดล้อมก็ดูเปลี่ยนไป</Desc>
+			<Desc>[NAME] thấy lạ, đây có phải chỗ đặt đèn không? Hay họ cố ý để thế? Đột nhiên đèn phát ra tiếng động và môi trường xung quanh thay đổi.</Desc>
 		</Text>
 		<Text Name="Story_Item_OpenAuction">
 			<DisplayName>ตรวจสอบ</DisplayName>
@@ -631,7 +632,7 @@
 		</Text>
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>พิธีรำลึก</DisplayName>
-			<Desc>[NAME] ได้รำลึกถึงความทรงจำอยู่ใต้หอคอยอย่างเงียบๆ แต่ทันใดนั้น [ENHIM]ก็รู้สึกว่าบางสิ่งใต้หอคอยนั้นดูเหมือนจะสอดคล้องกับกฎแห่งความเป็นหนึ่งบนร่างกายของเขา การตอบสนองนี้มันเบาบางมากและแทบจะตรวจจับไม่ได้ ความรู้สึกนี้มันคล้ายกับปราณของสำนักไท้อี้</Desc>
+			<Desc>[NAME] lặng lẽ hồi tưởng dưới tháp, bỗng cảm thấy thứ gì đó dưới tháp cộng hưởng với Thái Nhất trên người. Phản ứng rất yếu, cảm giác giống khí tức phái Thái Ất.</Desc>
 			<Selections.0.Display>ค้นหา</Selections.0.Display>
 			<Selections.1.Display>ยอมแพ้</Selections.1.Display>
 		</Text>

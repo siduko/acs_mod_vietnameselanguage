@@ -1,20 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
 			<DisplayName>ตรวจสอบคัมภีร์</DisplayName>
-			<Desc>[NAME] ศึกษาคัมภีร์อย่างรอบคอบ</Desc>
+			<Desc>[NAME] nghiên cứu bí kíp cẩn thận.</Desc>
 			<Selections.0.Display>อ่าน</Selections.0.Display>
 			<Selections.1.Display>ใช้ตราผนึกโบราณเพื่อคลายผนึก</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
 			<DisplayName>ตรวจสอบหนังสือ</DisplayName>
-			<Desc>[NAME] ทำการตรวจสอบหนังสือ</Desc>
+			<Desc>[NAME] đang kiểm tra sách.</Desc>
 			<Selections.0.Display>อ่าน</Selections.0.Display>
 			<Selections.1.Display>ใช้ตราผนึกจักรวาลเพื่อคลายผนึก</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
 			<DisplayName>ตรวจสอบเศษชิ้นส่วน</DisplayName>
-			<Desc>[NAME] พยายามตรวจสอบเศษของกล่องคัมภีร์ทองคำ</Desc>
+			<Desc>[NAME] cố gắng kiểm tra mảnh Hộp Kim Thư.</Desc>
 			<Selections.0.Display>Examine</Selections.0.Display>
 			<Selections.1.Display>ใช้ตราผนึกบรรพกาลเพื่อคลายผนึก</Selections.1.Display>
 		</Text>

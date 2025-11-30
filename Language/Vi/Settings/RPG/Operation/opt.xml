@@ -1,34 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Mine">
-			<DisplayName>ขุดเหมือง</DisplayName>
+			<DisplayName>Khai thác mỏ</DisplayName>
 		</Text>
 		<Text Name="Pickup">
-			<DisplayName>เก็บรวบรวม</DisplayName>
+			<DisplayName>Thu thập</DisplayName>
 		</Text>
 		<Text Name="Cutoff">
-			<DisplayName>ตัด</DisplayName>
+			<DisplayName>Cắt</DisplayName>
 		</Text>
 		<Text Name="Eat">
-			<DisplayName>กิน</DisplayName>
+			<DisplayName>Ăn</DisplayName>
 		</Text>
 		<Text Name="Dialog">
-			<DisplayName>พูดคุย</DisplayName>
+			<DisplayName>Trò chuyện</DisplayName>
 		</Text>
 		<Text Name="Interact">
-			<DisplayName>โต้ตอบ</DisplayName>
+			<DisplayName>Đối thoại</DisplayName>
 		</Text>
 		<Text Name="Equip">
-			<DisplayName>สวมใส่</DisplayName>
+			<DisplayName>Trang bị</DisplayName>
 		</Text>
 		<Text Name="Attack">
-			<DisplayName>โจมตี</DisplayName>
+			<DisplayName>Tấn công</DisplayName>
 		</Text>
 		<Text Name="Slaughter">
-			<DisplayName>สังหาร</DisplayName>
+			<DisplayName>Sát hại</DisplayName>
 		</Text>
 		<Text Name="SlaughterBoss">
-			<DisplayName>ขุด</DisplayName>
+			<DisplayName>Đào</DisplayName>
 		</Text>
 	</List>
 </Texts>

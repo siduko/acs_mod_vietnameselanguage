@@ -1,16 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="TSheildSkill">
-			<DisplayName>เพิ่มพลังป้องกัน</DisplayName>
+			<DisplayName>Tăng Phòng Thủ</DisplayName>
 		</Text>
 		<Text Name="SheildSkill_Gong5_1">
-			<DisplayName>โล่โลหิตเทพ</DisplayName>
+			<DisplayName>Thần Huyết Thuẫn</DisplayName>
 		</Text>
 		<Text Name="SheildSkill_Gong4_1">
-			<DisplayName>โล่วิญญาณ</DisplayName>
+			<DisplayName>Linh Thuẫn</DisplayName>
 		</Text>
 		<Text Name="SheildSkill_Gong11_1">
-			<DisplayName>โล่เทวะ</DisplayName>
+			<DisplayName>Thần Thuẫn</DisplayName>
 		</Text>
 	</List>
 </Texts>

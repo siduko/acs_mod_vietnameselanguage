@@ -1,31 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Zhulong_fennu">
-			<DisplayName>โกรธ</DisplayName>
+			<DisplayName>Phẫn Nộ</DisplayName>
 		</Text>
 		<Text Name="Zhulong_shennian">
-			<DisplayName>อัสนีแห่งเทพ</DisplayName>
+			<DisplayName>Thiên Lôi</DisplayName>
 		</Text>
 		<Text Name="Zhulong_zuinie">
-			<DisplayName>อัสนีแห่งบาป</DisplayName>
+			<DisplayName>Tội Lôi</DisplayName>
 		</Text>
 		<Text Name="Zhulong_yehuotuxi">
-			<DisplayName>ปราณแห่งกรรม</DisplayName>
+			<DisplayName>Nghiệp Lực</DisplayName>
 		</Text>
 		<Text Name="Zhulong_xinmotuxi">
-			<DisplayName>ปราณแห่งมาร</DisplayName>
+			<DisplayName>Ma Khí</DisplayName>
 		</Text>
 		<Text Name="Zhulong_guangzhishenpan">
-			<DisplayName>แสงพิพากษา</DisplayName>
+			<DisplayName>Phán Quyết Quang</DisplayName>
 		</Text>
 		<Text Name="Zhulong_shenanzhiyuan">
-			<DisplayName>เนตรอเวจี</DisplayName>
+			<DisplayName>Địa Ngục Nhãn</DisplayName>
 		</Text>
 		<Text Name="Zhulong_shenanzhiyuan_bomb">
-			<DisplayName>เนตรอเวจี</DisplayName>
+			<DisplayName>Địa Ngục Nhãn</DisplayName>
 		</Text>
 		<Text Name="Zhulong_guangzhishenpan_bomb">
-			<DisplayName>แสงพิพากษา</DisplayName>
+			<DisplayName>Phán Quyết Quang</DisplayName>
 		</Text>
 	</List>
 </Texts>

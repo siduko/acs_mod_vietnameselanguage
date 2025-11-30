@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_13_None">
@@ -8,14 +9,14 @@
 			<Stages.0.Necks.0.DisplayName>ความว่างเปล่า</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าการรับรู้ที่ต่ำ[/color]</Stages.0.Necks.0.Desc>
 			<Stages.1.DisplayName>ต้นกำเนิด</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>การก่อรูปร่าง</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tạo Hình</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nการทะลวงขอบเขตในขั้นนี้จะยากสำหรับผู้ที่มีค่าความอึดที่ต่ำ[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>กำเนิดปราณ</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Sinh Khí</Stages.1.Necks.1.DisplayName>
 			<Stages.2.DisplayName>ภายในสู่ภายนอก</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>กำเนิดร่าง</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Tạo Hình</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.1.DisplayName>ผสานสองรวมหนึ่ง</Stages.2.Necks.1.DisplayName>
 			<Stages.3.DisplayName>ภายนอกสู่ภายใน</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>กำเนิดชีวิต</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Sinh Mệnh</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.1.DisplayName>ควบแน่นหมุนเวียน</Stages.3.Necks.1.DisplayName>
 			<Stages.4.DisplayName>อ่อนสยบแข็ง</Stages.4.DisplayName>
 			<Stages.4.Necks.0.DisplayName>หยินหยาง</Stages.4.Necks.0.DisplayName>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong7_a1">
@@ -46,7 +47,7 @@
 			<DisplayName>บทเพลงสมานใจ</DisplayName>
 		</Text>
 		<Text Name="Gong7_c5">
-			<DisplayName>วิชาเปลี่ยนไขกระดูก</DisplayName>
+			<DisplayName>วิชาเปลี่ยนไขXương</DisplayName>
 		</Text>
 		<Text Name="Gong7_c7">
 			<DisplayName>คาถาต่อชีพ</DisplayName>
@@ -58,7 +59,7 @@
 			<DisplayName>เจตจำนงกระบี่</DisplayName>
 		</Text>
 		<Text Name="Gong7_d0">
-			<DisplayName>กายามหาเสน่ห์</DisplayName>
+			<DisplayName>Thiên Mị Thể</DisplayName>
 		</Text>
 		<Text Name="Gong7_d3">
 			<DisplayName>ปรัชญากล่อมจิต</DisplayName>
@@ -70,7 +71,7 @@
 			<DisplayName>สมบัติวิเศษบรรพกาล: ขนนกฟ้ากระจ่าง</DisplayName>
 		</Text>
 		<Text Name="Gong7_d4">
-			<DisplayName>กระบี่ตัดกิเลศ</DisplayName>
+			<DisplayName>Trảm Niệm Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong7_d7">
 			<DisplayName>พายุวิญญาณ</DisplayName>
@@ -79,7 +80,7 @@
 			<DisplayName>สะท้อนตัวตน</DisplayName>
 		</Text>
 		<Text Name="Gong7_d9_1">
-			<DisplayName>กระบี่ตัดพันธะ</DisplayName>
+			<DisplayName>Trảm Duyên Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong7_d11">
 			<DisplayName>ยอดกระบี่เริงใจ</DisplayName>

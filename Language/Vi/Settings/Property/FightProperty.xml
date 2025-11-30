@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="NpcFight_BaseHitChance">
@@ -7,7 +8,7 @@
 		</Text>
 		<Text Name="NpcFight_BaseDodgeChance">
 			<DisplayName>อัตราหลบการโจมตี</DisplayName>
-			<Desc>โอกาสที่ผู้ฝึกในสายกายาอมตะจะสามารถหลบการโจมตีของศัตรูได้</Desc>
+			<Desc>โอกาสที่ผู้ฝึกในสายThể chấtอมตะจะสามารถหลบการโจมตีของศัตรูได้</Desc>
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoNum">
@@ -16,8 +17,8 @@
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverK">
-			<DisplayName>อัตราการฟื้นฟูปราณของอาวุธวิเศษ</DisplayName>
-			<Desc>อัตราการฟื้นฟูปราณของอาวุธวิเศษที่ดูดซับจากตัวละคร</Desc>
+			<DisplayName>อัตราHồi phục Linh Khí Pháp Bảo</DisplayName>
+			<Desc>อัตราHồi phục Linh Khí Pháp Bảoที่ดูดซับจากตัวละคร</Desc>
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoPowerAddP">
@@ -26,8 +27,8 @@
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverAddP">
-			<DisplayName>โบนัสการฟื้นฟูปราณของอาวุธวิเศษ</DisplayName>
-			<Desc>การฟื้นฟูปราณของอาวุธวิเศษ</Desc>
+			<DisplayName>โบนัสHồi phục Linh Khí Pháp Bảo</DisplayName>
+			<Desc>Hồi phục Linh Khí Pháp Bảo</Desc>
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoCoolDownAddP">
@@ -57,7 +58,7 @@
 		</Text>
 		<Text Name="NpcFight_FabaoRepelResistanceAddV">
 			<DisplayName>โบนัสความต้านทานการถูกตีกระเด็นของอาวุธวิเศษ</DisplayName>
-			<Desc>การต้านทานการกระเด็นกลับเมื่ออาวุธวิเศษสองชิ้นมาปะทะกัน</Desc>
+			<Desc>Kháng đẩy lùi khi Pháp Bảo va chạm</Desc>
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoTrailingLengthAddP">
@@ -90,7 +91,7 @@
 		</Text>
 		<Text Name="NpcFight_ShieldConversionRate">
 			<DisplayName>โบนัสพลังของเกราะปราณ</DisplayName>
-			<DisplayValue>{0:N3} ความเสียหาย/ปราณ</DisplayValue>
+			<DisplayValue>{0:N3} sát thương/Linh Khí</DisplayValue>
 			<Desc>โบนัสที่เพิ่มให้กับความสามารถในการลดความเสียหายที่ได้รับผ่านการป้องกันของเกราะปราณ</Desc>
 			<FunctionKind>ค่าสถานะในการต่อสู้</FunctionKind>
 		</Text>

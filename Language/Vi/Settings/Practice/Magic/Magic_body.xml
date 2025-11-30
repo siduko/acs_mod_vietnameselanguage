@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Body_ModifierTest">
@@ -9,8 +10,8 @@
 			<TargetDesc>ตำแหน่งเพื่อใช้ในการเดินลมปราณ</TargetDesc>
 		</Text>
 		<Text Name="Magic_Body_TuJin">
-			<DisplayName>กลืนกินชีพ</DisplayName>
-			<Desc>ใช้กายาเร้นลัในการเร่งการทำงานของร่างกายและกินพลังงานจากสวรรค์และโลกโดยตรงเพื่อเติมเต็มพลังที่ขาดหายไป หากต้องการยกเลิกคาถาให้กดใช้คาถาซ้ำอีกครั้ง</Desc>
+			<DisplayName>Thôn Phệ Sinh Mệnh</DisplayName>
+			<Desc>ใช้Thể chấtเร้นลัในการเร่งการทำงานของร่างกายและกินพลังงานจากสวรรค์และโลกโดยตรงเพื่อเติมเต็มพลังที่ขาดหายไป หากต้องการยกเลิกคาถาให้กดใช้คาถาซ้ำอีกครั้ง</Desc>
 		</Text>
 		<Text Name="Magic_Body_ChiYi1">
 			<DisplayName>ผลาญชีพ</DisplayName>

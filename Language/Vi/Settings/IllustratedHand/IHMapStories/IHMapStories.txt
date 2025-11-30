@@ -1,17 +1,17 @@
 ID	MapStoryID	DisplayName	Desc	Hide
-1	Secrets_Baozang_EX1	หุบเขาแห่งหนอน	ปลดล็อคความลับของหุบเขาแห่งหนอน	
-2	Secrets_Baozang_EX2	สมบัติแห่งพิษ	ปลดล็อคความลับของสมบัติแห่งพิษ	
-3	Secrets_Baozang_EX3	พระราชวังสวรรค์	ปลดล็อคความลับของพระราชวังสวรรค์	
-4	Secrets_Baozang_EX4	ถ้ำแห่งเพลิง	ปลดล็อคความลับของถ้ำแห่งเพลิง	
-5	Secrets_Baozang_EX5	สมบัติแห่งเทพ	ปลดล็อคความลับของสมบัติแห่งเทพ	
-6	Secrets_Baozang_EX6	ซากอสูร	ปลดล็อคความลับของซากอสูร	
-7	Secrets_KunLunFaHui	เทศกาลแห่งเขาคุนหลุน	เข้าร่วมเทศกาลแห่งเขาคุนหลุน	
-8	Secrets_GuangShouMenTu	เทศกาลชะตาเซียน	เข้าร่วมเทศกาลแห่งโชคชะตา	
-9	Secrets_XieDiLing	การเปิดสุสานจักรพรรดิอสูร เป็นพยานในการเปิดออกองสุสานจักรพรรดิอสูร
-10	Secrets_DuGuiXingZong	เย่เสวียเซียนพนัน	เดิมพันกับเย่ซวนเซียนพนัน	
-11	Secrets_TianJi	ยันต์สวรรค์บรรพกาล	ปลดล็อคความลับของยันต์สวรรค์บรรพกาล	
-12	BaoZang_QingLianShan	ภูเขาบัวน้ำเงินอมตะ	ปลดล็อคความลับของภูเขาบัวน้ำเงินอมตะ	
-13	BaoZang_XuanKong	เรือนหยกอมตะ	ปลดล็อคความลับของเรือนหยกอมตะ	
-14	BaoZang_ChiLianYuan	ตำหนักมรกตอมตะ	ปลดล็อคความลับของตำหนักมรกตอมตะ	
-15	BaoZang_DengXian	สมบัติของตงฮั่ว	ปลดล็อคสมบัติของตงฮั่ว	
-16	LingWu_JiuHua1	มังกรซ่อนหงส์เพลิงเร้น	ปลดล็อคความลับที่อยู่เบื้องหลังของมังกรซ่อนหงเพลิงเร้น	
+1	Secrets_Baozang_EX1	Thung lũng sâu	Mở khóa bí mật Thung lũng sâu	
+2	Secrets_Baozang_EX2	Kho báu độc dược	Mở khóa bí mật Kho báu độc dược	
+3	Secrets_Baozang_EX3	Thiên Cung	Mở khóa bí mật Thiên Cung	
+4	Secrets_Baozang_EX4	Hỏa Động	Mở khóa bí mật Hỏa Động	
+5	Secrets_Baozang_EX5	Thần Tàng	Mở khóa bí mật Thần Tàng	
+6	Secrets_Baozang_EX6	Xác Yêu Thú	Mở khóa bí mật Xác Yêu Thú	
+7	Secrets_KunLunFaHui	Côn Luân Pháp Hội	Tham gia Côn Luân Pháp Hội	
+8	Secrets_GuangShouMenTu	Tiên Duyên Đại Hội	Tham gia Tiên Duyên Đại Hội	
+9	Secrets_XieDiLing	Mở Lăng Mộ Yêu Đế Chứng kiến việc mở Lăng Mộ Yêu Đế
+10	Secrets_DuGuiXingZong	Diệp Huyền Đổ Tiên	Cá cược với Diệp Huyền Đổ Tiên	
+11	Secrets_TianJi	Thiên Cơ Cổ Phù	Mở khóa bí mật Thiên Cơ Cổ Phù	
+12	BaoZang_QingLianShan	Thanh Liên Tiên Sơn	Mở khóa bí mật Thanh Liên Tiên Sơn	
+13	BaoZang_XuanKong	Huyền Không Tiên Phủ	Mở khóa bí mật Huyền Không Tiên Phủ	
+14	BaoZang_ChiLianYuan	Xích Luyện Tiên Uyển	Mở khóa bí mật Xích Luyện Tiên Uyển	
+15	BaoZang_DengXian	Bảo Tàng Đông Hoa	Mở khóa Bảo Tàng Đông Hoa	
+16	LingWu_JiuHua1	Long Ẩn Phượng Tê	Mở khóa bí mật đằng sau Long Ẩn Phượng Tê	

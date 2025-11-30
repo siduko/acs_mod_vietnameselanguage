@@ -1,10 +1,10 @@
 FunType	Ani	Duration	Desc	JobType
-Lay	Lay	20	ผักผ่อน
-Wonder	Run	20	เดินเล่นสะเปะสะปะ
-BiuBiu	ShiFaLoop	20	ฝึกการต่อสู้
-Chop	Atk3	20	ฝึกการต่อสู้
-PlayBB	Free	20	เล่นกับไม้ไผ่
-Roll	Free2	20	กลิ้งไปรอบๆ
-Happy	kaixin01	20	เล่น
-Stretch	Free2	20	เกาหัว
-Spin	kaixin01	20	หมุนไปรอบๆ
+Lay	Lay	20	Nghỉ ngơi
+Wonder	Run	20	Đi dạo lung tung
+BiuBiu	ShiFaLoop	20	Luyện chiến đấu
+Chop	Atk3	20	Luyện chiến đấu
+PlayBB	Free	20	Chơi với tre trúc
+Roll	Free2	20	Lăn xung quanh
+Happy	kaixin01	20	Chơi
+Stretch	Free2	20	Gãi đầu
+Spin	kaixin01	20	Xoay vòng

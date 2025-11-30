@@ -1,52 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JobAIPathMove">
-			<DisplayName>เดิน</DisplayName>
+			<DisplayName>Đi</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIFree">
-			<DisplayName>เตร็ดเตร่</DisplayName>
+			<DisplayName>Lang thang</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIStay">
-			<DisplayName>หยุดพัก</DisplayName>
+			<DisplayName>Tạm nghỉ</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIRoute">
-			<DisplayName>ลาดตระเวน</DisplayName>
+			<DisplayName>Tuần tra</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIPatrol">
-			<DisplayName>ท่องเที่ยว</DisplayName>
+			<DisplayName>Du ngoạn</DisplayName>
 		</Text>
 		<Text Name="JobRPGPlayerMove">
-			<DisplayName>เดิน</DisplayName>
+			<DisplayName>Đi</DisplayName>
 		</Text>
 		<Text Name="JobRPGOpt">
-			<DisplayName>เดิน</DisplayName>
+			<DisplayName>Đi</DisplayName>
 		</Text>
 		<Text Name="JobRPGMine">
-			<DisplayName>ขุดแร่</DisplayName>
+			<DisplayName>Khai thác quặng</DisplayName>
 		</Text>
 		<Text Name="JobRPGCutoff">
-			<DisplayName>ตัดไม้</DisplayName>
+			<DisplayName>Đốn cây</DisplayName>
 		</Text>
 		<Text Name="JobRPGPickup">
-			<DisplayName>รวบรวม</DisplayName>
+			<DisplayName>Thu thập</DisplayName>
 		</Text>
 		<Text Name="JobRPGEat">
-			<DisplayName>กิน</DisplayName>
+			<DisplayName>Ăn</DisplayName>
 		</Text>
 		<Text Name="JobRPGDialog">
-			<DisplayName>พูดคุย</DisplayName>
+			<DisplayName>Trò chuyện</DisplayName>
 		</Text>
 		<Text Name="JobRPGEquip">
-			<DisplayName>สวมใส่</DisplayName>
+			<DisplayName>Mặc</DisplayName>
 		</Text>
 		<Text Name="JobRPGPassiveMove">
-			<DisplayName>เดิน</DisplayName>
+			<DisplayName>Đi</DisplayName>
 		</Text>
 		<Text Name="JobRPGMoveTo">
-			<DisplayName>เดินไปยัง</DisplayName>
+			<DisplayName>Đi đến</DisplayName>
 		</Text>
 		<Text Name="JobRPGSlaughter">
-			<DisplayName>ชำแหละ</DisplayName>
+			<DisplayName>Mổ xẻ</DisplayName>
 		</Text>
 	</List>
 </Texts>

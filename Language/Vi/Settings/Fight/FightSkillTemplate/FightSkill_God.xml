@@ -1,25 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkill_God_Damage1">
-			<DisplayName>มังกรคำราม</DisplayName>
+			<DisplayName>Long Hống</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Damage2">
-			<DisplayName>อัสนีเจ็ดสังหาร</DisplayName>
+			<DisplayName>Thất Sát Lôi</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FaBao1">
-			<DisplayName>กระบี่เทพอสูร</DisplayName>
+			<DisplayName>Thần Ma Kiếm</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FightSkill1">
-			<DisplayName>คำสาปโลหิตทมิฬ</DisplayName>
+			<DisplayName>Hắc Huyết Chú</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Sheild1">
-			<DisplayName>ผู้พิทักษ์ความไม่เที่ยง</DisplayName>
+			<DisplayName>Vô Thường Hộ Vệ</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health1">
-			<DisplayName>บุปผาเทพเจ็ดสี</DisplayName>
+			<DisplayName>Thất Sắc Thần Hoa</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health2">
-			<DisplayName>จิตเทพขันติ</DisplayName>
+			<DisplayName>Thần Tâm Nhẫn Nại</DisplayName>
 		</Text>
 	</List>
 </Texts>

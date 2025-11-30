@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong2_a5">
@@ -28,7 +29,7 @@
 			<DisplayName>ตำราหลอมสิบพื้นฐาน</DisplayName>
 		</Text>
 		<Text Name="Gong2_b11">
-			<DisplayName>กลั่นหินวิญญาณ</DisplayName>
+			<DisplayName>Luyện Linh Thạch</DisplayName>
 		</Text>
 		<Text Name="Gong2_c0">
 			<DisplayName>เพ่งจิตฝึกปราณ</DisplayName>
@@ -64,7 +65,7 @@
 			<DisplayName>ผสานเพลิงเทวะ</DisplayName>
 		</Text>
 		<Text Name="Gong2_d7">
-			<DisplayName>ชะล้างไขกระดูก</DisplayName>
+			<DisplayName>ชะล้างไขXương</DisplayName>
 		</Text>
 		<Text Name="Gong2_d9">
 			<DisplayName>ตำราลับแห่งการสรรสร้าง</DisplayName>
@@ -73,7 +74,7 @@
 			<DisplayName>คาถาซ่อมฟ้า</DisplayName>
 		</Text>
 		<Text Name="Gong2_d11">
-			<DisplayName>กลั่นผลึกวิญญาณ</DisplayName>
+			<DisplayName>Luyện Linh Tinh</DisplayName>
 		</Text>
 		<Text Name="Gong2_e4">
 			<DisplayName>โอสถเทพวิถีฟ้า</DisplayName>

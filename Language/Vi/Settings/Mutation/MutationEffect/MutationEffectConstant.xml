@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
@@ -172,7 +173,7 @@
 		</Text>
 		<Text Name="Mutation_Effect_Constant_GetStageValue_1">
 			<Desc>ได้รับพลังบำเพ็ญตน</Desc>
-			<SpecialDesc>[NPC] ได้รับพลังบำเพ็ญตนเพิ่มขึ้นอย่างมหาศาลหลังจากพิชิตศัตรู!</SpecialDesc>
+			<SpecialDesc>[NPC] nhận được rất nhiều tu vi sau khi đánh bại kẻ thù!</SpecialDesc>
 		</Text>
 	</List>
 </Texts>

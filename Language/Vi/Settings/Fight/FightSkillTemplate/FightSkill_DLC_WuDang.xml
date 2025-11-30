@@ -1,26 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Ls_XuanWuShield">
-			<DisplayName>โล่เกราะทมิฬ</DisplayName>
-			<Desc>เพิ่มพลังของเกราะปราณให้แก่พันธมิตรและร่างลี้ลับของตนเป็นอย่างมาก</Desc>
+			<DisplayName>Hắc Giáp Thuẫn</DisplayName>
+			<Desc>Tăng mạnh Hộ Thể cho đồng minh và Thân Thể Bí Ẩn của bản thân.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuBreak">
-			<DisplayName>ควบคุมรอยแยกมิติ</DisplayName>
-			<Desc>ลดพลังของเกราะปราณแลความทนทานของร่างลี้ลับของศัตรูเป็นอย่างมาก</Desc>
+			<DisplayName>Khống Chế Khe Nứt</DisplayName>
+			<Desc>Giảm mạnh Hộ Thể và độ bền Thân Thể Bí Ẩn của địch.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuWater">
-			<DisplayName>คลื่นทมิฬ</DisplayName>
+			<DisplayName>Hắc Ám Ba</DisplayName>
 		</Text>
 		<Text Name="LsXuanWuFire">
-			<DisplayName>เพลิงสวรรค์</DisplayName>
+			<DisplayName>Thiên Hỏa</DisplayName>
 		</Text>
 		<Text Name="Ls_XuanWuForm">
-			<DisplayName>รูปแบบเต่า</DisplayName>
-			<Desc>เพิ่มความเสถียรของค่ายกลและมอบพลังงานให้แก่ค่ายกล สามารใช้ได้เฉพาะตอนที่ใช้ค่ายกลยามต่อสู้</Desc>
+			<DisplayName>Quy Trận</DisplayName>
+			<Desc>Tăng độ ổn định và nạp năng lượng cho trận pháp. Chỉ dùng được khi đang chiến đấu bằng trận pháp.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuDefac">
-			<DisplayName>รูปแบบเสรี</DisplayName>
-			<Desc>เปิดเผยแกนย่อยของค่ายกลศัตรู</Desc>
+			<DisplayName>Tự Do Trận</DisplayName>
+			<Desc>Làm lộ Trận Nhãn của trận pháp địch.</Desc>
 		</Text>
 	</List>
 </Texts>

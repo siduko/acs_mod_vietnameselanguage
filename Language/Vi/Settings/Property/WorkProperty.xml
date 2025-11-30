@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="TestProperty1">
@@ -37,7 +38,7 @@
 		</Text>
 		<Text Name="TreatmentExpectQuality">
 			<DisplayName>ประมาณการการฟื้นตัว</DisplayName>
-			<DisplayValue>{0}%/วิ</DisplayValue>
+			<DisplayValue>{0}%/s</DisplayValue>
 			<Desc>ค่าโดยประมาณสำหรับระยะเวลาที่อาการบาดเจ็บจะฟื้นตัวหลังการรักษา อาจแตกต่างกันไปบ้างตามฝีมือของหมอที่ทำการรักษา</Desc>
 			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
 		</Text>
@@ -109,7 +110,7 @@
 			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
 		</Text>
 		<Text Name="MadeQualityAddValue">
-			<DisplayName>การเพิ่มคุณภาพสิ่งประดิษฐ์</DisplayName>
+			<DisplayName>Tăng chất lượng tạo tác</DisplayName>
 			<Desc>คุณภาพที่เพิ่มไปยังสิ่งของต่างๆ หลังจากที่สร้างมันออกมา</Desc>
 			<FunctionKind>ค่าสถานะการประดิษฐ์</FunctionKind>
 		</Text>
@@ -146,15 +147,15 @@
 			<Desc>คุณภาพสูงสุดที่เป็นไปได้ของสิ่งของที่สร้างขึ้น</Desc>
 		</Text>
 		<Text Name="SmithingQualityAddValue">
-			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานตีเหล็ก</DisplayName>
+			<DisplayName>Tăng chất lượng sản phẩm rèn</DisplayName>
 			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานตีเหล็ก</Desc>
 		</Text>
 		<Text Name="HandworkQualityAddValue">
-			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานผีมือ</DisplayName>
+			<DisplayName>Tăng chất lượng sản phẩm thủ công</DisplayName>
 			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานผีมือ</Desc>
 		</Text>
 		<Text Name="TailoringQualityAddValue">
-			<DisplayName>การเพิ่มคุณภาพสิ่งของที่ได้รับจากงานตัดเย็บ</DisplayName>
+			<DisplayName>Tăng chất lượng sản phẩm may mặc</DisplayName>
 			<Desc>คุณภาพที่เพิ่มเข้าไปในสิ่งของที่ได้รับจากงานตัดเย็บ</Desc>
 		</Text>
 		<Text Name="CuttingSpeed">

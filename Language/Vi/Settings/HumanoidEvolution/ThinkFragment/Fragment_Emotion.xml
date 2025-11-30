@@ -1,87 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SlightlyFear">
-			<DisplayName>กลัวเล็กน้อย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เกี่ยวกับสัตว์ตัวอื่น..</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เกี่ยวกับสภาพแวดล้อม..</SingleFormat.1>
+			<DisplayName>Hơi sợ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} về động vật khác..</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} về môi trường..</SingleFormat.1>
 		</Text>
 		<Text Name="Fear">
-			<DisplayName>กลัว</DisplayName>
-			<SingleFormat.0>รู้สึก{0}ผู้คนใกล้เคียง..</SingleFormat.0>
+			<DisplayName>Sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} người gần đó..</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyFear">
-			<DisplayName>ขวัญหนีดีฝ่อ</DisplayName>
-			<SingleFormat.0>จดจำได้ว่าเจ้าสิ่งนั้นคือศัตรูตามธรรมชาติและรู้สึก{0}..</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เกี่ยวกับเรื่องที่เพื่อนพ้องถูกฆ่า..</SingleFormat.1>
+			<DisplayName>Kinh hồn bạt vía</DisplayName>
+			<SingleFormat.0>Nhớ rằng thứ đó là thiên địch và cảm thấy {0}..</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} về việc bạn bè bị giết..</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyHappy">
-			<DisplayName>มีความสุขเล็กน้อย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เกี่ยวกับฟ้าใสและตะวันจ้า</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เกี่ยวกับบางอย่างที่อร่อย</SingleFormat.1>
+			<DisplayName>Hơi vui</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} về trời xanh nắng ấm</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} về thứ gì đó ngon</SingleFormat.1>
 		</Text>
 		<Text Name="Happy">
-			<DisplayName>มีความสุข</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อถูกห้อมล้อม</SingleFormat.0>
+			<DisplayName>Hạnh phúc</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi bị bao vây</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyHappy">
-			<DisplayName>เบิกบานใจ</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อพบกับเผ่าพันธ์เดียวกัน</SingleFormat.0>
+			<DisplayName>Vui vẻ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi gặp đồng loại</SingleFormat.0>
 		</Text>
 		<Text Name="SlightlyAnger">
-			<DisplayName>โกรธเล็กน้อย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อพบผู้คนที่ผ่านไปมา</SingleFormat.0>
+			<DisplayName>Hơi giận</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi thấy người qua lại</SingleFormat.0>
 		</Text>
 		<Text Name="Anger">
-			<DisplayName>โกรธ</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อคนอื่นต้องเสี่ยงอันตราย</SingleFormat.0>
+			<DisplayName>Giận</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi người khác gặp nguy</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyAnger">
-			<DisplayName>เกรี้ยวกราด</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อสัตว์ตัวอื่นต่อสู้กัน</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เมื่อถูกรังแก</SingleFormat.1>
+			<DisplayName>Giận dữ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi thú khác đánh nhau</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} khi bị bắt nạt</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyWorry">
-			<DisplayName>เป็นกังวลเล็กน้อย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เมื่อพบคนแปลกหน้า</SingleFormat.0>
+			<DisplayName>Hơi lo lắng</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi gặp người lạ</SingleFormat.0>
 		</Text>
 		<Text Name="Worry">
-			<DisplayName>เป็นกังวล</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เกี่ยวกับแม่น้ำที่ลึกเกินไป</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เกี่ยวกับขอบหน้าผา</SingleFormat.1>
+			<DisplayName>Lo lắng</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} về sông quá sâu</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} về vách đá</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyWorry">
-			<DisplayName>กระวนกระวาย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เกี่ยวกับความตาย</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}เมื่อถูกจับตัวโดยมนุษย์</SingleFormat.1>
+			<DisplayName>Bồn chồn</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} về cái chết</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} khi bị người bắt</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyMiss">
-			<DisplayName>โหยหาเล็กน้อย</DisplayName>
-			<SingleFormat.0>รู้สึก{0}สำหรับฝุ่นผงที่ล่องลอย</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}สำหรับทัศนียภาพ</SingleFormat.1>
+			<DisplayName>Hơi khao khát</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} bụi trần</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} cảnh vật</SingleFormat.1>
 		</Text>
 		<Text Name="Miss">
-			<DisplayName>โหยหา</DisplayName>
-			<SingleFormat.0>รู้สึก{0}สำหรับชีวิตข้างนอก</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}พวกพ้อง</SingleFormat.1>
+			<DisplayName>Khao khát</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} cuộc sống bên ngoài</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} đồng bọn</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyMiss">
-			<DisplayName>โหยหาอาวรณ์</DisplayName>
-			<SingleFormat.0>รู้สึก{0}เพื่อนสมัยเด็ก</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}ลำธารในความทรงจำ</SingleFormat.1>
+			<DisplayName>Luyến tiếc</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} bạn thuở nhỏ</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} dòng suối trong ký ức</SingleFormat.1>
 		</Text>
 		<Text Name="Peace">
-			<DisplayName>สงบ</DisplayName>
-			<SingleFormat.0>รู้สึก{0}ยามเมื่อย่างไปบนพื้น</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}ยามมองดูสิ่งมีชีวิตที่จากไป</SingleFormat.1>
+			<DisplayName>Yên bình</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi bước trên đất</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} khi nhìn sinh mệnh ra đi</SingleFormat.1>
 		</Text>
 		<Text Name="Eruption">
-			<DisplayName>กระสับกระส่าย</DisplayName>
-			<SingleFormat.0>โดยสัญชาตญาณทำให้รู้สึกสัมผัสได้ถึง{0}</SingleFormat.0>
+			<DisplayName>Thấp thỏm</DisplayName>
+			<SingleFormat.0>Bản năng khiến cảm nhận được {0}</SingleFormat.0>
 		</Text>
 		<Text Name="Regret">
-			<DisplayName>เศร้า</DisplayName>
-			<SingleFormat.0>รู้สึก{0}ยามเมื่อดอกไม้ร่วงโรย</SingleFormat.0>
-			<SingleFormat.1>รู้สึก{0}ยามเมื่อดอกท้อร่วงโรย</SingleFormat.1>
+			<DisplayName>Buồn</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} khi hoa tàn</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} khi hoa đào rơi</SingleFormat.1>
 		</Text>
 	</List>
 </Texts>

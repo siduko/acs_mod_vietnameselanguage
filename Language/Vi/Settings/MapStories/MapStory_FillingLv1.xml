@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="TESTALL">
@@ -46,11 +47,11 @@
 		</Text>
 		<Text Name="Free_Base">
 			<DisplayName>เดินเล่น</DisplayName>
-			<Desc>[NAME] ค้นพบสถานที่ที่มีทิวทัศน์สวยงามเป็นอย่างมากและได้วางอาวุธวิเศษ[ITS]ลง หลังจากนั้นจึงเดินออกไปชมทิวทัศน์รอบๆ</Desc>
+			<Desc>[NAME] tìm thấy một nơi phong cảnh tuyệt đẹp, bèn đặt Pháp Bảo xuống rồi đi ngắm cảnh.</Desc>
 		</Text>
 		<Text Name="Free_1">
 			<DisplayName>จิบชา</DisplayName>
-			<Desc>[NAME] ได้ผ่านมายังเมืองเล็กๆ แห่งหนึ่งและรู้สึกเหนื่อยเล็กน้อย [ENHIM]ได้เก็บซ่อนปราณของตัวเองแสร้งทำเป็นคนธรรมดาและเข้าไปจิบชาในโรงน้ำชาของหมู่บ้าน</Desc>
+			<Desc>[NAME] đi qua thị trấn nhỏ, thấy hơi mệt nên ẩn giấu linh khí giả làm người thường vào quán trà uống nước.</Desc>
 		</Text>
 		<Text Name="Free_2">
 			<DisplayName>พักผ่อน</DisplayName>
@@ -58,23 +59,23 @@
 		</Text>
 		<Text Name="Join_Base">
 			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
-			<Desc>[NAME] ได้พบคนธรรมดาบางคนที่อาจจะมีพรสวรรค์ในการบ่มเพาะและได้แจ้งที่ตั้งของสำนัก[ITS] ให้คนกลุ่มนั้นก่อนที่จะบินจากไป</Desc>
+			<Desc>[NAME] gặp vài người thường có tiềm năng tu luyện, bèn cho họ biết vị trí môn phái rồi bay đi.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
 			<DisplayName>ลักพาตัวคนธรรมดา</DisplayName>
-			<Desc>[NAME] ร่ายเวทและทำการลักพาตัวคนธรรมดากลุ่มหนึ่งไป</Desc>
+			<Desc>[NAME] thi triển phép thuật bắt cóc một nhóm người thường.</Desc>
 		</Text>
 		<Text Name="Join_1">
 			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
-			<Desc>[NAME] ค้นพบผู้เยาว์ที่มีความสามารถอย่างไม่น่าเชื่อพบต้นอ่อนที่มีความสามารถอันยอดเยี่ยม ดังนั้นจึงแสดงปาฏิหาริย์บางอย่างในความฝันของพวกเขาและได้มอบโชคชะตาในการบำเพ็ญตนเป็นเซียนให้ หากศิษย์คนนี้สนใจที่จะแสวงหาความเป็นอมตะละก็ เขาอาจจะมาถึงนิกายในอีกหนึ่งหรือสองวันข้างหน้า</Desc>
+			<Desc>[NAME] phát hiện một thiếu niên có tài năng phi thường, bèn hiển linh trong giấc mơ ban cho tiên duyên. Nếu người này có lòng cầu đạo, có lẽ sẽ đến môn phái trong vài ngày tới.</Desc>
 		</Text>
 		<Text Name="Join_2">
 			<DisplayName>เข้าร่วมเทศกาลชะตาเซียน</DisplayName>
-			<Desc>[NAME] ได้พบเจอกับความอาฆาตทุก ๆครั้งทุกๆ ที่พระจันทณ์กลายเป็นสีน้ำเงิน เมื่อเห็นคนที่ถูกตามล่าและตระหนักว่าชะตากรรมของพวกเขาดูเหมือนจะผูกติดอยู่กับสำนัก [NAME] ก็ร่ายคาถาเพื่อช่วยเหลือพวกเขาและนำพวกเขาไปยังสำนัก</Desc>
+			<Desc>[NAME] gặp sự oán hận mỗi khi trăng xanh. Thấy người bị truy sát và nhận ra vận mệnh họ gắn liền với môn phái, [NAME] bèn ra tay cứu giúp và đưa họ về.</Desc>
 		</Text>
 		<Text Name="Visit_Base">
 			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
-			<Desc>[NAME] ได้เจอกลุ่มลูกศิษย์ของ[SCHOOL]เข้ามาทักทาย[ENHIM]ขณะที่เดินอยู่บนถนน</Desc>
+			<Desc>[NAME] gặp nhóm đệ tử [SCHOOL] chào hỏi trên đường.</Desc>
 			<Selections.0.Display>เข้าไปหา</Selections.0.Display>
 			<Selections.1.Display>พูดคุยอย่างเป็นมิตร</Selections.1.Display>
 			<Selections.2.Display>พูดคุยเล็กน้อย</Selections.2.Display>
@@ -92,7 +93,7 @@
 		</Text>
 		<Text Name="Visit_1">
 			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
-			<Desc>[NAME] พบผู้อาวุโสจาก[SCHOOL]ในขณะที่กำลังเดินอยู่บนท้องถนน</Desc>
+			<Desc>[NAME] gặp trưởng lão của [SCHOOL] khi đang đi trên đường.</Desc>
 			<Selections.0.Display>เข้าไปหา</Selections.0.Display>
 			<Selections.1.Display>ทักทาย</Selections.1.Display>
 			<Selections.2.Display>พูดคุยเล็กน้อย</Selections.2.Display>
@@ -132,14 +133,14 @@
 		</Text>
 		<Text Name="Story_Base">
 			<DisplayName>ดินแดนมนุษย์</DisplayName>
-			<Desc>[NAME] ได้ผ่านมายังเมืองเล็ก ๆ แห่งหนึ่ง และมีความรู้สึกสนุกจึงตัดสินใจปลอมตัวเป็นคนธรรมดาและเดินหายเข้าไปในเมือง</Desc>
+			<Desc>[NAME] đi qua thị trấn nhỏ, thấy thú vị nên cải trang thành người thường và trà trộn vào.</Desc>
 			<Selections.0.Display>เที่ยวเล่นในดินแดนมนุษย์</Selections.0.Display>
 			<Selections.1.Display>ก่อความวุ่นวายในดินแดนมนุษย์</Selections.1.Display>
 			<Selections.2.Display>จากไป</Selections.2.Display>
 		</Text>
 		<Text Name="Story_1">
 			<DisplayName>ดินแดนมนุษย์</DisplayName>
-			<Desc>[NAME] สังเกตว่ามีหญิงชรากำลังขัดแท่งเหล็กอยู่ริมแม่น้ำ</Desc>
+			<Desc>[NAME] thấy bà lão mài sắt bên sông.</Desc>
 			<Selections.0.Display>สอบถาม (เจตนาดี)</Selections.0.Display>
 			<Selections.1.Display>ท่านได้รับความเข้าใจบางอย่าง</Selections.1.Display>
 			<Selections.2.Display>สอบถาม (เจตนาร้าย)</Selections.2.Display>
@@ -149,21 +150,21 @@
 		</Text>
 		<Text Name="Story_2">
 			<DisplayName>ดินแดนมนุษย์</DisplayName>
-			<Desc>[NAME] ดูเหมือนจะถูกลิขิตให้มาพบจุดชมวิวแห่งนี้ซึ่งอบอวลไปด้วยความงดงามของธรรมชาติ [IT]นั่งลงตรงนั้นและกำลังคิดว่าจะเป็นไปได้ไหมที่จะได้รับความรู้แจ้งจากสถานที่แห่งนี้</Desc>
+			<Desc>[NAME] dường như có duyên với danh thắng tràn đầy vẻ đẹp thiên nhiên này. [IT] ngồi xuống, tự hỏi liệu có thể giác ngộ điều gì từ nơi đây không.</Desc>
 			<Selections.0.Display>ทำสมาธิค้นหาแนวคิดแห่งเต๋า</Selections.0.Display>
 			<Selections.0.Tip>ใช้สติปัญญา</Selections.0.Tip>
 			<Selections.1.Display>ดูดซับปราณ</Selections.1.Display>
 		</Text>
 		<Text Name="Story_3">
 			<DisplayName>ดินแดนมนุษย์</DisplayName>
-			<Desc>[NAME] พบเห็นสัตว์อสูรสองตัวต่อสู้กันอยู่กลางอากาศ ดูเหมือนว่าสัตว์ร้ายทั้งสองจะมีวิธีการต่อสู้ที่แปลกประหลาดยิ่ง ราวกับว่ามันเป็นการต่อสู้ระหว่างสัตว์ร้ายจากต่างโลก [NAME] ทั้งรู้สึกตื่นเต้นและรู้สึกทึ่ง ดูเหมือนว่าการต่อสู้ระหว่างสัตว์อสูรทั้งสองนี้ได้ซ่อนความลึกลับบางอย่างไว้</Desc>
+			<Desc>[NAME] thấy hai yêu thú đánh nhau trên không. Cách chiến đấu kỳ lạ như thể đến từ thế giới khác. [NAME] vừa phấn khích vừa kinh ngạc, dường như trận chiến này ẩn chứa bí mật gì đó.</Desc>
 			<Selections.0.Display>เลียนแบบสัตว์อสูร</Selections.0.Display>
 			<Selections.0.Tip>ใช้การรับรู้</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="GoodFight_Base">
 			<DisplayName>หายนะจากโรคระบาด</DisplayName>
-			<Desc>[NAME] ได้ผ่านไปยังเมืองแห่งหนึ่งและพบว่าเมืองแห่งนี้กำลังเกิดโรคระบาดอยู่ ดูเหมือนว่าที่ประตูเมืองจะมีผู้ฝึกตนบางคนกำลังช่วยเหลือชาวเมืองเพื่อควบคุมโรคระเบิดอยู่ ทว่าดูสถานการณ์ยังคงเลวร้ายลงทุกที่และดูเหมือนว่าพวกเขาจะควบคุมมันได้ไม่นานอีกแล้ว</Desc>
+			<Desc>[NAME] đi qua một thành phố đang có dịch bệnh. Có tu sĩ đang giúp dân kiểm soát dịch ở cổng thành nhưng tình hình ngày càng tồi tệ và có vẻ họ không cầm cự được lâu nữa.</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.1.Display>ช่วยเหลืออย่างไม่จริงใจ</Selections.1.Display>
 			<Selections.1.Tip>พื้นฐานลมปราณ</Selections.1.Tip>
@@ -186,7 +187,7 @@
 		</Text>
 		<Text Name="BadFight_Base">
 			<DisplayName>ค่ายกลมารหลอมกลั่นวิญญาณ</DisplayName>
-			<Desc>[NAME] ผ่านมายังเมืองแห่งหนึ่งและพบว่ามันมีวิญญาณอาฆาตมากมายอยู่บริเวณนี้ ดูเหมือนว่าจะมีใครบางคนกำลังฝึกฝนวิชามารอยู่</Desc>
+			<Desc>[NAME] đi qua một thành phố và thấy nhiều oán linh. Có vẻ ai đó đang luyện ma công.</Desc>
 			<Selections.0.Display>ช่วยเหลือ</Selections.0.Display>
 			<Selections.1.Display>ช่วยเหลืออย่างไม่จริงใจ</Selections.1.Display>
 			<Selections.1.Tip>แก่นทองคำ</Selections.1.Tip>
@@ -209,14 +210,14 @@
 		</Text>
 		<Text Name="Treasure_Base">
 			<DisplayName>ค้นหาสมบัติวิเศษ</DisplayName>
-			<Desc>[NAME] บังเอิญไปเจอสถานที่ซ่อนตัวของผู้ฝึกตนบางคน... และดูเหมือนว่ามันจะถูกทิ้งร้างไปนานแล้ว</Desc>
+			<Desc>[NAME] tình cờ tìm thấy nơi ẩn náu của tu sĩ... dường như đã bị bỏ hoang từ lâu.</Desc>
 			<Selections.0.Display>เดินไปดู</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
 			<DisplayName>พบสระลึกลับ</DisplayName>
-			<Desc>[NAME] เหนื่อยล้าหลังจากที่เดินทางติดต่อกันหลายวัน เย็นวันนั้น[ENHIM]ได้เจอสระน้ำลึกที่มีทิวทัศน์สวยงามแห่งหนึ่งจึงตัดสินใจหยุดพักในบริเวณนี้ ในคืนนั้น [NAME] ร้สึกประหลาดใจมากที่มีแสงสว่างจางๆ ปรากฏอยู่ในบ่อน้ำแห่งนั้น</Desc>
+			<Desc>[NAME] mệt mỏi sau nhiều ngày đi đường. Chiều hôm đó [ENHIM] gặp một hồ nước sâu tuyệt đẹp nên dừng chân nghỉ ngơi. Đêm đó [NAME] ngạc nhiên thấy ánh sáng mờ ảo trong hồ.</Desc>
 			<Selections.0.Display>เดินไปดู</Selections.0.Display>
 			<Selections.0.Tip>บ่มเพาะปราณ</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
@@ -229,7 +230,7 @@
 		</Text>
 		<Text Name="City_Base">
 			<DisplayName>เมือง</DisplayName>
-			<Desc>[NAME] ได้เดินทางมาถึง[PLACE]และได้พบว่าที่นี่มีประชากรอาศัยอยู่อย่างหนาแน่นและมีธุรกิจกำลังเฟื่องฟูเป็นอย่างมาก</Desc>
+			<Desc>[NAME] đến [PLACE], thấy dân cư đông đúc, buôn bán sầm uất.</Desc>
 			<Selections.0.Display>ค้นหาศิษย์</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชคและเสน่ห์</Selections.0.Tip>
 			<Selections.1.Display>ปล้นคนธรรมดา</Selections.1.Display>
@@ -239,7 +240,7 @@
 		</Text>
 		<Text Name="Business_Base">
 			<DisplayName>ซื้อวัสดุสิ่งของ</DisplayName>
-			<Desc>[NAME] พบว่าที่นี่มีตลาดที่กำลังเฟื่องฟูเป็นอย่างมากและด้วยราคาสินค้าที่ถูกกว่าปกติ [ENHIM]จึงตัดสินใจซื้ออะไรบางกลับติดไม้ติดมือกลับไป</Desc>
+			<Desc>[NAME] thấy chợ ở đây rất sầm uất, giá cả lại rẻ nên quyết định mua vài thứ mang về.</Desc>
 			<Selections.0.Display>ซื้ออาหาร</Selections.0.Display>
 			<Selections.1.Display>ซื้อหินอ่อน</Selections.1.Display>
 			<Selections.2.Display>ซื้อไม้แปรรูป</Selections.2.Display>
@@ -248,26 +249,26 @@
 		</Text>
 		<Text Name="Highfind_Base">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินข่าวมาว่ามีสิ่งของบางอย่างใน[PLACE] ที่มีประโยชน์ต่อการฝึกตน</Desc>
+			<Desc>[NAME] nghe tin ở [PLACE] có vật hữu ích cho tu luyện.</Desc>
 			<Selections.0.Display>ค้นหา</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
 			<DisplayName>มองหาเบาะแส</DisplayName>
-			<Desc>[NAME] ได้นผ่านมายัง[PLACE]ในขณะที่กำลังเดินทางอยู่และได้พบว่าคนในพื้นที่กำลังพูดคุยเกี่ยวกับอะไรบางอย่างอยู่</Desc>
+			<Desc>[NAME] đi qua [PLACE] và thấy người dân địa phương đang bàn tán chuyện gì đó.</Desc>
 			<Selections.0.Display>สอบถามข้อมูล</Selections.0.Display>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
 			<DisplayName>ค้นหาสถานที่</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่ามีสถานที่ที่น่าสนใจอยู่ใกล้ๆ กับ[PLACE] ดังนั้น[ENHIM]จึงตัดสินใจเดินทางไปค้นหาสถานที่แห่งนั้น</Desc>
+			<Desc>[NAME] nghe nói có nơi thú vị gần [PLACE] nên quyết định đi tìm.</Desc>
 			<Selections.0.Display>ค้นหาสถานที่เงียบสงบ</Selections.0.Display>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Cold">
 			<DisplayName>พบเจอดินแดนหิมะโดยบังเอิญ</DisplayName>
-			<Desc>[NAME] ดูเหมือนจะถูกลิขิตให้มาพบจุดชมวิวแห่งนี้ซึ่งอบอวลไปด้วยความงดงามของธรรมชาติ [IT]นั่งลงตรงนั้นและกำลังคิดว่าจะเป็นไปได้ไหมที่จะได้รับความรู้แจ้งจากสถานที่แห่งนี้</Desc>
+			<Desc>[NAME] dường như có duyên với danh thắng tràn đầy vẻ đẹp thiên nhiên này. [IT] ngồi xuống, tự hỏi liệu có thể giác ngộ điều gì từ nơi đây không.</Desc>
 			<Selections.0.Display>หยั่งรู้แนวคิด</Selections.0.Display>
 			<Selections.0.Tip>ใช้สติปัญญา</Selections.0.Tip>
 			<Selections.1.Display>ดูดซับปราณ</Selections.1.Display>
@@ -275,7 +276,7 @@
 		</Text>
 		<Text Name="Story_Cold2">
 			<DisplayName>พบเจอดินแดนหิมะโดยบังเอิญ</DisplayName>
-			<Desc>[NAME] พบเห็นสัตว์อสูรสองตัวต่อสู้กันอยู่กลางอากาศ ดูเหมือนว่าสัตว์ร้ายทั้งสองจะมีวิธีการต่อสู้ที่แปลกประหลาดยิ่ง ราวกับว่ามันเป็นการต่อสู้ระหว่างสัตว์ร้ายจากต่างโลก [NAME] ทั้งรู้สึกตื่นเต้นและรู้สึกทึ่ง ดูเหมือนว่าการต่อสู้ระหว่างสัตว์อสูรทั้งสองนี้ได้ซ่อนความลึกลับบางอย่างไว้</Desc>
+			<Desc>[NAME] thấy hai yêu thú đánh nhau trên không. Cách chiến đấu kỳ lạ như thể đến từ thế giới khác. [NAME] vừa phấn khích vừa kinh ngạc, dường như trận chiến này ẩn chứa bí mật gì đó.</Desc>
 			<Selections.0.Display>เลียนแบบสัตว์อสูร</Selections.0.Display>
 			<Selections.0.Tip>ใช้การรับรู้</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
@@ -283,14 +284,14 @@
 		</Text>
 		<Text Name="Secret_Cold_Base">
 			<DisplayName>มองหาเบาะแส</DisplayName>
-			<Desc>[NAME] ได้เดินทางไปยัง[PLACE]และ[IT]ได้ยินข่าวลือบางอย่างที่กำลังแพร่สะพัดกันในหมู่ชาวเมือง</Desc>
+			<Desc>[NAME] đến [PLACE] và nghe được tin đồn trong dân chúng.</Desc>
 			<Selections.0.Display>สอบถามข้อมูล</Selections.0.Display>
 			<Selections.0.Tip>ต้านทานความหนาว</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
 			<DisplayName>ค้นหาสถานที่</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่ามีสถานที่ที่น่าสนใจอยู่ใกล้ๆ กับ[PLACE] ดังนั้น[ENHIM]จึงตัดสินใจเดินทางไปค้นหาสถานที่แห่งนั้น</Desc>
+			<Desc>[NAME] nghe nói có nơi thú vị gần [PLACE] nên quyết định đi tìm.</Desc>
 			<Selections.0.Display>ค้นหาสถานที่เงียบสงบ</Selections.0.Display>
 			<Selections.0.Tip>ต้านทานความหนาว</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
@@ -304,7 +305,7 @@
 		</Text>
 		<Text Name="Highfind_Cold_Base">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินข่าวมาว่ามีสิ่งของบางอย่างใน[PLACE] ที่มีประโยชน์ต่อการฝึกตน</Desc>
+			<Desc>[NAME] nghe tin ở [PLACE] có vật hữu ích cho tu luyện.</Desc>
 			<Selections.0.Display>ค้นหา</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ไม่สนใจ</Selections.1.Display>
@@ -329,7 +330,7 @@
 		</Text>
 		<Text Name="Visit_Old_1">
 			<DisplayName>โอกาสเผชิญหน้า</DisplayName>
-			<Desc>[NAME] พบผู้อาวุโสจาก[SCHOOL]ในขณะที่กำลังเดินอยู่บนท้องถนน</Desc>
+			<Desc>[NAME] gặp trưởng lão của [SCHOOL] khi đang đi trên đường.</Desc>
 			<Selections.0.Display>ทักทาย</Selections.0.Display>
 			<Selections.1.Display>พูดคุยเล็กน้อย</Selections.1.Display>
 			<Selections.2.Display>ลอบโจมตี</Selections.2.Display>

@@ -1,18 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Boar_1">
 			<Prefix>โลหิต</Prefix>
 			<Suffix>อสูรโบราณ</Suffix>
-			<Desc>กายาเร้นลับที่สืบทอดมาในสายเลือดของเผ่าหมูป่าบรรพกาล ใช้วิชาลับในการทำให้ขนรอบๆ คอแข็งแกร่งและแหลมคมขึ้น เมื่อฝึกฝนจนสำเร็จก็จะสามารถใช้มันเพื่อเจาะการป้องกันของศัตรูได้ทุกรูปแบบ</Desc>
+			<Desc>Bí Thể huyết mạch của Lợn Rừng Thượng Cổ. Dùng bí thuật làm lông cổ cứng và sắc bén. Khi thành thục có thể xuyên thủng mọi phòng thủ.</Desc>
 			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
-			<Levels.0.Desc>เพิ่มการโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+			<Levels.0.Desc>เพิ่มการโจมตีทะลุเกราะปราณของThể chấtเร้นลับเป็นอย่างมาก</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Boar_2">
 			<Prefix>เขี้ยว</Prefix>
 			<Suffix>ทลายสรรพสิ่ง</Suffix>
-			<Desc>กายาเร้นลับที่สืบทอดมาในสายเลือดของเผ่าหมูป่าบรรพกาล ผสานพลังของการทำลายล้างเข้าไปในเขี้ยวและทำให้มันแข็งแกร่งและแหลมคมขึ้น เพียงการโจมตีเดียวก็สามารถทำลายล้างได้ทุกสรรพสิ่ง</Desc>
+			<Desc>Bí Thể huyết mạch của Lợn Rừng Thượng Cổ. Dung hợp sức mạnh hủy diệt vào răng nanh, khiến chúng cứng và sắc bén hơn. Một đòn có thể phá hủy vạn vật.</Desc>
 			<Levels.0.Title>ชั้นที่หนึ่ง</Levels.0.Title>
-			<Levels.0.Desc>เพิ่มโอกาสโจมตีทะลุเกราะปราณของกายาเร้นลับเป็นอย่างมาก</Levels.0.Desc>
+			<Levels.0.Desc>เพิ่มโอกาสโจมตีทะลุเกราะปราณของThể chấtเร้นลับเป็นอย่างมาก</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>

@@ -1,39 +1,39 @@
 ID	Desc	MidName
 ID	Description	中间词缀 参与名字随机
-1	เพิ่มพลังอาวุธวิเศษ	ทำลายล้าง
-2	เพิ่มอัตราฟื้นฟูปราณของอาวุธวิเศษ	ฟื้นฟูปราณ
-3	เพิ่มความเร็วโจมตีของอาวุธวิเศษ	โจมตีพริบตา
-4	เพิ่มคงทนของอาวุธวิเศษ	เสริมแกร่งอาวุธ
-5	เพิ่มการตีกระเด็นของอาวุธวิเศษ	แรงยักษา
-6	เพิ่มความเร็วของอาวุธวิเศษ	สลาตัน
-7	เพิ่มความคล่องตัวของอาวุธวิเศษ	ควงสว่าน
-8	เพิ่มความต้านทานการตีกระเด็นของอาวุธวิเศษ	ปฐพีพิฆาต
-9	เพิ่มระยะโจมตีของอาวุธวิเศษ	เงาหมื่นลี้
-2000	ลดเวลาการร่ายปราณเวท	ปราณจิตรวมหนึ่ง
-2001	ลดคูลดาวน์ปราณเวท	ร่นระยะเวท
-2002	เพิ่มพลังปราณเวท	ปราณทลายฟ้า
-2003	ลดเวลาการร่ายปราณเวท	ปราณจิตรวมหนึ่ง
-2004	เรียนรู้ทักษะ:	คาถาปราณ
-3001	เพิ่มพื้นฐานเกราะปราณ	เสริมเกราะ
-3002	เพิ่มเกราะปราณ	เกราะเหล็ก
-4001	เพิ่มความเร็วการหลอมโอสถ	เร่งโอสถ
-4002	เพิ่มอัตราสำเร็จการหลอมโอสถ	หลอมเทวะ
-4003	เพิ่มประสิทธิภาพการหลอมโอสถ	หลอมสัมบูรณ์
-5001	เพิ่มความเร็วการหลอมอาวุธวิเศษ	ฝ่ามือภูติ
-5002	เพิ่มอัตราสำเร็จการหลอมอาวุธวิเศษ	ทิพยสมบัติ
-5003	เพิ่มระดับของอาวุธวิเศษที่หลอมออกมา	สกัดแก่นขัดหยก
-5004	เพิ่มคุณภาพของอาวุธวิเศษที่หลอมออกมา	เสริมแกร่ง
-6001	เพิ่มการรับรู้	สัมผัสเทวะ
-6002	เพิ่มความอึด	กายาเหล็กไหล
-6003	เพิ่มประสิทธิภาพการดูดซับปราณ	ดึงปราณ
-6004	เพิ่มอัตราการแปลงพลังกาย	แปลงทะเลปราณ
-6005	ลดอัตราเหนื่อยล้า	วงจรปราณ
-6006	เพิ่มอัตราการฟื้นฟูความเหนื่อย	พลังวาฬ
-6007	ยืดอายุไข	เต่าเทวะ, กาล, นิรันดร์
-6008	เพิ่มควมทนต่อความเจ็บปวด	จิตมั่นคง
-6009	ยกระดับสภาวะจิต	จิตปล่อยวาง
-7001	เพิ่มสติปัญญา	สัมผัสแห่งปัญญา
-7002	เพิ่มเสน่ห์	เสน่ห์วิญญาณ
-7003	เพิ่มโชค	โชคฟ้าดิน
-7004	ลดอัตราความหงุดหงิด	หัวใจพุทธะ
-7005	เพิ่มอัตราความเบิกบานใจ	กระจ่างจิต
+1	Tăng uy lực Pháp Bảo	Hủy Diệt
+2	Tăng hồi phục Linh Khí Pháp Bảo	Hồi Phục Linh Khí
+3	Tăng tốc độ tấn công Pháp Bảo	Tấn Công Chớp Nhoáng
+4	Tăng độ bền Pháp Bảo	Cường Hóa Vũ Khí
+5	Tăng lực đẩy lùi của Pháp Bảo	Lực Khổng Lồ
+6	Tăng tốc độ bay Pháp Bảo	Cuồng Phong
+7	Tăng linh hoạt Pháp Bảo	Xoáy Nòng
+8	Tăng kháng đẩy lùi Pháp Bảo	Đất Mẹ Diệt Vong
+9	Tăng tầm đánh Pháp Bảo	Vạn Dặm Truy Ảnh
+2000	Giảm thời gian niệm Thuật Pháp	Khí Thần Hợp Nhất
+2001	Giảm hồi chiêu Thuật Pháp	Rút Ngắn Thuật Pháp
+2002	Tăng uy lực Thuật Pháp	Khí Phá Thiên
+2003	Giảm thời gian niệm Thuật Pháp	Khí Thần Hợp Nhất
+2004	Học kỹ năng:	Thuật Pháp
+3001	Tăng căn bản Hộ Thể	Cường Hóa Hộ Thể
+3002	Tăng Hộ Thể	Thiết Giáp
+4001	Tăng tốc độ luyện Đan	Thúc Đẩy Luyện Đan
+4002	Tăng tỷ lệ thành công luyện Đan	Luyện Đan Thần Thánh
+4003	Tăng hiệu suất luyện Đan	Luyện Đan Hoàn Mỹ
+5001	Tăng tốc độ luyện Pháp Bảo	Quỷ Thủ
+5002	Tăng tỷ lệ thành công luyện Pháp Bảo	Thiên Tài Địa Bảo
+5003	Tăng cấp độ Pháp Bảo khi luyện	Trám Ngọc Tinh Luyện
+5004	Tăng phẩm chất Pháp Bảo khi luyện	Cường Hóa
+6001	Tăng Thần Thức	Thần Cảm
+6002	Tăng Căn Cốt	Thân Thể Kim Cương
+6003	Tăng hiệu quả hấp thụ Linh Khí	Hút Khí
+6004	Tăng tỷ lệ chuyển hóa Tinh Nguyên	Hóa Khí Hải
+6005	Giảm tỷ lệ mệt mỏi	Chu Thiên
+6006	Tăng hồi phục thể lực	Sức Mạnh Kình Ngư
+6007	Tăng Tuổi Thọ	Quy Thần, Thời Gian, Vĩnh Hằng
+6008	Tăng chịu đựng đau đớn	Tâm Chí Kiên Định
+6009	Tăng Tâm Cảnh	Tâm Buông Bỏ
+7001	Tăng Ngộ Tính	Trí Tuệ Chi Quang
+7002	Tăng Mị Lực	Mị Hoặc Chi Hồn
+7003	Tăng Cơ Duyên	Cơ Duyên Thiên Địa
+7004	Giảm tỷ lệ cáu kỉnh	Phật Tâm
+7005	Tăng tỷ lệ vui vẻ	Minh Tâm

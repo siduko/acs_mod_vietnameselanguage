@@ -1,77 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="All">
-			<PeferEnvironment.Desc>ชอบ</PeferEnvironment.Desc>
+			<PeferEnvironment.Desc>Thích</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Snake">
-			<NaiveTalk>ฟ่อ ฟ่ออออ!</NaiveTalk>
-			<PeferEnvironment.LightDesc>ต้องการอยู่ภายในห้อง</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ต้องการอยู่ใกล้สัตวัตัวเล็ก</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ต้องการอยู่ใกล้สัตวัตัวเล็ก\nต้องการห้อง\n</PeferEnvironment.Desc>
+			<NaiveTalk>Khò khòooo!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Cần ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Cần ở gần động vật nhỏ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần động vật nhỏ\nCần phòng\n</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Bear">
-			<NaiveTalk>แฮ่ แแฮฮฮ่!</NaiveTalk>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ต้องการอยู่ใกล้ๆสัตว์กินพืช</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ต้องการสัตว์กินพืชอยู่ใกล้ๆ\nชอบอยู่ข้างนอก\n</PeferEnvironment.Desc>
+			<NaiveTalk>Khà khàaa!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Cần ở gần động vật ăn cỏ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần động vật ăn cỏ ở gần\nThích ở ngoài trời\n</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Rabbit">
-			<NaiveTalk>อิ้ว อิ้ว อิ้ววว!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ต้องการหญ้าอยู่ใกล้ๆ</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ชอบอยู่ร่าวมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ต้องการหญ้าอยู่ใกล้ๆ,ชอบอยู่ข้างนอก\nชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.Desc>
+			<NaiveTalk>Hí hí híii!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần cỏ ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích ở cùng đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần cỏ ở gần,Thích ở ngoài trời\nThích ở cùng đồng loại</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Chicken">
-			<NaiveTalk>กุ๊ก กุ๊ก!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆต้นข้าว</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆต้นข้าว,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.Desc>
+			<NaiveTalk>Cục tác!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần lúa</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần lúa,Thích ở ngoài trời\nKhông thích động vật ăn thịt</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Wolf">
-			<NaiveTalk>บลู๊ว บลู๊วววว!</NaiveTalk>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ชอบอยู่ร่วมกับเผ่าพันธ์เดียวกัน\nชอบอยู่ข้างนอก</PeferEnvironment.Desc>
+			<NaiveTalk>Gâu gâuuu!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích ở cùng đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở cùng đồng loại\nThích ở ngoài trời</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Boar">
-			<NaiveTalk>อ็อกอู๊ด อ็อกอู๊ด!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ชอบอยู่ใกล้ๆเห็ด</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.Desc>ชอบอยู่ใกล้ๆเห็ด\nชอบอยู่ข้างนอก\n</PeferEnvironment.Desc>
+			<NaiveTalk>Ủn ỉn!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích ở gần nấm</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Thích ở gần nấm\nThích ở ngoài trời\n</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Frog">
-			<NaiveTalk>อบ อบ อบ!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆดอกบัว</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆดอกบัว,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ\n</PeferEnvironment.Desc>
+			<NaiveTalk>Ộp ộp ộp!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần hoa sen</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần hoa sen,Thích ở ngoài trời\nKhông thích động vật ăn thịt\n</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Turtle">
-			<NaiveTalk>ฮ่าว ฮ่าว!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ต้องการอยู่ใกล้ๆกับต้นอ้อ</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ภายในห้อง</PeferEnvironment.LightDesc>
-			<PeferEnvironment.Desc>ต้องการอยู่ใกล้ๆกับต้นอ้อ,ชอบอยู่ภายในห้อง</PeferEnvironment.Desc>
+			<NaiveTalk>Gừ gừ!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần lau sậy</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Cần ở gần lau sậy,Thích ở trong phòng</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Cat">
-			<NaiveTalk>เหมียว เหมียว!</NaiveTalk>
-			<PeferEnvironment.LightDesc>ชอบอยู่ภายในห้อง</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ชอบอยู่ภายในห้อง,ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.Desc>
+			<NaiveTalk>Meo meo!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích ở gần động vật khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở trong phòng,Không thích ở gần động vật khác</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Tiger">
-			<NaiveTalk>โฮ้ก โฮ้กกก!</NaiveTalk>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ชอบอยู่ข้างนอก,ไม่ชอบอยู่ใกล้สัตว์อื่น</PeferEnvironment.Desc>
+			<NaiveTalk>Gầm gừuu!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích ở gần động vật khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở ngoài trời,Không thích ở gần động vật khác</PeferEnvironment.Desc>
 		</Text>
 		<Text Name="Cattle">
-			<NaiveTalk>ม่อ ม่ออออ!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>ชอบต้นหญ้าสูงๆ</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>ชอบอยู่ข้างนอก</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>ไม่ชอบสัตว์กินเนื้อ</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>ชอบต้นหญ้าสูงๆ,ชอบอยู่ข้างนอก\nไม่ชอบสัตว์กินเนื้อ\n</PeferEnvironment.Desc>
+			<NaiveTalk>Mò òooo!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích cỏ cao</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích cỏ cao,Thích ở ngoài trời\nKhông thích động vật ăn thịt\n</PeferEnvironment.Desc>
 		</Text>
 	</List>
 </Texts>

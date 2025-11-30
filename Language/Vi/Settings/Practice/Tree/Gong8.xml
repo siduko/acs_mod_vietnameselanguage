@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong8_a0">
@@ -28,64 +29,64 @@
 			<DisplayName>บัญญัติแกนสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c3_1">
-			<DisplayName>กระบี่แกนสวรรค์</DisplayName>
+			<DisplayName>Thiên Khu Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c3_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่แกนสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thiên Khu Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4">
 			<DisplayName>บัญญัติหยกสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4_1">
-			<DisplayName>กระบี่หยกสวรรค์</DisplayName>
+			<DisplayName>Ngọc Thanh Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่หยกสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Ngọc Thanh Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5">
 			<DisplayName>บัญญัติไข่มุกสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5_1">
-			<DisplayName>กระบี่ไข่มุกสวรรค์</DisplayName>
+			<DisplayName>Thiên Cơ Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่ไข่มุกสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thiên Cơ Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6">
 			<DisplayName>บัญญัติรัศมีสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6_1">
-			<DisplayName>กระบี่รัศมีสวรรค์</DisplayName>
+			<DisplayName>Thiên Cơ Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่รัศมีสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thiên Cơ Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7">
 			<DisplayName>บัญญัติตาชั่งสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7_1">
-			<DisplayName>กระบี่ตาชั่งสวรรค์</DisplayName>
+			<DisplayName>Thiên Hành Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่ตาชั่งสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thiên Hành Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8">
-			<DisplayName>บัญญัติกระจ่างสวรรค์</DisplayName>
+			<DisplayName>บัญญัติThâu Thiên</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8_1">
-			<DisplayName>กระบี่กระจ่างสวรรค์</DisplayName>
+			<DisplayName>Thâu Thiên Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่กระจ่างสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thâu Thiên Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9">
 			<DisplayName>บัญญัติแสงสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9_1">
-			<DisplayName>กระบี่แสงสวรรค์</DisplayName>
+			<DisplayName>Thiên Quyền Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9_2">
-			<DisplayName>สมบัติวิเศษบรรพกาล: กระบี่แสงสวรรค์</DisplayName>
+			<DisplayName>สมบัติวิเศษบรรพกาล: Thiên Quyền Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c11">
 			<DisplayName>ผันเปลี่ยนชะตา</DisplayName>

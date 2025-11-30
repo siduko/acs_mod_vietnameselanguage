@@ -1,17 +1,17 @@
-Ancient Cultivator Prefix,ความกว้างใหญ่,ปฐมภูมิ,ความโกลาหล,จุดเริ่มต้นและจุดสิ้นสุด,เมฆสีม่วง,ความเข้าใจ,อนันต์,ปฐมกาล,ไม่มีที่สิ้นสุด,ไท้เก๊ก,จุดเริ่มต้นของโลก,ตอนจบ,สูงสุด,ดึกดำบรรพ์โบราณ,ท้องฟ้าที่เก้า,ท้องฟ้าวิญญาณ,ท้องฟ้ากว้างใหญ่,ท้องฟ้าที่ลึกล้ำ,ท้องฟ้าหยก,โดม ท้องฟ้า,ความใหญ่โต,ดั้งเดิม,ไม่มีที่สิ้นสุด,ความว่างเปล่าที่ชัดเจน,ภาพลวงตา,ความว่างเปล่าที่ลึกซึ้ง
-Common Level 1 Prefix,ถ่ายทอดสามัญ,ถ่ายทอดทั่วไป,ถ่ายทอดกว้างไกล
-Common Level 2 Prefix,โอสถทมิฬ,โอสถที่แท้จริง,สุญตาเที่ยงแท้
-Common Level 3 Prefix,พเนจร,อิสระ,ไร้ผูกมัด
-Common Level 4 Prefix,กระจ่างชัด,ตะวันแท้,สังเกตการณ์
-Sunshade Abode Prefix,ม่านฟ้า,กระจ่างบริสุทธิ์,หมื่นสมบัติ
-Kunlun Palace Prefix,คุนหลุน,หยกสุญตา,บรรพกาล
-Skydome Palace Prefix,เหนือนภา,ลืมเลือน,เทียบฟ้า
-Purple Cloud Temple Prefix,เมฆาม่วง,สวรรค์และโลก,หยินหยาง
-Mystic Unity Sect Prefix,เอกลี้ลับ,แก่นแท้,พิทักษ์ฟ้า
-Blue Lotus Temple,บัวสีคราม,ดารา,เสรี
-Evenfall Abode Prefix,แสงราตรี,ห้าวิถี,ถ่องแท้
-Mt. Hundred Insects Prefix,ร้อยแมลง,ย้อนกลับ,ห้าพิษ
-Pit of Doom Prefix,หลุมอเวจี,เจ้าแม่ธรณี,แดนแม่เหล็ก
-Seven-Slaughtering Sect Prefix,เจ็ดพิฆาต,คำสาปแห่งความตาย,สังหารสิ้น
-Exultant Sect Prefix,สราญรมย์,หกตัณหา,เจ็ดอารมณ์
-Daemonia Temple Prefix,หมื่นอสูร,นิรันดร์,โกลาหล
+Ancient Cultivator Prefix,Bao La,Sơ Khai,Hỗn Độn,Thủy Chung,Tử Vân,Lĩnh Ngộ,Vô Cực,Hồng Hoang,Vô Tận,Thái Cực,Khai Thiên,Kết Thúc,Chí Tôn,Viễn Cổ,Cửu Thiên,Linh Thiên,Hạo Thiên,Huyền Thiên,Ngọc Thiên,Thương Khung,Vĩ Đại,Nguyên Thủy,Vô Hạn,Thanh Hư,Huyễn Ảnh,Huyền Không
+Common Level 1 Prefix,Phổ Truyền,Thông Dụng,Quảng Bác
+Common Level 2 Prefix,Huyền Đan,Chân Đan,Chân Hư
+Common Level 3 Prefix,Du Nhàn,Tự Tại,Tiêu Dao
+Common Level 4 Prefix,Minh Tịnh,Chân Dương,Quan Chiếu
+Sunshade Abode Prefix,Thê Hà,Thanh Tịnh,Vạn Bảo
+Kunlun Palace Prefix,Côn Luân,Ngọc Hư,Thượng Cổ
+Skydome Palace Prefix,Lăng Tiêu,Vong Tình,Tề Thiên
+Purple Cloud Temple Prefix,Tử Tiêu,Càn Khôn,Âm Dương
+Mystic Unity Sect Prefix,Thái Nhất,Bản Nguyên,Hộ Thiên
+Blue Lotus Temple,Thanh Liên,Tinh Thần,Tự Do
+Evenfall Abode Prefix,Cực Thiên,Ngũ Hành,Triệt Ngộ
+Mt. Hundred Insects Prefix,Bách Man,Phản Phác,Ngũ Độc
+Pit of Doom Prefix,Vô Để,Địa Mẫu,Nguyên Từ
+Seven-Slaughtering Sect Prefix,Thất Sát,Tử Chú,Tuyệt Sát
+Exultant Sect Prefix,Hợp Hoan,Lục Dục,Thất Tình
+Daemonia Temple Prefix,Vạn Yêu,Bất Diệt,Hỗn Loạn

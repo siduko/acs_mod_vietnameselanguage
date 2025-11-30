@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Bear_Fat">
@@ -18,7 +19,7 @@
 		</Text>
 		<Text Name="Wolf_Calm">
 			<DisplayName>โหดร้ายเยือกเย็น</DisplayName>
-			<Desc>[IT]เกิดมามีพรสวรรค์ยุทธ์ตามธรรมชาติ ทำให้สามารถใช้ทักษะการต่อสู้ได้อย่างชำนาญ</Desc>
+			<Desc>[IT] sinh ra đã có thiên phú võ thuật, sử dụng kỹ năng chiến đấu thành thạo.</Desc>
 		</Text>
 		<Text Name="Snake_Progenitor">
 			<DisplayName>เผ่าพันธ์โบราณ</DisplayName>
@@ -66,7 +67,7 @@
 		</Text>
 		<Text Name="Tiger_Pier">
 			<DisplayName>โหดร้ายป่าเถื่อน</DisplayName>
-			<Desc>[IT]เป็นคนที่เก่งกาจในการต่อสู้เป็นอย่างมาก [IT]นั้นทั้งแข็งแกร่งและโหดเหี้ยมเป็นอย่างมากยามเมื่อลงมือต่อสู้ การลงมือของ[IT]นั้นไม่ต่างอะไรจากพยัคฆ์ที่ดุร้าย</Desc>
+			<Desc>[IT] rất giỏi chiến đấu, mạnh mẽ và tàn nhẫn khi ra tay, không khác gì mãnh hổ.</Desc>
 		</Text>
 		<Text Name="Cow_Farmer">
 			<DisplayName>ขยันและใจดี</DisplayName>
@@ -78,7 +79,7 @@
 		</Text>
 		<Text Name="Cat_Pot">
 			<DisplayName>ช่างสงสัย</DisplayName>
-			<Desc>[IT]มักจะมีความอยากรู้อยากเห็นเกี่ยวกับสิ่งต่างๆ ที่ดูน่าสงสัย ซึ่งมันเป็นคุณสมบัติที่สำคัญมากในการฝึกตน</Desc>
+			<Desc>[IT] luôn tò mò về những điều đáng ngờ, đây là tố chất quan trọng trong tu luyện.</Desc>
 		</Text>
 	</List>
 </Texts>

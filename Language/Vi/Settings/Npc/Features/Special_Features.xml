@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="SonOfDestiny">
@@ -78,7 +79,7 @@
 		</Text>
 		<Text Name="LunHui_11">
 			<DisplayName>คนจากยุคปัจจุบัน</DisplayName>
-			<Desc>[IT]ต้องคอยปกปิดตัวตนเรื่องที่ว่าเข้านั้นได้ข้ามมิติมาจากโลกปัจจุบันเอาไว้ แม้ว่าตัวตนเล็กๆ เช่น[IT]จะถูกละเลยโดยสวรรค์ก็ตาม [IT]นั้นข้ามมายังโลกแห่งนี้ด้วยความไม่เต็มใจ [IT]คิดถึงชีวิตที่แสนสะดวกสะบายของโลกสมัยใหม่ด้วยเพราะวิถีชีวิตในยุคนี้นั้นไม่เหมาะสมกับ[IT] ดังนั้น[IT]จึงมุ่งหน้าตั้งตาฝึกตนเพื่อใช้พลังของเซียนข้ามมิติกลับไปยังโลกเดิม ด้วยเหตุนี้[IT]จึงไม่มีความตั้งใจที่จะสร้างความสัมพันธ์กับใครทั้งนั้น</Desc>
+			<Desc>[IT] phải che giấu việc mình xuyên không từ hiện đại. Dù thân phận nhỏ bé bị thiên đạo bỏ qua, [IT] vẫn miễn cưỡng ở lại thế giới này. [IT] nhớ cuộc sống tiện nghi hiện đại vì lối sống thời này không hợp. Do đó [IT] quyết tâm tu luyện để dùng sức mạnh tiên nhân quay về. Vì thế [IT] không định kết thân với ai.</Desc>
 		</Text>
 		<Text Name="LunHui_12">
 			<DisplayName>ดื้อดึง</DisplayName>
@@ -202,7 +203,7 @@
 		</Text>
 		<Text Name="LunHui_42">
 			<DisplayName>คนครัวมือฉมัง</DisplayName>
-			<Desc>Tบุคคลผู้นี้เกิดมามีพรสวรรค์ในการทำอาหารเป็นอย่างยิ่ง</Desc>
+			<Desc>Người này sinh ra đã có tài năng nấu nướng tuyệt vời</Desc>
 		</Text>
 		<Text Name="LunHui_43">
 			<DisplayName>ความสมบูรณ์แบบ</DisplayName>
@@ -305,7 +306,7 @@
 		</Text>
 		<Text Name="LunHui_Kong_1">
 			<DisplayName>ซึนเดเระ</DisplayName>
-			<Desc>[IT]มักจะปากร้ายและปากไม่ตรงกับใจอยู่เสมอ แน่นอนว่านั่นเป็นเพราะ[IT]ต้องการปกปิดความเขินอายของตัวเองต่อบุคคลที่ตัวเองชอบ</Desc>
+			<Desc>[IT] thường khẩu xà tâm phật, lời nói không đi đôi với tấm lòng. Chắc chắn là vì [IT] muốn che giấu sự ngại ngùng trước người mình thích.</Desc>
 		</Text>
 		<Text Name="LunHui_Kong_2">
 			<DisplayName>อาฆาตพยาบาท</DisplayName>

@@ -1,40 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="1">
-			<Display>จำนวนผู้เหินสวรรค์: {0}</Display>
+			<Display>Số người phi thăng: {0}</Display>
 		</Text>
 		<Text Name="2">
-			<Display>สร้างสมบัติวิเศษ: {0} ครั้ง</Display>
+			<Display>Chế tạo Pháp Bảo: {0} lần</Display>
 		</Text>
 		<Text Name="3">
-			<Display>วาดยันต์: {0} ครั้ง</Display>
+			<Display>Vẽ Bùa: {0} lần</Display>
 		</Text>
 		<Text Name="4">
-			<Display>สังหารสิ่งมีชีวิต: {0} ตัว</Display>
+			<Display>Tiêu diệt sinh vật: {0} con</Display>
 		</Text>
 		<Text Name="5">
-			<Display>เรียนรู้ผ่านตำรา: คัมภีร์ลับ {0} เล่ม</Display>
+			<Display>Học từ sách: {0} Bí kíp</Display>
 		</Text>
 		<Text Name="6">
-			<Display>เวลาเหินสวรรค์ที่เร็วที่สุด: วันที่ {0}</Display>
+			<Display>Thời gian phi thăng nhanh nhất: Ngày {0}</Display>
 		</Text>
 		<Text Name="7">
-			<Display>ปรุงเม็ดยา: {0} ครั้ง</Display>
+			<Display>Luyện đan: {0} lần</Display>
 		</Text>
 		<Text Name="8">
-			<Display>การผจญภัย: {0} ครั้ง</Display>
+			<Display>Thám hiểm: {0} lần</Display>
 		</Text>
 		<Text Name="9">
-			<Display>ทำอาหาร: {0} ครั้ง</Display>
+			<Display>Nấu ăn: {0} lần</Display>
 		</Text>
 		<Text Name="10">
-			<Display>คะแนนความสำเร็จ: {0}</Display>
+			<Display>Điểm thành tựu: {0}</Display>
 		</Text>
 		<Text Name="11">
-			<Display>จำนวนศิษย์ชั้นในที่เสียชีวิตสะสม: {0}</Display>
+			<Display>Số đệ tử nội môn đã chết: {0}</Display>
 		</Text>
 		<Text Name="12">
-			<Display>ค้นพบสถานที่ใหม่ด้วยตนเองระหว่างการผจญภัย {0} แห่ง</Display>
+			<Display>Tự khám phá địa điểm mới: {0} nơi</Display>
 		</Text>
 	</List>
 </Texts>

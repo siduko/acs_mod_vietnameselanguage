@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="JobCallOfPanda">
-			<DisplayName>เรียกสหาย</DisplayName>
+			<DisplayName>Gọi bạn</DisplayName>
 		</Text>
 	</List>
 </Texts>

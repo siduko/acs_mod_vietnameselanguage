@@ -1,12 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Rpg_Arena_0">
-			<Nodes.0.Text>ทางเข้า</Nodes.0.Text>
-			<Nodes.1.Text>เต๋านั้นก็คือธรรมชาติ! || วิถีแห่งการฝึกตนก็เหมือนการแล่นเรือทวนกระแส...||...นี่เป็นวิธีที่แปลกประหลาดที่สุดเท่าที่ข้าเคยได้ยินมา แล้วมันจะมีประโยชน์ได้อย่างไร? || แน่นอนว่าการต่อสู้ของยอดฝีมือนั้นอาจจะทำให้ท่านให้รับแนวคิดอะไรบางอย่างกลับมาได้</Nodes.1.Text>
-			<Nodes.2.Text>ท่านต้องการประลองฉันมิตรกับข้าดูหน่อยหรือไม่?</Nodes.2.Text>
-			<Nodes.3.Text>(ควบคุมได้)</Nodes.3.Text>
-			<Nodes.4.Text>ข้่าพร้อมแล้ว</Nodes.4.Text>
-			<Nodes.5.Text>ข้าไม่เป็นไร</Nodes.5.Text>
+			<Nodes.0.Text>Lối vào</Nodes.0.Text>
+			<Nodes.1.Text>Đạo là tự nhiên! || Con đường tu luyện giống như đi thuyền ngược dòng...||...Đây là cách kỳ lạ nhất mà ta từng nghe. Vậy nó có ích lợi gì? || Đương nhiên, cuộc chiến của các cao thủ có thể mang lại cho ngươi một số cảm ngộ nào đó.</Nodes.1.Text>
+			<Nodes.2.Text>Ngươi có muốn tỉ thí hữu nghị với ta không?</Nodes.2.Text>
+			<Nodes.3.Text>(có thể điều khiển)</Nodes.3.Text>
+			<Nodes.4.Text>Ta sẵn sàng rồi.</Nodes.4.Text>
+			<Nodes.5.Text>Ta không sao.</Nodes.5.Text>
 		</Text>
 	</List>
 </Texts>

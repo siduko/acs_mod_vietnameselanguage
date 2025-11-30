@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Story">
 	<List>
 		<Text Name="Story_LingZhiGet">
 			<DisplayName>ผจญภัยที่นี่</DisplayName>
-			<Desc>[NAME] ได้มาถึงที่[PLACE]และจำได้ว่ามันควรจะมีรากวิญญาณเติบโตอยู่ที่นี่ หลังจากที่ได้ลองค้นหาอย่างละเอียดแล้ว ปรากฏว่าพื้นที่แห่งนี้เต็มไปด้วยปราณธาตุดิน ดูเหมือนว่ามันจะมีอะไรบางอย่างที่ไม่ธรรมดาที่นี่</Desc>
+			<Desc>[NAME] đến [PLACE], nhớ là có Linh Căn ở đây. Sau khi tìm kỹ thì thấy nơi này đầy Thổ linh khí, dường như có gì đó bất thường.</Desc>
 			<Selections.0.Display>ค้นหารากวิญญาณ</Selections.0.Display>
 			<Selections.1.Display>จัดวางค่ายกล</Selections.1.Display>
 			<Selections.2.Display>เก็บเกี่ยวรากวิญญาณ</Selections.2.Display>
@@ -11,14 +12,14 @@
 		</Text>
 		<Text Name="Story_LingZhiBeg">
 			<DisplayName>ผจญภัยที่นี่</DisplayName>
-			<Desc>[NAME] ได้มาถึงที่[PLACE]และจำได้ว่าที่นี่มันมีรากวิญญาณเติบโตอยู่</Desc>
+			<Desc>[NAME] đến [PLACE] và nhớ ra ở đây có Linh Căn.</Desc>
 			<Selections.0.Display>ค้นหารากวิญญาณ</Selections.0.Display>
 			<Selections.1.Display>เดินไปรอบๆ</Selections.1.Display>
 			<Selections.2.Display>ไม่สนใจ</Selections.2.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Jin">
 			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
-			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุทองอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Desc>[NAME] thấy nơi này đậm đặc Kim linh khí và yên tĩnh, rất tốt để tu luyện.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
@@ -28,7 +29,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Mu">
 			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
-			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุไม้อยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Desc>[NAME] thấy nơi này đậm đặc Mộc linh khí và yên tĩnh, rất tốt để tu luyện.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
@@ -38,7 +39,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Shui">
 			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
-			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุน้ำอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Desc>[NAME] thấy nơi này đậm đặc Thủy linh khí và yên tĩnh, rất tốt để tu luyện.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
@@ -48,7 +49,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Huo">
 			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
-			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุไฟอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Desc>[NAME] thấy nơi này đậm đặc Hỏa linh khí và yên tĩnh, rất tốt để tu luyện.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
@@ -58,7 +59,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Tu">
 			<DisplayName>ทำการบ่มเพาะปราณที่นี่</DisplayName>
-			<Desc>[NAME] พบว่าพื้นที่แห่งนี้นั้นมีปราณธาตุดินอยู่อย่างหนาแน่น และที่นี่ก็เงียบสงบเป็นอย่างมาก ดังนั้นมันจึงเป็นสถานที่ที่ดีในการบ่มเพาะลมปราณ</Desc>
+			<Desc>[NAME] thấy nơi này đậm đặc Thổ linh khí và yên tĩnh, rất tốt để tu luyện.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>บ่มเพาะปราณ</Selections.2.Display>
@@ -68,7 +69,7 @@
 		</Text>
 		<Text Name="HighFind_Jin">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Desc>[NAME] nghe nói nơi này đầy linh khí, nghi ngờ có bảo vật.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
@@ -82,7 +83,7 @@
 		</Text>
 		<Text Name="HighFind_Mu">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Desc>[NAME] nghe nói nơi này đầy linh khí, nghi ngờ có bảo vật.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
@@ -96,7 +97,7 @@
 		</Text>
 		<Text Name="HighFind_Shui">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Desc>[NAME] nghe nói nơi này đầy linh khí, nghi ngờ có bảo vật.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
@@ -110,7 +111,7 @@
 		</Text>
 		<Text Name="HighFind_Huo">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Desc>[NAME] nghe nói nơi này đầy linh khí, nghi ngờ có bảo vật.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
@@ -124,7 +125,7 @@
 		</Text>
 		<Text Name="HighFind_Tu">
 			<DisplayName>ค้นหาสมบัติ</DisplayName>
-			<Desc>[NAME] ได้ยินมาว่าสถานที่แห่งนี้เต็มไปด้วยพลังเหนือธรรมชาติและสงสัยว่าสถานที่แห่งนี้อาจจะซุกซ่อนสมบัติบางอย่างไว้</Desc>
+			<Desc>[NAME] nghe nói nơi này đầy linh khí, nghi ngờ có bảo vật.</Desc>
 			<Selections.0.Display>ค้นหาสมบัติ</Selections.0.Display>
 			<Selections.0.Tip>ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>ค้นหาสมบัติ</Selections.1.Display>
@@ -187,7 +188,7 @@
 		</Text>
 		<Text Name="BaoZang_ChiLianYuan">
 			<DisplayName>ค้นหาความลับของพระราชวังมรกต</DisplayName>
-			<Desc>[NAME] ได้เข้าไปในพระราชวังที่หนานกงหงทิ้งเอาไว้ในบันทึกลับ ตามสิ่งที่ถูกบันทึกไว้ใน "คัมภีร์วิถีเซียน" มันมีสถานที่สามแห่งที่ได้ถูกซ่อนเอาไว้ ได้แก่ หนึ่ง ศาลาแห่งโชคชะตาที่อยู่ในโถงพำนักของพระราชวังมรกต, สอง พื้นที่หลอมอาวุธวิเศษที่อยู่ในโถงหมื่นสมบัติ, และสาม ห้องเขียนตำราที่อยู่ในสถานที่ฝึกสมาธิ</Desc>
+			<Desc>[NAME] vào cung điện Nam Cung Mộng để lại. Theo "Đạo Tàng", có ba nơi ẩn giấu: Thiên Cơ Các ở Thanh Ngọc Đàn, Luyện Khí Đài ở Vạn Bảo Điện, và Tàng Thư Các ở Tĩnh Tâm Điện.</Desc>
 			<Selections.0.Display>เข้าไปในศาลาแห่งโชคชะตา</Selections.0.Display>
 			<Selections.1.Display>เข้าไปในโถงหมื่นสมบัติ</Selections.1.Display>
 			<Selections.2.Display>เข้าไปในห้องเขียนตำรา</Selections.2.Display>
@@ -195,13 +196,13 @@
 		</Text>
 		<Text Name="BaoZang_XuanKong">
 			<DisplayName>สุสานเซียนหยก</DisplayName>
-			<Desc>[NAME] ได้เข้าไปในสถานที่พำนักของเซียนหยกที่ได้ถูกบันทึกไว้ใน "คัมภีร์วิถีเซียน" และด้วยข้อมูลในบันทึกจึงทำให้หลบเลี่ยงกับดักได้ไม่น้อย</Desc>
+			<Desc>[NAME] vào động phủ Ngọc Thanh Tiên Nhân ghi trong "Đạo Tàng", nhờ thông tin đó mà tránh được nhiều bẫy.</Desc>
 			<Selections.0.Display>ค้นหาที่พำนักเซียน</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan">
 			<DisplayName>ภูเขาชิงเหลียน</DisplayName>
-			<Desc>[NAME] ได้มาที่ทะเลทางใต้ตามบันทึกลับ หลังจากสำรวจพื้นที่อยู่หลายครั้ง ในที่สุด[ENHIM]ก็พบกับหยดน้ำที่แท้จริงซ่อนอยู่ในเกลียวคลื่นไร้สิ้นสุด [NAME] ได้เอื้อมมือไปสัมผัสมันและถูกดูดเข้าไปในวังวนของน้ำ หลังจากนั้นจึงพบภูเขาเซียนสีน้ำเงินสูงตระหง่านปรากฏขึ้นตรงหน้า เมื่อมองออกไปไกลๆ ก็พบกระท่อมไม้ไผ่หลังหนึ่งที่ตั้งอยู่บนไหล่เขา ส่วนยอดเขานั้นกลับถูกปกคลุมไปด้วยเมฆที่มีสีดำสนิทและมีสายฟ้าฟาดลงมาตลอดเวลา</Desc>
+			<Desc>[NAME] đến Nam Hải theo bí lục. Sau khi tìm kiếm, [ENHIM] thấy giọt chân thủy ẩn trong sóng biển. [NAME] chạm vào và bị hút vào xoáy nước, thấy ngọn núi tiên màu xanh hiện ra. Xa xa có nhà trúc trên sườn núi, đỉnh núi bị mây đen bao phủ và sét đánh liên tục.</Desc>
 			<Selections.0.Display>ค้นหาบนภูเขา</Selections.0.Display>
 			<Selections.1.Display>เดินเข้าไปยังกระท่อมไม้ไผ่ที่ไหล่เขา</Selections.1.Display>
 			<Selections.2.Display>สำรวจยอดเขา</Selections.2.Display>
@@ -226,7 +227,7 @@
 		</Text>
 		<Text Name="BaoZang_QingLianShan21">
 			<DisplayName>ผังค่ายกลปริศนา</DisplayName>
-			<Desc>[NAME] พบว่ามีช่องสี่ช่องบนผังค่ายกลที่อาจจะเป็นกุญแจสู่ใจกลางของค่ายกล และมันมีเพียงช่องเดียวเท่านั้นที่กำลังส่องแสงอยู่ ส่วนที่เหลืออีกสามช่องไม่มีปฏิกิริยาใดๆ</Desc>
+			<Desc>[NAME] thấy bốn khe trên sơ đồ trận pháp có thể là chìa khóa vào trung tâm, nhưng chỉ một khe sáng đèn, ba khe còn lại không phản ứng.</Desc>
 			<Selections.0.Display>โอนถ่ายปราณ</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>
@@ -238,7 +239,7 @@
 		</Text>
 		<Text Name="BaoZang_DengXian">
 			<DisplayName>สำรวจซากโบราณ</DisplayName>
-			<Desc>[NAME] ฉันได้ยินมาว่าซากโบราณชุมนุมเซียนแห่งนี้มีเคล็ดวิชาดั้งเดิมที่ถูกทิ้งไว้โดยจักรพรรดิตงหัวเมื่อนานมาแล้ว [ENHIM]จึงพยายามที่จะตามหามัน</Desc>
+			<Desc>[NAME] nghe nói di tích Cổ Tiên Hội này có bí kíp của Đông Hoa Đế Quân để lại từ xưa, nên [ENHIM] cố gắng tìm kiếm.</Desc>
 			<Selections.0.Display>ค้นหาอย่างละเอียด</Selections.0.Display>
 			<Selections.0.Tip>ใช่การรับรู้ และ ใช้โชค</Selections.0.Tip>
 			<Selections.1.Display>จากไป</Selections.1.Display>
@@ -256,7 +257,7 @@
 		</Text>
 		<Text Name="LingWu_DanXia">
 			<DisplayName>ผาม่านฟ้า</DisplayName>
-			<Desc>[NAME] มองออกไปด้วยความตกใจเมื่อเห็นแสงนับพันพุ่งออกมาผาม่านฟ้า</Desc>
+			<Desc>[NAME] kinh ngạc nhìn ngàn tia sáng bắn ra từ Thiên Mạc Nhai.</Desc>
 			<Selections.0.Display>บ่มเพาะปราณ</Selections.0.Display>
 			<Selections.0.Tip>ใช้สติปัญญา และ พื้นฐานการบ่มเพาะ</Selections.0.Tip>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
@@ -265,21 +266,21 @@
 		</Text>
 		<Text Name="LingWu_JiuHua1">
 			<DisplayName>ดินแดนมังกรลี้ลับ</DisplayName>
-			<Desc>[NAME] นั้นได้มายืนอยู่เบื้องหน้าสระมังกรแฝงและหวนคิดเรื่องราวในสมัยโบราณที่ว่ากันว่ามีจะพลังปราณอันมหาศาลถูกปลดปล่อยออกมายามเมื่อมังกรปรากฏกายขึ้นที่นี่ [ENHIM]อดไม่ได้ที่จะมองไปด้วยความตื่นเต้น</Desc>
+			<Desc>[NAME] đứng trước Tiềm Long Uyên, nhớ lại truyền thuyết về Linh Khí khổng lồ tỏa ra khi rồng xuất hiện, không khỏi nhìn với vẻ phấn khích.</Desc>
 			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
 			<DisplayName>ดินแดนหงส์เพลิง</DisplayName>
-			<Desc>[NAME] นั้นได้มายืนอยู่เบื้องซากไม้หงส์เพลิงที่ผาหงส์เพลิง [ENHIM]ถอนหายใจอย่างถอดถอนใจ ทว่าหลังจากนั้นดูเหมือนว่า[ENHIM]จะได้ยินเสียงของหงส์เพลิงดังก้องอยู่ในหู</Desc>
+			<Desc>[NAME] đứng trước tàn tích Ngô Đồng ở Phụng Tê Nhai, thở dài não nề. Bỗng [ENHIM] nghe thấy tiếng Phượng Hoàng vang vọng bên tai.</Desc>
 			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
 			<Selections.1.Display>บ่มเพาะปราณ</Selections.1.Display>
 			<Selections.2.Display>ชมวิวทิวทัศน์</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
 			<DisplayName>น้ำตกผ่านฟ้า</DisplayName>
-			<Desc>[NAME] มองดูอย่างพูดไม่ออกเมื่อมาอยู่ต่อหน้าความยิ่งใหญ่ของน้ำตกผ่านฟ้า พลังของมันนั้นดูยิ่งใหญ่ซะยิ่งกว่าพลังของผู้ฝึกตนที่อยู่ในขอบเขตแก่นทองคำซะอีก</Desc>
+			<Desc>[NAME] câm nín trước sự hùng vĩ của Phi Lưu Bộc. Sức mạnh của nó còn lớn hơn cả tu sĩ Kim Đan Cảnh.</Desc>
 			<Selections.0.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.0.Display>
 			<Selections.0.Tip>ทักษะอาวุธวิเศษ</Selections.0.Tip>
 			<Selections.1.Display>พยายามรู้แจ้งอะไรบางอย่าง</Selections.1.Display>
@@ -297,7 +298,7 @@
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
 			<DisplayName>ค้นหาโดยใช้โชค</DisplayName>
-			<Desc>[NAME] ได้มายังสนามรบโบราณที่เซียนและมารเคยสู้รบกันเมื่อหลายพันปีก่อน หากโชคดีละก็อาจจะได้อะไรติดไม้ติดมือกลับไปก็ได้</Desc>
+			<Desc>[NAME] đến chiến trường cổ đại nơi tiên ma đại chiến ngàn năm trước. Nếu may mắn có thể tìm được gì đó.</Desc>
 			<Selections.0.Display>ค้นหาโดยใช้โชค</Selections.0.Display>
 			<Selections.1.Display>จากไป</Selections.1.Display>
 		</Text>

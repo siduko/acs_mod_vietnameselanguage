@@ -1,40 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Rest">
-			<Desc>พักผ่อน</Desc>
-			<Tip>หลับเพื่อฟื้นฟูพลังงาน</Tip>
+			<Desc>Nghỉ ngơi</Desc>
+			<Tip>Ngủ để phục hồi năng lượng</Tip>
 		</Text>
 		<Text Name="Eat">
-			<Desc>กิน</Desc>
-			<Tip>กินอาหาร: ยามเมื่อเข้าสู่วัยเรียนรู้ ท่านสามารถเลือกอาหารให้มันได้</Tip>
+			<Desc>Ăn</Desc>
+			<Tip>Ăn uống: Khi đến tuổi học hỏi, ngài có thể chọn thức ăn cho nó.</Tip>
 		</Text>
 		<Text Name="Fun">
-			<Desc>เล่น</Desc>
-			<Tip>เล่นสนุก: พฤกติกรรมที่หลากหลายจะเพิ่มจิตจำจงของมัน</Tip>
+			<Desc>Chơi</Desc>
+			<Tip>Vui chơi: Hành vi đa dạng sẽ tăng tính kỷ luật của nó.</Tip>
 		</Text>
 		<Text Name="Shit">
-			<Desc>ขับถ่าย</Desc>
-			<Tip>การขับถ่ายสามารถเป็นขับถ่ายได้หลายจุด</Tip>
+			<Desc>Bài tiết</Desc>
+			<Tip>Có thể bài tiết ở nhiều nơi</Tip>
 		</Text>
 		<Text Name="Attack">
-			<Desc>โจมตี</Desc>
-			<Tip>โจมตีตัวละครทุกประเภท</Tip>
+			<Desc>Tấn công</Desc>
+			<Tip>Tấn công mọi loại nhân vật</Tip>
 		</Text>
 		<Text Name="Help">
-			<Desc>ช่วยเหลือ</Desc>
-			<Tip>บางครั้งก็ช่วยศิษย์ชั้นใน บางครั้งก็ช่วยศิษย์ชั้นนอก</Tip>
+			<Desc>Giúp đỡ</Desc>
+			<Tip>Đôi khi giúp đệ tử nội môn, đôi khi giúp đệ tử ngoại môn</Tip>
 		</Text>
 		<Text Name="HighHelp">
-			<Desc>ช่วยฝึกฝน</Desc>
-			<Tip>ช่วยในการฝึกฝน (ต้องการสติปัญญา 80 เมื่อปลดล็อค)</Tip>
+			<Desc>Giúp tu luyện</Desc>
+			<Tip>Giúp tu luyện (cần Ngộ Tính 80 khi mở khóa)</Tip>
 		</Text>
 		<Text Name="Carry">
-			<Desc>ขนย้ายตัวละคร</Desc>
-			<Tip>เคลื่อนย้ายตัวละครที่สลบหรือตาย (ต้องการสติปัญญา 50 เพื่อปลดล็อค)</Tip>
+			<Desc>Di chuyển nhân vật</Desc>
+			<Tip>Di chuyển nhân vật bất tỉnh hoặc đã chết (cần Ngộ Tính 50 để mở khóa)</Tip>
 		</Text>
 		<Text Name="Train">
-			<Desc>ฝึกฝน</Desc>
-			<Tip>การฝึกฝนจะเพิ่มค่าสถานะทั้งหมดและผลของมันเพิ้มขึ้นได้ด้วยอาหารและเครื่องดื่ม ยิ่งอาหารและเครื่องดื่มมีประสิทธิภาพมากเท่าไร ผลการฝึกก็จะยิ่งมากขึ้นเท่านั้น (ต้องไปถึงวัยเรียนรู้เพื่อปลดล็อก) </Tip>
+			<Desc>Tu luyện</Desc>
+			<Tip>Tu luyện sẽ tăng tất cả chỉ số và hiệu quả của nó có thể tăng lên nhờ thức ăn và đồ uống. Thức ăn và đồ uống càng hiệu quả, kết quả tu luyện càng cao (cần đạt đến giai đoạn học hỏi để mở khóa).</Tip>
 		</Text>
 	</List>
 </Texts>

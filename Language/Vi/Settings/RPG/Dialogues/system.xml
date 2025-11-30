@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="system_null">
-			<Nodes.0.Text>เริ่ม</Nodes.0.Text>
+			<Nodes.0.Text>Bắt đầu</Nodes.0.Text>
 		</Text>
 	</List>
 </Texts>

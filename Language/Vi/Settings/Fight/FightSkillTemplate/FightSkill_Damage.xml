@@ -1,28 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="TDamageSkill">
-			<DisplayName>ความเสียหายปราณเวท</DisplayName>
+			<DisplayName>Sát thương Thuật Pháp</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_1">
-			<DisplayName>ฝ่ามือลมปราณ</DisplayName>
+			<DisplayName>Khí Chưởng</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_2">
-			<DisplayName>พายุอัคคี</DisplayName>
+			<DisplayName>Hỏa Bão</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_3">
-			<DisplayName>อัสนีเทวะ</DisplayName>
+			<DisplayName>Thần Lôi</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_4">
-			<DisplayName>ทลายวิญญาณ</DisplayName>
+			<DisplayName>Phá Hồn</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Gong4_1">
-			<DisplayName>โกลาหลสู่ว่างเปล่า</DisplayName>
+			<DisplayName>Hỗn Độn Quy Hư</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Gong7_1">
-			<DisplayName>กระบี่ตัดพันธะ</DisplayName>
+			<DisplayName>Trảm Duyên Kiếm</DisplayName>
 		</Text>
 		<Text Name="DamageSkill_Teach">
-			<DisplayName>เวทฝึกหัด</DisplayName>
+			<DisplayName>Phép Tập Sự</DisplayName>
 		</Text>
 	</List>
 </Texts>

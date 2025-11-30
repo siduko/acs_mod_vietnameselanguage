@@ -1,86 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
 <SpecialNames>
 	<List>
 		<SpecialItem Name="Item_HomeFood">
 			<Fish_SkyCrab>
-				<li Name="ปูนึ่ง" Desc=""></li>
-				<li Name="ซุปปู" Desc=""></li>
-				<li Name="ปูนิ่มทอด" Desc=""></li>
-				<li Name="ข้าวต้มปู" Desc=""></li>
-				<li Name="ปูผัดเต้าหู้" Desc=""></li>
-				<li Name="ปูผัดเผ็ด" Desc=""></li>
-				<li Name="ปูผัดผงกระหรี่" Desc=""></li>
-				<li Name="ข้าวผัดปู" Desc=""></li>
+				<li Name="Cua Hấp" Desc="" />
+				<li Name="Súp Cua" Desc="" />
+				<li Name="Cua Lột Chiên" Desc="" />
+				<li Name="Cháo Cua" Desc="" />
+				<li Name="Cua Xào Đậu Hũ" Desc="" />
+				<li Name="Cua Xào Cay" Desc="" />
+				<li Name="Cua Xào Cà Ri" Desc="" />
+				<li Name="Cơm Chiên Cua" Desc="" />
 			</Fish_SkyCrab>
 			<Fish_SkySnake>
-				<li Name="ข้าวต้มปลา" Desc=""></li>
-				<li Name="ทอดมันปลา" Desc=""></li>
-				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
-				<li Name="ปลาย่าง" Desc=""></li>
-				<li Name="ปลาทอด" Desc=""></li>
-				<li Name="ซุปปลา" Desc=""></li>
-				<li Name="ปลานึ่ง" Desc=""></li>
-				<li Name="ปลาต้มยาจีน" Desc=""></li>
+				<li Name="Cháo Cá" Desc="" />
+				<li Name="Chả Cá" Desc="" />
+				<li Name="Chả Giò Cá" Desc="" />
+				<li Name="Cá Nướng" Desc="" />
+				<li Name="Cá Chiên" Desc="" />
+				<li Name="Súp Cá" Desc="" />
+				<li Name="Cá Hấp" Desc="" />
+				<li Name="Cá Hầm Thuốc Bắc" Desc="" />
 			</Fish_SkySnake>
 			<Fish_SkyFish>
-				<li Name="ข้าวต้มปลา" Desc=""></li>
-				<li Name="ทอดมันปลา" Desc=""></li>
-				<li Name="ปอเปี๊ยะปลา" Desc=""></li>
-				<li Name="ปลาย่าง" Desc=""></li>
-				<li Name="ปลาทอด" Desc=""></li>
-				<li Name="ซุปปลา" Desc=""></li>
-				<li Name="ปลานึ่ง" Desc=""></li>
-				<li Name="ปลาต้มยาจีน" Desc=""></li>
+				<li Name="Cháo Cá" Desc="" />
+				<li Name="Chả Cá" Desc="" />
+				<li Name="Chả Giò Cá" Desc="" />
+				<li Name="Cá Nướng" Desc="" />
+				<li Name="Cá Chiên" Desc="" />
+				<li Name="Súp Cá" Desc="" />
+				<li Name="Cá Hấp" Desc="" />
+				<li Name="Cá Hầm Thuốc Bắc" Desc="" />
 			</Fish_SkyFish>
 		</SpecialItem>
 		<SpecialItem Name="Item_DeliciousFood">
 			<Fish_SkyCrab>
-				<li Name="แกงคั่วปู" Desc=""></li>
-				<li Name="ปูผัดเผ็ด" Desc=""></li>
-				<li Name="ก้ามปูนึ่ง" Desc=""></li>
-				<li Name="ไข่ปูเคี่ยววุ้นเส้น" Desc=""></li>
-				<li Name="ปูผัดขี้เมา" Desc=""></li>
-				<li Name="เนื้อปูราดเต้าหู้" Desc=""></li>
-				<li Name="เนื้อปูผัดฉ่า" Desc=""></li>
+				<li Name="Cà Ri Cua" Desc="" />
+				<li Name="Cua Xào Cay" Desc="" />
+				<li Name="Càng Cua Hấp" Desc="" />
+				<li Name="Miến Xào Trứng Cua" Desc="" />
+				<li Name="Cua Xào Kiểu Thái" Desc="" />
+				<li Name="Đậu Hũ Sốt Thịt Cua" Desc="" />
+				<li Name="Thịt Cua Xào Sả Ớt" Desc="" />
 			</Fish_SkyCrab>
 			<Fish_SkySnake>
-				<li Name="ปลาผัดฉ่า" Desc=""></li>
-				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
-				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
-				<li Name="ลูกชิ้นปลา" Desc=""></li>
-				<li Name="ทอดมันปลา" Desc=""></li>
-				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
-				<li Name="แกงส้มปลา" Desc=""></li>
-				<li Name="ปลานึ่งเหล้า" Desc=""></li>
-				<li Name="เนื้อปลาทอด" Desc=""></li>
-				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
-				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+				<li Name="Cá Xào Sả Ớt" Desc="" />
+				<li Name="Cơm Cá Tay Cầm" Desc="" />
+				<li Name="Cá Sốt Dầu Ớt" Desc="" />
+				<li Name="Cá Viên" Desc="" />
+				<li Name="Chả Cá" Desc="" />
+				<li Name="Cá Hầm Ngũ Vị" Desc="" />
+				<li Name="Canh Chua Cá" Desc="" />
+				<li Name="Cá Hấp Rượu" Desc="" />
+				<li Name="Phi Lê Cá Chiên" Desc="" />
+				<li Name="Cá Kho Tộ" Desc="" />
+				<li Name="Đầu Cá Hấp Tiêu Đen" Desc="" />
 			</Fish_SkySnake>
 			<Fish_SkyFish>
-				<li Name="ปลาผัดฉ่า" Desc=""></li>
-				<li Name="ข้าวอบปลาหม้อดิน" Desc=""></li>
-				<li Name="ปลาในน้ำมันพริก" Desc=""></li>
-				<li Name="ลูกชิ้นปลา" Desc=""></li>
-				<li Name="ทอดมันปลา" Desc=""></li>
-				<li Name="ปลาต้มเครื่องเทศ" Desc=""></li>
-				<li Name="แกงส้มปลา" Desc=""></li>
-				<li Name="ปลานึ่งเหล้า" Desc=""></li>
-				<li Name="เนื้อปลาทอด" Desc=""></li>
-				<li Name="ปลาเคี่ยวในน้ำซุป" Desc=""></li>
-				<li Name="หัวปลานึ่งพริกไทยดำ" Desc=""></li>
+				<li Name="Cá Xào Sả Ớt" Desc="" />
+				<li Name="Cơm Cá Tay Cầm" Desc="" />
+				<li Name="Cá Sốt Dầu Ớt" Desc="" />
+				<li Name="Cá Viên" Desc="" />
+				<li Name="Chả Cá" Desc="" />
+				<li Name="Cá Hầm Ngũ Vị" Desc="" />
+				<li Name="Canh Chua Cá" Desc="" />
+				<li Name="Cá Hấp Rượu" Desc="" />
+				<li Name="Phi Lê Cá Chiên" Desc="" />
+				<li Name="Cá Kho Tộ" Desc="" />
+				<li Name="Đầu Cá Hấp Tiêu Đen" Desc="" />
 			</Fish_SkyFish>
 		</SpecialItem>
 		<SpecialItem Name="Item_DelicacyFood">
 			<Fish_SkyCrab>
-				<li Name="ซาลาเปาซุปจักรพรรดิ" Desc="ผสมไข่ปูสดกับเนื้อสัตว์แล้วห่อด้วยแป้งบางๆ เมื่อนึ่งเสร็จแล้วจะเติมน้ำมันปูทองลงไปทั้งตัว ว่ากันว่าเคยมีจักรพรรดิองค์หนึ่งยอมสละบัลลังก์เพื่อกินซาลาเปานี้"></li>
-				<li Name="ปูนึ่งเหล้าเส้าซิง" Desc="ใช้เหล้าเส้าซิงที่ดีที่สุดเพื่อนึ่งปูในช่วงปลายฤดูใบไม้ร่วง เหล้าสามารถขับความเย็นของปูได้ รสชาติที่กลมกล่อมของเหล้าเส้าซิงผสมผสานอย่างลงตัวกับความหวานของเนื้อปู"></li>
+				<li Name="Bánh Bao Súp Hoàng Đế" Desc="Trộn gạch cua tươi với thịt rồi gói trong lớp vỏ mỏng. Khi hấp chín, thêm dầu cua vàng vào. Tương truyền từng có vị hoàng đế sẵn sàng bỏ ngai vàng chỉ để ăn bánh bao này." />
+				<li Name="Cua Hấp Rượu Thiệu Hưng" Desc="Dùng rượu Thiệu Hưng ngon nhất để hấp cua vào cuối thu. Rượu có thể khử tính hàn của cua. Vị nồng nàn của rượu Thiệu Hưng hòa quyện hoàn hảo với vị ngọt của thịt cua." />
 			</Fish_SkyCrab>
 			<Fish_SkySnake>
-				<li Name="ปลาไหลผัดฉ่า" Desc="ตัดปลาไหลสดเป็นชิ้นเล็กชิ้นน้อยแล้วผัดกับส่วนผสมปรุงรส ต้องใช้ทักษะและความเร็วในการตัดที่พิถีพิถัน"></li>
-				<li Name="ปลาไหลผัดหอมหัวใหญ่" Desc="ต้มปลาไหลสดจนสุก จากนั้นนำไปผัดกับหัวหอมเพื่อขจัดกลิ่นคาว อาหารชั้นยอดที่ทั้งดีต่อสุขภาพและอร่อย"></li>
+				<li Name="Lươn Xào Sả Ớt" Desc="Cắt lươn tươi thành miếng nhỏ rồi xào với gia vị. Cần kỹ năng cắt tỉ mỉ và tốc độ nhanh." />
+				<li Name="Lươn Xào Hành Tây" Desc="Luộc lươn tươi đến chín, sau đó xào với hành tây để khử mùi tanh. Món ăn tuyệt hảo vừa bổ dưỡng vừa ngon miệng." />
 			</Fish_SkySnake>
 			<Fish_SkyFish>
-				<li Name="ซุปมังกร" Desc="เมื่อลองนึกภาพปลาคาร์พกระโดดข้ามประตูมังกร ซุปนี้ส่วนใหญ่ขึ้นอยู่กับลำดับของการปรุงอาหารและการใช้เครื่องเทศที่สลับซับซ้อน ทำให้รสชาติดีกว่าอาหารประเภทปลาทั่วไปมาก"></li>
-				<li Name="แกะซ่อนปลา" Desc="ใส่ปลาลงในลูกแกะขนาดใหญ่ที่หั่นเป็นชิ้นแล้วปรุงด้วยเครื่องปรุงรสเพื่อสร้างรสชาติที่ละเอียดอ่อน รสชาติของปลารวมกับเนื้อแกะทำให้อร่อยยิ่งขึ้น เนื้อแกะนุ่มชุ่มฉ่ำ ไส้ปลานุ่มๆ สอดไส้ข้างใน"></li>
+				<li Name="Súp Rồng" Desc="Tưởng tượng cá chép vượt vũ môn. Món súp này chủ yếu dựa vào thứ tự nấu và cách dùng gia vị phức tạp, tạo nên hương vị ngon hơn hẳn các món cá thông thường." />
+				<li Name="Cá Giấu Cừu" Desc="Nhồi cá vào con cừu lớn đã mổ, nướng với gia vị để tạo hương vị tinh tế. Vị cá hòa quyện với thịt cừu làm món ăn thêm ngon. Thịt cừu mềm mọng, cá mềm ngọt bên trong." />
 			</Fish_SkyFish>
 		</SpecialItem>
 	</List>

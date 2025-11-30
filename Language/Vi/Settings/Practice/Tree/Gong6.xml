@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong6_a0">
 			<DisplayName>หัวใจพฤกษา</DisplayName>
 		</Text>
 		<Text Name="Gong6_a2">
-			<DisplayName>กลั่นหยก</DisplayName>
+			<DisplayName>Luyện Ngọc</DisplayName>
 		</Text>
 		<Text Name="Gong6_a3">
 			<DisplayName>ตำรับโอสถ</DisplayName>
@@ -13,7 +14,7 @@
 			<DisplayName>เนตรผลึก</DisplayName>
 		</Text>
 		<Text Name="Gong6_a8">
-			<DisplayName>กายาคงกระพัน</DisplayName>
+			<DisplayName>Bất Hoại Thể</DisplayName>
 		</Text>
 		<Text Name="Gong6_b0">
 			<DisplayName>ลมหายใจวิญญาณ</DisplayName>
@@ -31,7 +32,7 @@
 			<DisplayName>ปราณย้อนกลับ</DisplayName>
 		</Text>
 		<Text Name="Gong6_b8_1">
-			<DisplayName>หลอมร่างสร้างกายา</DisplayName>
+			<DisplayName>หลอมร่างสร้างThể chất</DisplayName>
 		</Text>
 		<Text Name="Gong6_b11">
 			<DisplayName>ปราณรักษา</DisplayName>
@@ -58,7 +59,7 @@
 			<DisplayName>สร้างร่างใหม่</DisplayName>
 		</Text>
 		<Text Name="Gong6_c11_1">
-			<DisplayName>กายาปฐมกาล</DisplayName>
+			<DisplayName>Hỗn Độn Thể</DisplayName>
 		</Text>
 		<Text Name="Gong6_d2">
 			<DisplayName>ศีลธรรมไร้มลทิน</DisplayName>
@@ -73,28 +74,28 @@
 			<DisplayName>หลอมกลั่นพริบตา</DisplayName>
 		</Text>
 		<Text Name="Gong6_d4_1">
-			<DisplayName>หลอมกายา</DisplayName>
+			<DisplayName>หลอมThể chất</DisplayName>
 		</Text>
 		<Text Name="Gong6_d5">
 			<DisplayName>วิถีเซียนโอสถ</DisplayName>
 		</Text>
 		<Text Name="Gong6_d5_1">
-			<DisplayName>หลอมกายา</DisplayName>
+			<DisplayName>หลอมThể chất</DisplayName>
 		</Text>
 		<Text Name="Gong6_d6">
 			<DisplayName>วิถีเทพโอสถ</DisplayName>
 		</Text>
 		<Text Name="Gong6_d6_1">
-			<DisplayName>หลอมกายา</DisplayName>
+			<DisplayName>หลอมThể chất</DisplayName>
 		</Text>
 		<Text Name="Gong6_d7">
-			<DisplayName>ชะล้างไขกระดูก</DisplayName>
+			<DisplayName>ชะล้างไขXương</DisplayName>
 		</Text>
 		<Text Name="Gong6_d8">
 			<DisplayName>วิญญาณผู้รู้แจ้ง</DisplayName>
 		</Text>
 		<Text Name="Gong6_d9">
-			<DisplayName>กายามหาเสน่ห์</DisplayName>
+			<DisplayName>Thiên Mị Thể</DisplayName>
 		</Text>
 		<Text Name="Gong6_d10">
 			<DisplayName>เบิกเนตรจิตรับรู้</DisplayName>
