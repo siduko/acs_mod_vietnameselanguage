@@ -1,136 +1,136 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="AgentConstructionHeYin">
-			<Title>แต่งตั้งผู้แทนสำนัก - เมืองสายน้ำหวน</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - เมืองสายน้ำหวน</Desc>
+			<Title>Bổ nhiệm người đại diện - Hà Âm Thành</Title>
+			<Desc>Bổ nhiệm người đại diện - Hà Âm Thành</Desc>
 		</Text>
 		<Text Name="AgentManagementHeYin">
-			<Title>บริหารจัดการผู้แทนสำนัก - เมืองสายน้ำหวน</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - เมืองสายน้ำหวน</Desc>
+			<Title>Quản lý người đại diện - Hà Âm Thành</Title>
+			<Desc>Quản lý người đại diện - Hà Âm Thành</Desc>
 		</Text>
 		<Text Name="BeliefManagementHeYin">
-			<Title>บริหารจัดการความศรัทธา - เมืองสายน้ำหวน</Title>
-			<Desc>บริหารจัดการความศรัทธา - เมืองสายน้ำหวน</Desc>
+			<Title>Quản lý tín ngưỡng - Hà Âm Thành</Title>
+			<Desc>Quản lý tín ngưỡng - Hà Âm Thành</Desc>
 		</Text>
 		<Text Name="AgentConstructionGuanHai">
-			<Title>แต่งตั้งผู้แทนสำนัก - เมืองทิวทัศน์สมุทร</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - เมืองทิวทัศน์สมุทร</Desc>
+			<Title>Bổ nhiệm người đại diện - Quan Hải Thành</Title>
+			<Desc>Bổ nhiệm người đại diện - Quan Hải Thành</Desc>
 		</Text>
 		<Text Name="AgentManagementGuanHai">
-			<Title>บริหารจัดการผู้แทนสำนัก - เมืองทิวทัศน์สมุทร</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - เมืองทิวทัศน์สมุทร</Desc>
+			<Title>Quản lý người đại diện - Quan Hải Thành</Title>
+			<Desc>Quản lý người đại diện - Quan Hải Thành</Desc>
 		</Text>
 		<Text Name="BeliefManagementGuanhai">
-			<Title>บริหารจัดการความศรัทธา - เมืองทิวทัศน์สมุทร</Title>
-			<Desc>บริหารจัดการความศรัทธา - เมืองทิวทัศน์สมุทร</Desc>
+			<Title>Quản lý tín ngưỡng - Quan Hải Thành</Title>
+			<Desc>Quản lý tín ngưỡng - Quan Hải Thành</Desc>
 		</Text>
 		<Text Name="AgentConstructionPanShe">
-			<Title>แต่งตั้งผู้แทนสำนัก - หมู่บ้านหางอสรพิษ</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - หมู่บ้านหางอสรพิษ</Desc>
+			<Title>Bổ nhiệm người đại diện - Bàn Xà Trại</Title>
+			<Desc>Bổ nhiệm người đại diện - Bàn Xà Trại</Desc>
 		</Text>
 		<Text Name="AgentManagementPanShe">
-			<Title>บริหารจัดการผู้แทนสำนัก - หมู่บ้านหางอสรพิษ</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - หมู่บ้านหางอสรพิษ</Desc>
+			<Title>Quản lý người đại diện - Bàn Xà Trại</Title>
+			<Desc>Quản lý người đại diện - Bàn Xà Trại</Desc>
 		</Text>
 		<Text Name="BeliefManagementPanShe">
-			<Title>บริหารจัดการความศรัทธา - หมู่บ้านหางอสรพิษ</Title>
-			<Desc>บริหารจัดการความศรัทธา - หมู่บ้านหางอสรพิษ</Desc>
+			<Title>Quản lý tín ngưỡng - Bàn Xà Trại</Title>
+			<Desc>Quản lý tín ngưỡng - Bàn Xà Trại</Desc>
 		</Text>
 		<Text Name="AgentConstructionFeng">
-			<Title>แต่งตั้งผู้แทนสำนัก - เมืองมหาทรัพย์</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - เมืองมหาทรัพย์</Desc>
+			<Title>Bổ nhiệm người đại diện - Phong Thành</Title>
+			<Desc>Bổ nhiệm người đại diện - Phong Thành</Desc>
 		</Text>
 		<Text Name="AgentManagementFeng">
-			<Title>บริหารจัดการผู้แทนสำนัก - เมืองมหาทรัพย์</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - เมืองมหาทรัพย์</Desc>
+			<Title>Quản lý người đại diện - Phong Thành</Title>
+			<Desc>Quản lý người đại diện - Phong Thành</Desc>
 		</Text>
 		<Text Name="BeliefManagementFeng">
-			<Title>บริหารจัดการความศรัทธา - เมืองมหาทรัพย์</Title>
-			<Desc>บริหารจัดการความศรัทธา - เมืองมหาทรัพย์</Desc>
+			<Title>Quản lý tín ngưỡng - Phong Thành</Title>
+			<Desc>Quản lý tín ngưỡng - Phong Thành</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaLiang">
-			<Title>แต่งตั้งผู้แทนสำนัก - เมืองต้าเหลียง</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - เมืองต้าเหลียง</Desc>
+			<Title>Bổ nhiệm người đại diện - Đại Lương Thành</Title>
+			<Desc>Bổ nhiệm người đại diện - Đại Lương Thành</Desc>
 		</Text>
 		<Text Name="AgentManagementDaLiang">
-			<Title>บริหารจัดการผู้แทนสำนัก - เมืองต้าเหลียง</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - เมืองต้าเหลียง</Desc>
+			<Title>Quản lý người đại diện - Đại Lương Thành</Title>
+			<Desc>Quản lý người đại diện - Đại Lương Thành</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaLiang">
-			<Title>บริหารจัดการความศรัทธา - เมืองต้าเหลียง</Title>
-			<Desc>บริหารจัดการความศรัทธา - เมืองต้าเหลียง</Desc>
+			<Title>Quản lý tín ngưỡng - Đại Lương Thành</Title>
+			<Desc>Quản lý tín ngưỡng - Đại Lương Thành</Desc>
 		</Text>
 		<Text Name="AgentConstructionZhongYuan">
-			<Title>แต่งตั้งผู้แทนสำนัก - ที่ราบตอนกลาง</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - ที่ราบตอนกลาง</Desc>
+			<Title>Bổ nhiệm người đại diện - Trung Nguyên</Title>
+			<Desc>Bổ nhiệm người đại diện - Trung Nguyên</Desc>
 		</Text>
 		<Text Name="AgentManagementZhongYuan">
-			<Title>บริหารจัดการผู้แทนสำนัก - ที่ราบตอนกลาง</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - ที่ราบตอนกลาง</Desc>
+			<Title>Quản lý người đại diện - Trung Nguyên</Title>
+			<Desc>Quản lý người đại diện - Trung Nguyên</Desc>
 		</Text>
 		<Text Name="BeliefManagementZhongYuan">
-			<Title>บริหารจัดการความศรัทธา - ที่ราบตอนกลาง</Title>
-			<Desc>บริหารจัดการความศรัทธา - ที่ราบตอนกลาง</Desc>
+			<Title>Quản lý tín ngưỡng - Trung Nguyên</Title>
+			<Desc>Quản lý tín ngưỡng - Trung Nguyên</Desc>
 		</Text>
 		<Text Name="AgentConstructionJiangAnWoYe">
-			<Title>แต่งตั้งผู้แทนสำนัก - ทุ่งราบสายน้ำหวน</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - ทุ่งราบสายน้ำหวน</Desc>
+			<Title>Bổ nhiệm người đại diện - Giang Ngạn Ốc Dã</Title>
+			<Desc>Bổ nhiệm người đại diện - Giang Ngạn Ốc Dã</Desc>
 		</Text>
 		<Text Name="AgentManagementJiangAnWoYe">
-			<Title>บริหารจัดการผู้แทนสำนัก - ทุ่งราบสายน้ำหวน</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - ทุ่งราบสายน้ำหวน</Desc>
+			<Title>Quản lý người đại diện - Giang Ngạn Ốc Dã</Title>
+			<Desc>Quản lý người đại diện - Giang Ngạn Ốc Dã</Desc>
 		</Text>
 		<Text Name="BeliefManagementJiangAnWoYe">
-			<Title>บริหารจัดการความศรัทธา - ทุ่งราบสายน้ำหวน</Title>
-			<Desc>บริหารจัดการความศรัทธา - ทุ่งราบสายน้ำหวน</Desc>
+			<Title>Quản lý tín ngưỡng - Giang Ngạn Ốc Dã</Title>
+			<Desc>Quản lý tín ngưỡng - Giang Ngạn Ốc Dã</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaXueYuan">
-			<Title>แต่งตั้งผู้แทนสำนัก - แดนหิมะนิรันดร์</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - แดนหิมะนิรันดร์</Desc>
+			<Title>Bổ nhiệm người đại diện - Đại Tuyết Nguyên</Title>
+			<Desc>Bổ nhiệm người đại diện - Đại Tuyết Nguyên</Desc>
 		</Text>
 		<Text Name="AgentManagementDaXueYuan">
-			<Title>บริหารจัดการผู้แทนสำนัก - แดนหิมะนิรันดร์</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - แดนหิมะนิรันดร์</Desc>
+			<Title>Quản lý người đại diện - Đại Tuyết Nguyên</Title>
+			<Desc>Quản lý người đại diện - Đại Tuyết Nguyên</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaXueYuan">
-			<Title>บริหารจัดการความศรัทธา - แดนหิมะนิรันดร์</Title>
-			<Desc>บริหารจัดการความศรัทธา - แดนหิมะนิรันดร์</Desc>
+			<Title>Quản lý tín ngưỡng - Đại Tuyết Nguyên</Title>
+			<Desc>Quản lý tín ngưỡng - Đại Tuyết Nguyên</Desc>
 		</Text>
 		<Text Name="AgentConstructionDaMo">
-			<Title>แต่งตั้งผู้แทนสำนัก - ทะเลทรายไร้ขอบเขต</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - ทะเลทรายไร้ขอบเขต</Desc>
+			<Title>Bổ nhiệm người đại diện - Đại Mạc</Title>
+			<Desc>Bổ nhiệm người đại diện - Đại Mạc</Desc>
 		</Text>
 		<Text Name="AgentManagementDaMo">
-			<Title>บริหารจัดการผู้แทนสำนัก - ทะเลทรายไร้ขอบเขต</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - ทะเลทรายไร้ขอบเขต</Desc>
+			<Title>Quản lý người đại diện - Đại Mạc</Title>
+			<Desc>Quản lý người đại diện - Đại Mạc</Desc>
 		</Text>
 		<Text Name="BeliefManagementDaMo">
-			<Title>บริหารจัดการความศรัทธา - ทะเลทรายไร้ขอบเขต</Title>
-			<Desc>บริหารจัดการความศรัทธา - ทะเลทรายไร้ขอบเขต</Desc>
+			<Title>Quản lý tín ngưỡng - Đại Mạc</Title>
+			<Desc>Quản lý tín ngưỡng - Đại Mạc</Desc>
 		</Text>
 		<Text Name="AgentConstructionNanHuang">
-			<Title>แต่งตั้งผู้แทนสำนัก - ป่าแดนใต้</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - ป่าแดนใต้</Desc>
+			<Title>Bổ nhiệm người đại diện - Nam Hoang</Title>
+			<Desc>Bổ nhiệm người đại diện - Nam Hoang</Desc>
 		</Text>
 		<Text Name="AgentManagementNanHuang">
-			<Title>บริหารจัดการผู้แทนสำนัก - ป่าแดนใต้</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - ป่าแดนใต้</Desc>
+			<Title>Quản lý người đại diện - Nam Hoang</Title>
+			<Desc>Quản lý người đại diện - Nam Hoang</Desc>
 		</Text>
 		<Text Name="BeliefManagementNanHuang">
-			<Title>บริหารจัดการความศรัทธา - ป่าแดนใต้</Title>
-			<Desc>บริหารจัดการความศรัทธา - ป่าแดนใต้</Desc>
+			<Title>Quản lý tín ngưỡng - Nam Hoang</Title>
+			<Desc>Quản lý tín ngưỡng - Nam Hoang</Desc>
 		</Text>
 		<Text Name="AgentConstructionOurPlace">
-			<Title>แต่งตั้งผู้แทนสำนัก - ภูเขาแดนใต้</Title>
-			<Desc>แต่งตั้งผู้แทนสำนัก - ภูเขาแดนใต้</Desc>
+			<Title>Bổ nhiệm người đại diện - Nam Lĩnh</Title>
+			<Desc>Bổ nhiệm người đại diện - Nam Lĩnh</Desc>
 		</Text>
 		<Text Name="AgentManagementOurPlace">
-			<Title>บริหารจัดการผู้แทนสำนัก - ภูเขาแดนใต้</Title>
-			<Desc>บริหารจัดการผู้แทนสำนัก - ภูเขาแดนใต้</Desc>
+			<Title>Quản lý người đại diện - Nam Lĩnh</Title>
+			<Desc>Quản lý người đại diện - Nam Lĩnh</Desc>
 		</Text>
 		<Text Name="BeliefManagementOurPlace">
-			<Title>บริหารจัดการความศรัทธา - ภูเขาแดนใต้</Title>
-			<Desc>บริหารจัดการความศรัทธา - ภูเขาแดนใต้</Desc>
+			<Title>Quản lý tín ngưỡng - Nam Lĩnh</Title>
+			<Desc>Quản lý tín ngưỡng - Nam Lĩnh</Desc>
 		</Text>
 	</List>
 </Texts>

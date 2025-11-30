@@ -1,169 +1,291 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="DanFang_1">
-			<DisplayName>หัวใจแห่งการหลอมโอสถ</DisplayName>
-			<Desc>คู่มือในการหลอมโอสถขั้นพื้นฐาน</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถบ่มปราณ\nโอสถจิตนึกคิด\nโอสถเร่งปราณ\nโอสถปราณไหลเวียน\nโอสถเยียวยาธาตุ\nผงขจัดแผลเป็น\nผงแกนพฤกษา\nผงศักดิ์สิทธิ์</EffectDesc>
+			<DisplayName>Luyện Đan Tâm Đắc</DisplayName>
+			<Desc>Hướng dẫn cơ bản về luyện đan.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Luyện Khí Đan
+Ích Khí Đan
+Tụ Khí Đan
+Thông Mạch Tán
+Liệu Thương Đan
+Tục Cốt Tán
+Bồi Nguyên Tán
+Hóa Ù Tán</EffectDesc>
 		</Text>
 		<Text Name="DanFang_2">
-			<DisplayName>สูตรโอสถพื้นฐาน</DisplayName>
-			<Desc>ตำราสูตรโอสถทั่วไป โดยมีสูตรโอสถที่หลอมได้ง่ายแต่มีประสิทธิภาพสูงอยู่ภายในเล่มที่</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถเริงใจ\nโอสถอิ่มทิพย์\nโอสถดูดซับปราณ\nโอสถใจพิสุทธิ์\nโอสถลดความอ้วน\nโอสถเพิ่มกล้าม</EffectDesc>
+			<DisplayName>Cơ Sở Đan Phương</DisplayName>
+			<Desc>Sách công thức đan dược phổ thông, chứa các công thức dễ luyện nhưng hiệu quả cao.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Khinh Thân Đan
+Tích Cốc Đan
+Hấp Tinh Đan
+Thanh Tâm Đan
+Giảm Béo Đan
+Tăng Cơ Đan</EffectDesc>
 		</Text>
 		<Text Name="DanFang_3">
-			<DisplayName>ตำรับยาห้าจักรพรรดิ</DisplayName>
-			<Desc>สูตรโอสถสารพันที่ถูกค้นพบโดยเซียนโบราณยามเมื่อเขาได้ศึกษาตำรับยาของจักรพรรดิทั้งห้า</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถพฤกษา\nโอสถพสุธา\nผงอัคคี\nโอสถทองคำ\nโอสถวารี\nโอสถชีพนิรันดร์\nผงลวงสวรรค์</EffectDesc>
+			<DisplayName>Ngũ Đế Dược Điển</DisplayName>
+			<Desc>Các công thức đan dược được tìm thấy bởi các cổ tiên khi nghiên cứu dược điển của Ngũ Đế.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Mộc Khô Đan
+Thổ Tinh Đan
+Hỏa Tinh Đan
+Kim Tinh Đan
+Thủy Tinh Đan
+Trường Sinh Đan
+Diễn Thiên Tán</EffectDesc>
 		</Text>
 		<Text Name="DanFang_4">
-			<DisplayName>โอสถแห่งยอดเต๋า (เศษชิ้นส่วน)</DisplayName>
-			<Desc>สูตรการหลอมโอสถที่สืบทอดมาจากบรรพกาล มันมีบันทึกวิธีการหลอมยาเม็ดล้ำค่าหลายชนิด</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถตะวัน\nโอสถจิตนึกคิด\nโอสถเร่งปราณ\nผงแกนพฤกษา</EffectDesc>
+			<DisplayName>Đại Đạo Đan (Tàn Quyển)</DisplayName>
+			<Desc>Công thức luyện đan truyền thừa từ thượng cổ, ghi lại phương pháp luyện chế nhiều loại đan dược quý giá.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Thái Dương Đan
+Ích Khí Đan
+Tụ Khí Đan
+Bồi Nguyên Tán</EffectDesc>
 		</Text>
 		<Text Name="DanFang_5">
-			<DisplayName>สูตรโอสถแห่งผู้สร้าง</DisplayName>
-			<Desc>ผลงานชิ้นสุดท้ายของหมอเทวะ ว่ากันว่าพระหัตถ์ของทวยเทพได้ทำการสังหารเขาไปในทันทีหลังจากที่เขาสร้างโอสถเหล่านี้สำเร็จ</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถเทวะขจัดโรคา\nโอสถฟื้นฟูชีพ</EffectDesc>
+			<DisplayName>Tạo Hóa Đan Phương</DisplayName>
+			<Desc>Tác phẩm cuối cùng của Thần Y. Tương truyền ngài đã bị thiên phạt ngay sau khi hoàn thành các công thức này.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Vạn Linh Tán
+Tái Tạo Đan</EffectDesc>
 		</Text>
 		<Text Name="DanFang_6">
-			<DisplayName>คำอธิบายประกอบจากตำราแห่งชีวิต</DisplayName>
-			<Desc>ตำราโอสถลับ 5 ชนิด ยืดอายุและต่ออายุ</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถชีวิต\nโอสถพลังชีพ\nโอสถชีพนิรันดร์\nโอสถฟื้นฟูชีพ\nโอสถอนาคตกาล</EffectDesc>
+			<DisplayName>Chú Giải Sinh Mệnh Thiên Thư</DisplayName>
+			<Desc>5 loại bí phương đan dược giúp kéo dài tuổi thọ và hồi phục sinh mệnh.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Diên Thọ Đan
+Hồi Xuân Đan
+Trường Sinh Đan
+Tái Tạo Đan
+Vị Lai Đan</EffectDesc>
 		</Text>
 		<Text Name="DanFang_7">
-			<DisplayName>ความโศกเศร้าจากทัณฑ์ฟ้า</DisplayName>
-			<Desc>สูตรยาที่กระจัดกระจายอยู่ในถ้ำอมตะแห่งภูเขาจันทร์เพ็ญที่ถูกทิ้งไว้โดยเซียนนิราม ภายในตำราเขียนไว้ว่าเขา\nนั้นได้ทำงานอย่างหนักเพื่อสร้างสูตรโอสถแต่ก็ล้มเหลว นี่คือสิ่งเดียวที่เขาสามารถทำได้เพื่อหลบเลี่ยงทัณฑ์จาก\nสวรรค์ แต่ถึงอย่างนั้นในท้ายที่สุดวิญญาณของเขาก็แตก\nสลายและเขาก็จากโลกนี้ไป</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถชีวิต\nโอสถผสานชีพ\nโอสถโล่ปราณ</EffectDesc>
+			<DisplayName>Thiên Kiếp Chi Bi</DisplayName>
+			<Desc>Công thức thuốc nằm rải rác trong động phủ của Vô Danh Tiên Nhân ở Nguyệt Luân Sơn. Sách ghi rằng ông đã cố gắng hết sức để tạo ra đan dược nhưng thất bại. Đây là nỗ lực cuối cùng để tránh né thiên kiếp, nhưng cuối cùng hồn phi phách tán.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Diên Thọ Đan
+Tục Mệnh Đan
+Hộ Mạch Đan</EffectDesc>
 		</Text>
 		<Text Name="DanFang_8">
-			<DisplayName>ตำราแห่งความรู้สวรรค์</DisplayName>
-			<Desc>ตำราที่น่าสนใจซึ่งครั้งหนึ่งเคยถูกมองว่าหายไปในกาลเวลา มันมีสูตรโอสถที่น่าทึ่งอยู่หลายชนิดที่อนุญาตให้ผู้หลอมสามารถใช้ประโยชน์จากความลึกลับของสวรรค์แม้ว่าจะต้องแลกด้วยชีวิตก็ตาม</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้ \nโอสถรับรู้\nโอสถกายา\nโอสถเสน่ห์\nโอสถปัญญา\nโอสถฟ้าอวยพร\nโอสถห้าเทวะ</EffectDesc>
+			<DisplayName>Thiên Cơ Đan Điển</DisplayName>
+			<Desc>Một cuốn sách thú vị từng bị coi là thất lạc. Nó chứa các công thức đan dược cho phép người luyện lợi dụng bí mật của thiên đạo, dù phải trả giá bằng sinh mệnh.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Động Sát Đan
+Cường Thể Đan
+Mị Hoặc Đan
+Khải Trí Đan
+Thiên Chúc Đan
+Ngũ Cực Đan</EffectDesc>
 		</Text>
 		<Text Name="DanFang_9">
-			<DisplayName>พิธีกรรมลับแห่งภูติร้าย</DisplayName>
-			<Desc>บันทึกลับที่อธิบายรายละเอียดวิธีการกลั่นมณีวิญญาณ เช่น มณีดวงจิต, มณีจิตอาฆาต หรือ มณีจิตไร้โศก มาหลอมกลั่นเป็นโอสถ</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้: \nโอสถจิตปวดร้าว\nโอสถฉีกวิญญาณ\nโอสถใจสงบ\nโอสถแผดเผา</EffectDesc>
+			<DisplayName>Tà Môn Bí Lục</DisplayName>
+			<Desc>Bí lục ghi lại chi tiết cách luyện hóa Linh Tinh, như Linh Tinh Oán Niệm, Linh Tinh Vô Ưu, v.v. thành đan dược.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Khổ Tâm Đan
+Liệt Hồn Đan
+Ninh Tâm Đan
+Phần Tâm Đan</EffectDesc>
 		</Text>
 		<Text Name="YouJi_1_2">
-			<DisplayName>บันทึกแห่งดินแดนเทวะ: ที่ราบตอนกลาง</DisplayName>
-			<Desc>ภาพทางภูมิศาสตร์ที่แพร่หลายในโลกมนุษย์ หนังสือเล่มนี้บันทึกข้อมูลของที่ราบตอนกลาง</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nที่ราบตอนกลาง - ทุ่งบุปผาโรย\nที่ราบตอนกลาง - หมู่บ้านต้นอ้อ\nที่ราบตอนกลาง - ภูเขาผิงติง\nที่ราบตอนกลาง -  ยอดเขาโอสถ\nที่ราบตอนกลาง - ภูเขาแตะฟ้า</EffectDesc>
+			<DisplayName>Thần Châu Lục: Trung Nguyên</DisplayName>
+			<Desc>Bản đồ địa lý phổ biến trong nhân gian, ghi lại thông tin về vùng Trung Nguyên.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Trung Nguyên - Ngũ Liên Sơn
+Trung Nguyên - Lô Vĩ Thôn
+Trung Nguyên - Bình Đỉnh Sơn
+Trung Nguyên - Luyện Đan Phong
+Trung Nguyên - Thông Thiên Phong</EffectDesc>
 		</Text>
 		<Text Name="YouJi_1_3">
-			<DisplayName>บันทึกแห่งดินแดนเทวะ: บันทึกสายน้ำหวน</DisplayName>
-			<Desc>ภาพทางภูมิศาสตร์ที่แพร่หลายในโลกมนุษย์ หนังสือเล่มนี้บันทึกข้อมูลของที่ราบสายน้ำหวน</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nทุ่งราบสายน้ำหวน - ภูเขาลู่\nทุ่งราบสายน้ำหวน - ภูเขากุ่ย\nทุ่งราบสายน้ำหวน - เมืองฮานซาน\nทุ่งราบสายน้ำหวน - หมู่บ้านต้าเซียง\nทุ่งราบสายน้ำหวน - เมืองหยุดตะวัน</EffectDesc>
+			<DisplayName>Thần Châu Lục: Giang Ngạn Chí</DisplayName>
+			<Desc>Bản đồ địa lý phổ biến trong nhân gian, ghi lại thông tin về vùng Giang Ngạn.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Giang Ngạn Ốc Dã - Lư Sơn
+Giang Ngạn Ốc Dã - Quế Sơn
+Giang Ngạn Ốc Dã - Hàn Sơn Trấn
+Giang Ngạn Ốc Dã - Đại Tương Thôn
+Giang Ngạn Ốc Dã - Lạc Nhật Thành</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_1">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 1</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มแรกของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วใจกลางของแผ่นดินใหญ่</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nที่ราบตอนกลาง - ภูเขาแตะฟ้า\nที่ราบตอนกลาง - ภูเขาผิงติง\nที่ราบตอนกลาง - ยอดเขาโอสถ\nภูเขาพยัคฆ์มังกร - น้ำตกผ่านฟ้า\nภูเขาพยัคฆ์มังกร - ป่าสายหมอก\nภูเขาบัวห้าสี - ทะเลสาบสวรรค์</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 1</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký đầu tiên, ghi lại hành trình của ông ở vùng Trung Nguyên.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Trung Nguyên - Thông Thiên Phong
+Trung Nguyên - Bình Đỉnh Sơn
+Trung Nguyên - Luyện Đan Phong
+Long Hổ Sơn - Phi Lưu Bộc
+Long Hổ Sơn - Vụ Lâm
+Ngũ Liên Sơn - Thiên Trì</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_2">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 2</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่สองของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วที่ราบตอนกลาง</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nทะเลทรายไร้ขอบเขต - ทะเลทรายกระจก\nยอดเขาเทียบฟ้า - หุบเขาเมฆา\nยอดเขาเทียบฟ้า - ด่านผ่านนภา\nภูเขาศิลาทมิฬ - ป่าพันหนาม</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 2</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ hai, ghi lại hành trình của ông ở Trung Nguyên.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Đại Mạc - Kính Hồ
+Thiên Khuyết Phong - Vân Hạp
+Thiên Khuyết Phong - Độ Thiên Quan
+Hắc Sơn - Thiên Cức Lâm</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_3">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 3</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่สามของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วดินแดนทิศตะวันตก</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาคุนหลุน - ถ้ำชีพจรมังกร\nภูเขาคุนหลุน - ลานชุมนุมเซียน\nภูเขาหลุมอเวจี - หลุมไร้ก้น\nภูเขาร้อยแมลง - หลุมหมื่นอสรพิษ\nภูเขาร้อยแมลง - ถ้ำมรณะ</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 3</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ ba, ghi lại hành trình của ông ở vùng đất phía Tây.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Côn Luân - Long Mạch Động
+Côn Luân - Đăng Tiên Đài
+Hãm Không Sơn - Vô Để Động
+Bách Man Sơn - Vạn Xà Hàng
+Bách Man Sơn - Thiên Tàm Động</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_4">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 4</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่สี่ของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วภูเขาซู</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาซู - ผาศิลาหยก\nภูเขาซู - ถ้ำอัสนีกึกก้อง\nภูเขาซู - ถ้ำหยกใบไม้ผลิ\nภูเขาซู - สุสานกระบี่\nภูเขาซู - ถ้ำแสงระยิบ</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 4</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ tư, ghi lại hành trình của ông ở Thục Sơn.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Thục Sơn - Ngưng Bích Nhai
+Thục Sơn - Hưởng Lôi Động
+Thục Sơn - Ngọc Tuyền Động
+Thục Sơn - Kiếm Chủng
+Thục Sơn - Kim Quang Động</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_5">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 5</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่ห้าของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วภูเขาเก้าบุปผา</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาเก้าบุปผา - หมู่บ้านเก้าบุปผา\nภูเขาเก้าบุปผา - สระมังกรแฝง\nภูเขาเก้าบุปผา - ผาหงส์เพลิง</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 5</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ năm của ông. Trong cuốn sách này, ông ghi lại hành trình của mình khi đi khắp núi Cửu Hoa.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Cửu Hoa Sơn - Cửu Hoa Thôn
+Cửu Hoa Sơn - Tiềm Long Uyên
+Cửu Hoa Sơn - Phượng Tê Nhai</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_6">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 6</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่หกของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วป่าแดนใต้</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nป่าแดนใต้ - หุบเขาแห่งหนอน\nป่าแดนใต้ - ป่าดอกท้อไร้โรย</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 6</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ sáu của ông. Trong cuốn sách này, ông ghi lại hành trình của mình khi đi khắp rừng Nam Hoang.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Nam Hoang - Trùng Cốc
+Nam Hoang - Rừng Đào Không Tàn</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_7">
-			<DisplayName>บันทึกการเดินทางของอวี๋เฟิงจื่อ: เล่มที่ 7</DisplayName>
-			<Desc>เซียนอวี๋เฟิงจื่อผู้ขับกล่อมสายลม ได้ท่องไปทั่วดินแดนและศึกษาภูมิศาสตร์ของภูเขาและแม่น้ำมากมายหลากหลายที่ บันทึกเล่มนี้เป็นบันทึกการเดินทางเล่มที่เจ็ดของเขา ในหนังสือเล่มนี้เขาได้บันทึกการเดินทางของเขาขณะท่องไปทั่วเกาะสราญรมย์</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nเกาะสราญรมย์ - ทะเลมายาต้องสาป\nเกาะสราญรมย์ - ทะเลสาปมังกรพิษ</EffectDesc>
+			<DisplayName>Ngự Phong Tử Du Ký: Quyển 7</DisplayName>
+			<Desc>Ngự Phong Tử đã đi khắp thiên hạ, nghiên cứu địa lý sơn hà. Đây là cuốn du ký thứ bảy của ông. Trong cuốn sách này, ông ghi lại hành trình của mình khi đi khắp đảo Hợp Hoan.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Hợp Hoan Đảo - Ly Hận Hải
+Hợp Hoan Đảo - Độc Long Đàm</EffectDesc>
 		</Text>
 		<Text Name="YouJi_3">
-			<DisplayName>บันทึกแห่งภูเขาและท้องทะเล</DisplayName>
-			<Desc>หนังสืออันมีมีชื่อเสียงซึ่งภายในเล่มกล่าวถึงตำนานเรื่องราวมากมายเกี่ยวกับเซียนอมตะ เป็นที่นิยมมากในโลกมนุษย์</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาคุนหลุน - แท่นบูชาเซียน\nภูเขาบัวห้าสี - ป่าฝนไม้ขาว</EffectDesc>
+			<DisplayName>Sơn Hải Kinh</DisplayName>
+			<Desc>Cuốn sách nổi tiếng ghi lại nhiều truyền thuyết về tiên nhân, rất phổ biến trong nhân gian.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Côn Luân - Đăng Tiên Đài
+Ngũ Liên Sơn - Mộc Bạch Vũ Lâm</EffectDesc>
 		</Text>
 		<Text Name="YouJi_4_1">
-			<DisplayName>บันทึกภาคผนวก: เล่มที่ 1</DisplayName>
-			<Desc>กล่าวกันว่าหนังสือเล่มนี้ถูกเขียนขึ้นโดอาวุโสเซียนในโลกแห่งการบ่มเพาะ มันบันทึกสถานที่ลับหลายแห่งที่รู้จักกันเพียงไม่กี่คนเท่านั้น</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาม่านฟ้า - ผาม่านฟ้า\nภูเขาม่านฟ้า - ทะเลสาบห้ามังกร\nภูเขาบัวห้าสี - ทำเลสาบสวรรค์</EffectDesc>
+			<DisplayName>Thập Di Lục: Quyển 1</DisplayName>
+			<Desc>Tương truyền do một vị cao nhân tiền bối viết, ghi lại nhiều bí cảnh ít người biết.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Thiên Mạc Sơn - Thiên Mạc Nhai
+Thiên Mạc Sơn - Ngũ Long Trì
+Ngũ Liên Sơn - Thiên Trì</EffectDesc>
 		</Text>
 		<Text Name="YouJi_4_2">
-			<DisplayName>บันทึกภาคผนวก: เล่มที่ 2</DisplayName>
-			<Desc>กล่าวกันว่าหนังสือเล่มนี้ถูกเขียนขึ้นโดอาวุโสเซียนในโลกแห่งการบ่มเพาะ มันบันทึกสถานที่ลับหลายแห่งที่รู้จักกันเพียงไม่กี่คนเท่านั้น</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาซู - ถ้ำอัสนีกึกก้อง\nภูเขาซู - ถ้ำแสงระยับ\nภูเขาซู - ถ้ำหยกใบไม้ผลิ</EffectDesc>
+			<DisplayName>Thập Di Lục: Quyển 2</DisplayName>
+			<Desc>Tương truyền do một vị cao nhân tiền bối viết, ghi lại nhiều bí cảnh ít người biết.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Thục Sơn - Hưởng Lôi Động
+Thục Sơn - Kim Quang Động
+Thục Sơn - Ngọc Tuyền Động</EffectDesc>
 		</Text>
 		<Text Name="YouJi_4_3">
-			<DisplayName>บันทึกภาคผนวก: เล่มที่ 3</DisplayName>
-			<Desc>กล่าวกันว่าหนังสือเล่มนี้ถูกเขียนขึ้นโดอาวุโสเซียนในโลกแห่งการบ่มเพาะ มันบันทึกสถานที่ลับหลายแห่งที่รู้จักกันเพียงไม่กี่คนเท่านั้น</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nภูเขาเก้าบุปผา - ผาหงส์เพลิง\nภูเขาเก้าบุปผา - สระมังกรแฝง\nเกาะสราญรมย์ - บึงมังกรพิษ</EffectDesc>
+			<DisplayName>Thập Di Lục: Quyển 3</DisplayName>
+			<Desc>Tương truyền do một vị cao nhân tiền bối viết, ghi lại nhiều bí cảnh ít người biết.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Cửu Hoa Sơn - Phượng Tê Nhai
+Cửu Hoa Sơn - Tiềm Long Uyên
+Hợp Hoan Đảo - Độc Long Đàm</EffectDesc>
 		</Text>
 		<Text Name="YouJi_5">
-			<DisplayName>บันทึกเซียนพเนจร</DisplayName>
-			<Desc>ภาพวาดลึกลับที่เผยแพร่ในสมัยโบราณ มันมีรายละเอียดความลับที่แม้แต่ผู้เป็นอมตะยังมองว่าเป็นตำนาน ทว่ากลับไม่มีผู็ใดที่พิสูจน์ถึงความจริงในภาพวาดนี้ได้</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nดินแดนปริศนา - แท่นบูชามังกร\nดินแดนปริศนา - รอยแยกต่างมิติ\nดินแดนปริศนา - ซากวิหาร</EffectDesc>
+			<DisplayName>Tiên Nhân Di Thoái Đồ</DisplayName>
+			<Desc>Bức họa bí ẩn lưu truyền từ thượng cổ, ghi lại những bí mật mà ngay cả tiên nhân cũng coi là truyền thuyết. Không ai chứng minh được sự thật của nó.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Bí Cảnh - Long Đài
+Bí Cảnh - Vết Nứt Không Gian
+Bí Cảnh - Phế Tích Đền Thờ</EffectDesc>
 		</Text>
-				<Text Name="YouJi_6_1">
-			<DisplayName>บันทึกลับหยุนจี: ชายแดน</DisplayName>
-			<Desc>เขียนโดยปรมาจารย์เซียนผู้รวบรวมเรื่องราวอันน่าพิศวงจากแหล่งโบราณต่างๆ ก่อนที่จะเขียนเรียบเรียงเป็นหนังสือ บันทึกเล่มนี้ได้เขียนเรื่องราวเกี่ยวกับจักรพรรดิ์อสูรและตำนานเกี่ยวกับสายธารแห่งต้นกำเนิด</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nป่าแดนใต้ - สุสานจักรพรรดิ์อสูร\nดินแดนปริศนา - สายธารแห่งต้นกำเนิด</EffectDesc>
+		<Text Name="YouJi_6_1">
+			<DisplayName>Vân Cấp Thất Thiêm: Nam Cương</DisplayName>
+			<Desc>Viết bởi một bậc thầy tiên nhân, tập hợp những câu chuyện kỳ bí từ các di tích cổ. Ghi chép về Yêu Đế và truyền thuyết về Cội Nguồn Dòng Sông.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Nam Hoang - Yêu Đế Lăng
+Bí Cảnh - Cội Nguồn Dòng Sông</EffectDesc>
 		</Text>
 		<Text Name="YouJi_6_3">
-			<DisplayName>บันทึกลับหยุนจี: แดนหิมะนิรันดร์</DisplayName>
-			<Desc>เขียนโดยปรมาจารย์เซียนผู้รวบรวมเรื่องราวอันน่าพิศวงจากแหล่งโบราณต่างๆ ก่อนที่จะเขียนเรียบเรียงเป็นหนังสือ บันทึกเล่มนี้ได้เขียนเรื่องราวเกี่ยวกับแดนหิมะนิรันดร์ที่อยู่ทางทิศเหนือ</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nแดนหิมะนิรันดร์ - หุบเขาหิมะ\nแดนหิมะนิรันดร์ - ทุ่งพายุหิมะ</EffectDesc>
+			<DisplayName>Vân Cấp Thất Thiêm: Đại Tuyết Nguyên</DisplayName>
+			<Desc>Viết bởi một bậc thầy tiên nhân, tập hợp những câu chuyện kỳ bí từ các di tích cổ. Ghi chép về Đại Tuyết Nguyên ở phía Bắc.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Đại Tuyết Nguyên - Tuyết Cốc
+Đại Tuyết Nguyên - Bão Tuyết Nguyên</EffectDesc>
 		</Text>
 		<Text Name="YouJi_6_4">
-			<DisplayName>บันทึกลับหยุนจี: ทะเลทรายไร้ขอบเขต</DisplayName>
-			<Desc>เขียนโดยปรมาจารย์เซียนผู้รวบรวมเรื่องราวอันน่าพิศวงจากแหล่งโบราณต่างๆ ก่อนที่จะเขียนเรียบเรียงเป็นหนังสือ บันทึกเล่มนี้ได้เขียนเรื่องราวเกี่ยวกับตำนานที่อยู่ลึกเข้าไปในทะเลทราย</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nมหาทะเลทรายตะวันตก - อารามหมื่นอสูร\nมหาทะเลทรายตะวันตก - ถ้ำอัคคี</EffectDesc>
+			<DisplayName>Vân Cấp Thất Thiêm: Đại Mạc</DisplayName>
+			<Desc>Viết bởi một bậc thầy tiên nhân, tập hợp những câu chuyện kỳ bí từ các di tích cổ. Ghi chép về truyền thuyết sâu trong sa mạc.</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Đại Mạc Tây - Vạn Thú Điện
+Đại Mạc Tây - Hỏa Huyệt</EffectDesc>
 		</Text>
 		<Text Name="YaoGuai_Bible">
-			<DisplayName>ท่วงทำนองของสัตว์ป่า</DisplayName>
-			<Desc>ตำราฝึกฝนลับเพื่อใช้ฝึกอสูรบนภูเขาร้อยแมลง มันบันทึกตำหรับโอสถพิเศษบางอย่างที่ใช้กระตุ้นการตระหนุกรู้ของสัตว์ป่า</Desc>
-			<EffectDesc>ได้รับสูตรโอสถดังต่อไปนี้: \nโอสถจุดปัญญา\nโอสถฤดูใบไม้ผลิ\nโอสถฤดูร้อน\nโอสถฤดูใบไม้ร่วง\nโอสถฤดูหนาว\nโอสถแผ่นดิน\nเรียนรู้คาถา: ปราณแห่งปฐมกาล</EffectDesc>
+			<DisplayName>Vạn Tượng Thông Tâm Quyết</DisplayName>
+			<Desc>Bí kíp huấn luyện yêu thú ở Bách Man Sơn. Ghi lại công thức đan dược đặc biệt để kích thích trí tuệ của dã thú.</Desc>
+			<EffectDesc>Nhận được các công thức đan dược sau: 
+Khải Trí Đan
+Xuân Đan
+Hạ Đan
+Thu Đan
+Đông Đan
+Hậu Thổ Đan
+Học phép: Nguyên Sơ Chi Khí</EffectDesc>
 		</Text>
 		<Text Name="Emotion_Bible">
-			<DisplayName>ท่วงทำนองหมื่นอารมณ์</DisplayName>
-			<Desc>เซียนบางคนได้บันทึกฉากต่างๆ ของอารมณ์ต่างๆ ที่เขาประสบกับวิถีแห่งการบ่มเพาะ มันสามารถช่วยให้สัตว์ป่าควบคุมอารมณ์ในด้านต่างๆ ได้ดียิ่งขึ้น</Desc>
-			<EffectDesc>เรียนรู้คาถา: \nความเข้าใจ: ขุ่นเคือง\nความเข้าใจ: เบิกบาน\nความเข้าใจ: ไตร่ตรอง\nความเข้าใจ: หวาดกลัว\nความเข้าใจ: วิตก</EffectDesc>
+			<DisplayName>Vạn Tình Thông Tâm Quyết</DisplayName>
+			<Desc>Một số tiên nhân đã ghi lại các trạng thái cảm xúc mà họ trải qua trong quá trình tu luyện. Giúp dã thú kiểm soát cảm xúc tốt hơn.</Desc>
+			<EffectDesc>Học phép: 
+Nhận thức: Phẫn Nộ
+Nhận thức: Vui Vẻ
+Nhận thức: Suy Tư
+Nhận thức: Sợ Hãi
+Nhận thức: Lo Âu</EffectDesc>
 		</Text>
 		<Text Name="NanGongYiCe">
-			<DisplayName>คัมภีร์วิถีเซียน: เล่มที่ 1</DisplayName>
-			<Desc>หนังสือที่ครั้งหนึ่งเคยสูญหายไปนานนับพันปี มันได้บันทึกชีวิตของเหล่าเซียนอมตะในตำนานหลายคน หนังสือเล่มนี้มันได้บันทึกตำนานเกี่ยวกับเซียนโบราณสองคนนาม หนานกงหงและหยวนรั่วเสวี่ย \nว่ากันว่าหนานกงหงนั้นเป็นบุตรแห่งโชคชะตาที่ได้รับความรักจากสรวงสวรรค์ บันทึกเหล่านี้ถูกส่งต่อจากรุ่นสู่รุ่นมาเป็นเวลาหลายพันปี ซึ่งส่งอิทธิพลและสร้างแรงบันดาลใจให้กับผู้ฝึกฝนมาอย่างยาวนาน \nส่วนหยวนรั่วเสวี่ยนั้นเป็นเซียนโบราณที่มิได้มีพรสวรรค์มากนัก ทว่าเขากลับสำเร็จในการเปลี่ยนชะตากรรมของตนจนในที่สุดก็กลายเป็นเซียนทะยานขึ้นสู่สวรรค์ เรื่องราวเช่นนี้มักจะเป็นกำลังใจให้แก่ผู้ที่มีพรสวรรค์น้อย</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nดินแดนปริศนา - พระราชวังมรกต(ที่พำนักของหนานกงหง)\nดินแดนปริศนา - ถ้ำอนัตตา</EffectDesc>
+			<DisplayName>Quần Tiên Lục: Quyển 1</DisplayName>
+			<Desc>Cuốn sách thất lạc ngàn năm, ghi lại cuộc đời của các tiên nhân huyền thoại. Kể về Nam Cung Hoàng và Nguyên Nhược Tuyết. 
+Nam Cung Hoàng là con cưng của trời... 
+Nguyên Nhược Tuyết là cổ tiên không có nhiều thiên phú nhưng thay đổi vận mệnh... (Đã lược bớt cho ngắn gọn)</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Bí Cảnh - Ngọc Thanh Cung (Nam Cung Hoàng Cư Sở)
+Bí Cảnh - Vô Ngã Động</EffectDesc>
 		</Text>
 		<Text Name="QunXianLu_2">
-			<DisplayName>คัมภีร์วิถีเซียน: เล่มที่ 2</DisplayName>
-			<Desc>หนังสือที่ครั้งหนึ่งเคยสูญหายไปนานนับพันปี มันได้บันทึกชีวิตของเหล่าเซียนอมตะในตำนานหลายคน หนังสือเล่มนี้มันได้บันทึกตำนานเกี่ยวตำนานของเซียนอมตะฉิงเหลียนเมื่อครั้งที่เขายังเยาว์วัย\nว่ากันว่าเซียนอมตะฉิงเหลียนนั้นเป็นร่างเกิดใหม่ของดาวไท้ป๋ายผู้ที่เกิดมาพร้อมกับร่างทองคำ ก่อนที่จะบรรลุกลายเป็นเซียน เขาได้อาศัยอยู่ในทะเลทางใต้อยู่นานหลายปี หลังจากนั้นเขาได้เดินทางกลับภูเขาซูและท้ายที่สุดก็ได้บรรลุกลายเป็นเซียน ณ ถ้ำอัสนีกึกก้อง นานนับพันปีที่ผ่านไป ที่พำนักแห่งสุดท้ายของฉิงเหลียนก็ยังไม่ถูกค้นพบ</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nดินแดนปริศนา - ภูเขาชิงเหลียน ทะเลทิศใต้</EffectDesc>
+			<DisplayName>Quần Tiên Lục: Quyển 2</DisplayName>
+			<Desc>Cuốn sách thất lạc ngàn năm... Kể về Thanh Liên Tiên Nhân thời trẻ... (Đã lược bớt)</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Bí Cảnh - Thanh Liên Sơn (Nam Hải)</EffectDesc>
 		</Text>
 		<Text Name="QunXianLu_3">
-			<DisplayName>คัมภีร์วิถีเซียน: เล่มที่ 3</DisplayName>
-			<Desc>หนังสือที่ครั้งหนึ่งเคยสูญหายไปนานนับพันปี มันได้บันทึกชีวิตของเหล่าเซียนอมตะในตำนานหลากหลายคน หนังสือเล่มนี้บันทึกเรื่องราวที่น่าสนใจของบรรพชนของวังเหนือนภา ผู้ที่ออกเดินทางไปทั่วโลกหลังจากก่อตั้งวังเหนือนภาขึ้นมา\nว่ากันว่าบรรพชนท่านนี้ได้สร้างวังเหนือนภาขึ้นมา ณ ตอนเหนือสุดขอบชายแดน ทว่าโดยไม่มีใครรู้ หลังจากที่ได้สร้างวังเหนือนภาขึ้นมาเขาได้ได้ออกท่องไปทั่วโลกมนุษย์และได้ปกป้องดูแลศิษย์ของวังเหนือนภาในช่วงนั้น ทว่าภายหลังร่องรอยของเขาก็ได้ขาดหายไปและไม่มีผู้ใดพบเจอเขาอีกเลย</Desc>
-			<EffectDesc>ได้รับความลับ: \nยันต์สวรรค์บรรพกาล</EffectDesc>
+			<DisplayName>Quần Tiên Lục: Quyển 3</DisplayName>
+			<Desc>Cuốn sách thất lạc ngàn năm... Kể về tổ sư Bắc Đẩu Cung... (Đã lược bớt)</Desc>
+			<EffectDesc>Nhận bí mật: 
+Thái Thượng Phù Lục</EffectDesc>
 		</Text>
 		<Text Name="ShangGuYiWen_1">
-			<DisplayName>ความลับโบราณ: เล่มที่ 1</DisplayName>
-			<Desc>หนังสือลับที่บันทึกข่าวลือโบราณ หนังสือเล่มนี้บันทึกความลับของดินแดนต้องห้ามของเผ่ามังกรโบราณ \nมีข่าวลือว่ามังกรในอดีตได้ซ่อนสมบัตินับพันในแท่นบูชามังกรและได้ลงตราผนึกประทับต้องห้ามนับไม่ถ้วนไปยังแท่น อย่างไรก็ตามเมื่อหลายปีผ่านไปด้วยอำนาจของกาลเวลา ตราผนึกประทับต้องห้ามเริ่มที่จะสูญเสียอำนาจของมันไป ทำให้เริ่มีมีผู้คนมากมายที่เสี่ยงเข้าสู่แท่นบูชามังกรเพื่อแสวงหาโอกาส</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nดินแดนปริศนา - แท่นบูชามังกร</EffectDesc>
+			<DisplayName>Thượng Cổ Dị Văn: Quyển 1</DisplayName>
+			<Desc>Sách bí mật ghi lại tin đồn cổ xưa. Ghi về vùng đất cấm của Long Tộc...</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Bí Cảnh - Long Đài</EffectDesc>
 		</Text>
 		<Text Name="ShangGuYiWen_2">
-			<DisplayName>ความลับโบราณ: เล่มที่ 2</DisplayName>
-			<Desc>หนังสือลับที่บันทึกข่าวลือโบราณ หนังสือเล่มนี้ได้บันทึกความลับของสงครามระหว่างเทพและมารในอดีต \nในช่วงปลายยุคโบราณ เริ่มปรากฏความแตกแยกที่ชัดเจนขึ้นระหว่างผู้ฝึกตนฝั่งธรรมะและอธรรม ความแตกแยกได้เติบโตขึ้นจนถึงระดับที่ไม่สามารถแก้ไขได้และสงครามขั้นเด็ดขาดก็เกิดขึ้น ณ ชายแดนทางใต้ ดินแดนของผู้ฝึกตนในสมัยโบราณ การต่อสู้ครั้งนี้กินเวลานานกว่าหนึ่งเดือน มันได้ฉีกแผ่นดินออกเป็นชิ้นๆ และได้นำหายนะมาสู่สรรพชีวิตในยุคนั้น วิถีแห่งหยินและหยาง พลังแห่งสวรรค์และโลกได้แตกออกเป็นเสี่ยงๆ และมันได้นำพามังกรแห่งประทีปมาสู่โลกมนุษย์ ครั้งเมื่อเห็นสภาพของโลกที่พังทลาย มังกรเทียนจึงรู้สึกเดือดดาลเป็นอย่างมาก มันได้ทำให้แผ่นดินจมลงไปและยกน้ำทะเลให้สูงขึ้น ทวีปทั้งเก้าได้พังพินาศสิ้น นี่จึงเป็นการยุติสงครมระหว่างเทพและมาร และนี่จึงเป็นที่มาของดินแดนที่แห้งแล้งทางตอนใต้ในปัจจุบันเช่นกัน</Desc>
-			<EffectDesc>รับข้อมูลเกี่ยวกับสถานที่ดังต่อไปนี้: \nดินแดนลี้ลับ - สนามรบซากสวรรค์</EffectDesc>
+			<DisplayName>Thượng Cổ Dị Văn: Quyển 2</DisplayName>
+			<Desc>Sách bí mật ghi lại tin đồn cổ xưa. Ghi lại bí mật về cuộc chiến Tiên Ma thời xưa...</Desc>
+			<EffectDesc>Nhận thông tin về các địa điểm: 
+Bí Cảnh - Đọa Tiên Cốc</EffectDesc>
 		</Text>
 	</List>
 </Texts>

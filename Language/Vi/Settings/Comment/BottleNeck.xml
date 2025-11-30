@@ -1,40 +1,40 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BottleNeckChance">
-			<Title>สภาวะคอขวดทั่วไป</Title>
-			<Desc>การทะลวงขอบเขตของสภาวะคอขวดทั่วไปนั้นสามารถทำได้ง่ายๆ โดยการเลือกสถานที่ที่เหมาะสมและจะมีโอกาสประสบความสำเร็จสูงในการทะลวงขอบเขต</Desc>
+			<Title>Bình Cảnh (Đột Phá)</Title>
+			<Desc>Việc đột phá bình cảnh thông thường có thể thực hiện dễ dàng bằng cách chọn một địa điểm thích hợp và sẽ có cơ hội thành công cao.</Desc>
 		</Text>
 		<Text Name="BottleNeckExplore">
-			<Title>สภาวะคอขวดท่องโลกา</Title>
-			<Desc>การทะลวงขอบเขตของสภาวะคอขวดท่องโลกานั้นสามารถทำได้โดยการส่งตัวละครออกท่องโลกเพื่อรวบรวมแนวคิดและประสบการณ์</Desc>
+			<Title>Bình Cảnh (Lịch Luyện)</Title>
+			<Desc>Để đột phá bình cảnh này, cần cử nhân vật đi lịch luyện khắp thế giới để thu thập cảm ngộ và kinh nghiệm.</Desc>
 		</Text>
 		<Text Name="BottleNeckWork">
-			<Title>สภาวะคอขวดวิถีชีวิต</Title>
-			<Desc>ในสภาวะสภาวะคอขวดวิถีชีวิตนั้นตัวละครจะศูนย์เสียพลังปราณในร่างไปทั้งหมดและจะกลายเป็นเพียงคนธรรมดา ในการทะลวงขอบเขตนั้นคนผู้นั้นจะต้องรวบรวมแนวคิดและประสบการณ์จากการใช้ชีวิตตามวิถีมนุษย์ธรรมดา</Desc>
+			<Title>Bình Cảnh (Hồng Trần)</Title>
+			<Desc>Trong bình cảnh hồng trần, nhân vật sẽ mất hết linh lực và trở thành người thường. Để đột phá, người đó phải thu thập cảm ngộ và kinh nghiệm từ cuộc sống của một người phàm trần.</Desc>
 		</Text>
 		<Text Name="BottleNeckGold">
-			<Title>สภาวะคอขวดแก่นทองคำ</Title>
-			<Desc>สภาวะคอขวดแก่นทองคำนั้นสำคัญเป็นอย่างมากในการทะลวงขอบเขต ผู้ฝึกตนจะต้องผนึกลมปราณทั้งร่างเพื่อสร้างแก่นทองคำ ซึ่งระดับของแก่นทองคำนั้นจะเป็นตัวตัดสินความสามารถของผู้ฝึกตนนั้นๆ ว่าจะพัฒนาไปได้ไกลแค่ไหนในโลกแห่งการฝึกตน</Desc>
+			<Title>Kết Đan</Title>
+			<Desc>Kết Đan là giai đoạn cực kỳ quan trọng. Tu chân giả phải ngưng tụ linh lực toàn thân để tạo ra Kim Đan. Phẩm chất của Kim Đan sẽ quyết định tiềm năng phát triển của tu chân giả đó trên con đường tu tiên.</Desc>
 		</Text>
 		<Text Name="BottleNeckThunder">
-			<Title>สภาวะคอขวดทัณฑ์สวรรค์</Title>
-			<Desc>สภาวะคอขวดทัณฑ์สวรรค์นั้นบททดสอบอันยิ่งใหญของผู้ฝึกตน หากล้มเหลวในการทะลวงขอบเขต อย่างดีคนผู้นั้นจะสูญเสียพื้นฐานการฝึกตนไปทั้งหมด อย่างร้ายก็จะพบกับความตาย</Desc>
+			<Title>Thiên Kiếp</Title>
+			<Desc>Thiên kiếp là thử thách vĩ đại nhất của tu chân giả. Nếu thất bại, nhẹ thì mất hết tu vi, nặng thì tử vong.</Desc>
 		</Text>
 		<Text Name="BottleNeckGod">
-			<Title>สภาวะคอขวดประตูเซียน</Title>
-			<Desc>สภาวะคอขวดประตูเซียนนั้นคือด่านสุดท้ายในการฝึกตนก่อนที่คนผู้นั้นจะทะลวงขอบเขตและขึ้นสู่การเป็นเซียน</Desc>
+			<Title>Tiên Môn</Title>
+			<Desc>Tiên Môn là ải cuối cùng của tu chân giả trước khi phi thăng thành tiên.</Desc>
 		</Text>
 		<Text Name="BottleNeckGodCity">
-			<Title>สภาวะคอขวดเทพเจ้า</Title>
-			<Desc>การก่อตัวของแดนศักดิ์ศิทธิ์นั้นเป็นช่วงเวลาที่สำคัญที่สุดสำหรับผู้ฝึกตนวิถีเทพ สถานะของแดนศักดิ์ศิทธิ์จะกำหนดระดับความสามารถที่จะบรรลุถึงได้ในอนาคต</Desc>
+			<Title>Thần Cách</Title>
+			<Desc>Việc hình thành Thần Quốc là thời điểm quan trọng nhất đối với Thần tu. Trạng thái của Thần Quốc sẽ quyết định giới hạn sức mạnh có thể đạt được trong tương lai.</Desc>
 		</Text>
 		<Text Name="BottleNeckFuPractice">
-			<Title>ยันต์ปฐมกาลต้นกำเนิด</Title>
-			<Desc>สภาวะคอขวดชนิดพิเศษสำหรับผู้ฝึกฝนยันต์อาคม ในการทะลวงขอบเขตนั้นผู้ฝึกตนจำเป็นจะต้องใช้ปราณในร่างเขียนสร้างยันต์แห่งต้นกำเนิดขึ้นมา</Desc>
+			<Title>Bản Mệnh Phù</Title>
+			<Desc>Bình cảnh đặc biệt dành cho người tu luyện phù chú. Để đột phá, tu chân giả cần dùng linh lực bản thân để vẽ nên Bản Mệnh Phù.</Desc>
 		</Text>
 		<Text Name="BottleNeckDie">
-			<Title>สภาวะคอขวดแห่งความตาย</Title>
-			<Desc>สภาวะคอขวดเช่นนี้นั่นหมายถึงว่าผู้ฝึกตนคนนั้นได้มาถึงทางตันในวิถีทางแห่งการฝึกตนแล้ว</Desc>
+			<Title>Tử Kiếp</Title>
+			<Desc>Bình cảnh này có nghĩa là tu chân giả đã đi vào ngõ cụt trên con đường tu luyện.</Desc>
 		</Text>
 	</List>
 </Texts>

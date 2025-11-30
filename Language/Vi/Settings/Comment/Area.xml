@@ -1,29 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="AreaRoom">
-			<Notes>ความคิดเห็นเกี่ยวกับโครงสร้างห้อง</Notes>
-			<Title>ห้อง</Title>
-			<Desc>พื้นที่จำกัดที่ล้อมรอบด้วยกำแพงและหิน</Desc>
+			<Notes>Nhận xét về cấu trúc phòng</Notes>
+			<Title>Phòng</Title>
+			<Desc>Khu vực hạn chế được bao quanh bởi tường và đá</Desc>
 		</Text>
 		<Text Name="AreaWarehouse">
-			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่เก็บของ</Notes>
-			<Title>พื้นที่เก็บของ</Title>
-			<Desc>พื้นที่สำหรับเก็บของ</Desc>
+			<Notes>Nhận xét về khu vực lưu trữ</Notes>
+			<Title>Kho chứa</Title>
+			<Desc>Khu vực để lưu trữ đồ vật</Desc>
 		</Text>
 		<Text Name="AreaFarmland">
-			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่เพาะปลูก</Notes>
-			<Title>พื้นที่เพาะปลูก</Title>
-			<Desc>พื้นที่สำหรับเพาะปลูกพืช</Desc>
+			<Notes>Nhận xét về đất canh tác</Notes>
+			<Title>Đất canh tác</Title>
+			<Desc>Khu vực trồng trọt</Desc>
 		</Text>
 		<Text Name="AreaHerbsField">
-			<Notes>ความคิดเห็นเกี่ยวกับสวนสมุนไพร</Notes>
-			<Title>สวนสมุนไพร</Title>
-			<Desc>พื้นที่สำหรับเพาะปลูกสมุนไพร</Desc>
+			<Notes>Nhận xét về vườn thảo dược</Notes>
+			<Title>Vườn thảo dược</Title>
+			<Desc>Khu vực trồng thảo dược</Desc>
 		</Text>
 		<Text Name="AreaTransaction">
-			<Notes>ความคิดเห็นเกี่ยวกับพื้นที่ค้าขาย</Notes>
-			<Title>พื้นที่ค้าขาย</Title>
-			<Desc>พื้นที่สำหรับคำการค้าขายแลกเปลี่ยน</Desc>
+			<Notes>Nhận xét về khu vực giao dịch</Notes>
+			<Title>Khu vực giao dịch</Title>
+			<Desc>Khu vực để trao đổi buôn bán</Desc>
 		</Text>
 	</List>
 </Texts>

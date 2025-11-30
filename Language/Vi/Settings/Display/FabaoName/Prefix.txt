@@ -1,7 +1,7 @@
-ทั่วไป,เมฆสีรุ้ง,ปราบมังกร,วงล้อ,กัลป์,รวมสวรรค์,หัวใจสวรรค์,เมฆาม่วง,เมฆห้าสี,อรุณม่วง,พฤกษาทมิฬ,สรวงสวรรค์,เจ็ดสังหาร,ดอกท้อโปรย,เงาพิภพ,สวรรค์อวยพร,แกนสวรรค์,หยกสวรรค์,ไข่มุกสวรรค์,รัศมีสวรรค์,ตาชั่งสวรรค์,กระจ่างสวรรค์,แสงสวรรค์,มารสวรรค์,สุดยอด,อนันต์,ฟ้าเหตุการณ์,แสงดาว,สรรพยุค,กลุ่มดาว,ดาวตก,นภาสวรรค์,ดอกบัว,ทะเลเมฆา,ยิ่งใหญ่,ไตรพิสุทธิ์,สิ้นสูญ,ทองคำตัดดารา,รุ้งหมอก,รวมสวรรค์,ขนนก,สวรรค์และโลก,จักรวาล,เก้าพระราชวัง,สามพรสวรรค์,สี่รูปปั้น,ห้าธาตุ,หกวิถี,เจ็ดดารา,แปดทิศ,เหนือฟ้า,อนันต์,,,,,,,,,,,,,,,,,,,,,,,
-ทองคำ,ตะวันตก,พยัคฆ์ขาว,สายฟ้าสวรรค์,อัสนี,พายุสายฟ้า,สวรรค์สร้าง,ทำลายล้าง,อัสนีห้าสาย
-พฤกษา,แก่นนภา,อำพัน,ยืนยาว,ตะวันออก,แก่นวารี,ไพศาล
-วารี,น้ำตก,สมดุล,บูรพา,เต่าดำ,อสรพิษ,ต้นกำเนิดพันปี,บรรพกาล,บรรจบ,สายน้ำ,วารีขจี,มหาสมุทร,น้ำแข็งสีเงิน
-อัคคี,แรงกล้า,เร่าร้อน,ทักษิณ,วิหคสีชาด,ลุกโชน,ร้อนแรง,เพลิงนภา,แสงอัคคี,เพลิงกัลป์,แผดเผา,แสงเพลิง
-ปฐพี,โหดเหี้ยม,มืดมัว,แกนกลาง,กิเลน,มังกรดิน,พันธะธรณี,ภูผาชัน,หุบเหวลึก,พันลี้,ก้าวย่างปฐพี,ยอดเขา
-ธาตุผสม,โกลาหล
+Tổng quát,Cầu vồng,Phục Long,Luân hồi,Kiếp,Hội thiên,Thiên tâm,Tử vân,Ngũ sắc,Tử khí,Mộc ám,Thiên cung,Thất sát,Đào hoa,Địa ảnh,Thiên phúc,Thiên hạch,Thiên ngọc,Thiên châu,Thiên hà,Thiên bình,Thiên quang,Thiên chiếu,Thiên ma,Tối thượng,Vô tận,Thiên cơ,Tinh mang,Vạn cổ,Tinh vân,Thiên thạch,Thanh không,Liên hoa,Vân hải,Vĩ đại,Tam thanh,Hư không,Kim cương,Huyễn cầu,Hội thiên,Vũ mao,Thiên địa,Càn khôn,Cửu cung,Tam tài,Tứ tượng,Ngũ hành,Lục đạo,Thất tinh,Bát quái,Thập phương,Vô cực
+Kim,Phương Tây,Bạch Hổ,Thiên lôi,Sấm sét,Bão sét,Thiên tạo,Hủy diệt,Ngũ lôi
+Mộc,Hạt nhân,Hổ phách,Vĩnh cửu,Phương Đông,Thủy tinh,Rộng lớn
+Thủy,Thác nước,Cân bằng,Phương Bắc,Huyền Vũ,Mãng xà,Nguyên thủy,Cổ xưa,Giao thoa,Dòng sông,Trong xanh,Đại dương,Ngân băng
+Hỏa,Mãnh liệt,Rực cháy,Phương Nam,Chu Tước,Bùng cháy,Nóng bỏng,Hỏa diệm,Ánh lửa,Thiên hỏa,Thiêu đốt,Hỏa quang
+Thổ,Khắc nghiệt,U ám,Trung tâm,Kỳ Lân,Địa Long,Địa linh,Núi cao,Hẻm vực,Ngàn dặm,Bước chân,Đỉnh cao
+Hỗn hợp,Hỗn loạn

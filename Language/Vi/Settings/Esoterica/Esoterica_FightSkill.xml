@@ -1,54 +1,54 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkillEsoterica_1">
-			<DisplayName>ฝ่าลมมือปราณ</DisplayName>
-			<Desc>วิชาพื้นฐานที่ผู้ฝึกตนมักจะฝึกฝน มันเป็นการรวบรวมลมปาณเอาไว้ที่ฝ่ามือและปล่อยมันออกไปยังเป้าหมาย</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: ฝ่ามือลมปราณ[/color][/size]</EffectDesc>
+			<DisplayName>Khí Chưởng</DisplayName>
+			<Desc>Kỹ năng cơ bản mà tu sĩ thường luyện, tụ khí vào lòng bàn tay và phóng về phía mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Khí Chưởng[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_2">
-			<DisplayName>พายุอัคคี</DisplayName>
-			<Desc>รวบรวมจิตแห่งไฟระหว่างสวรรค์และโลกเพื่อเผาเป้าหมายให้เป็นเถ้าถ่าน</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: พายุอัคคี[/color][/size]</EffectDesc>
+			<DisplayName>Hỏa Bão</DisplayName>
+			<Desc>Tụ tập hỏa tinh thiên địa để thiêu rụi mục tiêu thành tro bụi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Hỏa Bão[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_3">
-			<DisplayName>อัสนีเทวะ</DisplayName>
-			<Desc>รวบรวมจิตแห่งธาตุทองผ่านสวรรค์และโลก ทำการเรียกสายฟ้าฟาดฟันไปยังศัตรู</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: อัสนีเทวะ[/color][/size]</EffectDesc>
+			<DisplayName>Thần Lôi</DisplayName>
+			<Desc>Tụ tập kim tinh thiên địa, triệu hồi sấm sét đánh vào kẻ thù.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Thần Lôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_4">
-			<DisplayName>ทลายวิญญาณ</DisplayName>
-			<Desc>ปล่อยแสงศักดิ์สิทธิ์ออกไปด้วยความเร็วที่น่าเหลือเชื่อเพื่อทำลายวิญญาณของเป้าหมาย</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: ทลายวิญญาณ[/color][/size]</EffectDesc>
+			<DisplayName>Phá Hồn</DisplayName>
+			<Desc>Phóng luồng sáng thần thánh với tốc độ cực nhanh để phá hủy linh hồn mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Phá Hồn[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong1_1">
-			<DisplayName>สายธารสวรรค์</DisplayName>
-			<Desc>ใช้พลังของสายธารโบราณแห่งระหว่างสวรรค์และโลกเพื่อฟื้นฟูพลังปราณให้แก่พันธมิตรทั้งหมด</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: สายธารสวรรค์[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Hà</DisplayName>
+			<Desc>Dùng sức mạnh của thiên hà thượng cổ để hồi phục linh lực cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Thiên Hà[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong3_1">
-			<DisplayName>กระบี่เสียงสะท้อน</DisplayName>
-			<Desc>สะท้อนจิตวิญญาณของตนเองสั่นพ้องกับอาวุธวิเศษ ช่วยเพิ่มพลังของอาวุธวิเศษเป็นอย่างมาก</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: กระบี่เสียงสะท้อน[/color][/size]</EffectDesc>
+			<DisplayName>Kiếm Minh</DisplayName>
+			<Desc>Cộng hưởng linh hồn bản thân với pháp bảo, tăng cường sức mạnh của pháp bảo lên rất nhiều.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Kiếm Minh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_1">
-			<DisplayName>โกลาหลสู่ว่างเปล่า</DisplayName>
-			<Desc>กระตุ้นพลังแห่งความโกลาหลเพื่อเปิดประตูสู่ความว่างเปล่า สร้างความเสียหายอย่างหนักให้แก่ศัตรูทั้งหมด</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: โกลาหลสู่ว่างเปล่า[/color][/size]</EffectDesc>
+			<DisplayName>Hỗn Độn Quy Hư</DisplayName>
+			<Desc>Kích hoạt sức mạnh hỗn độn để mở cửa hư không, gây sát thương nặng nề cho tất cả kẻ thù.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Hỗn Độn Quy Hư[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_2">
-			<DisplayName>โล่วิญญาณ</DisplayName>
-			<Desc>เพิ่มเกราะลมปราณให้แก่พันธมิตรทั้งหมด</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: โล่วิญญาณ[/color][/size]</EffectDesc>
+			<DisplayName>Linh Thuẫn</DisplayName>
+			<Desc>Tăng cường hộ thể linh khí cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Linh Thuẫn[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_3">
-			<DisplayName>คาถาฟื้นฟูปราณ</DisplayName>
-			<Desc>ดึงพลังแห่งผืนป่ามาเพื่อฟื้นฟูปราณของตัวเอง</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: คาถาฟื้นฟูปราณ[/color][/size]</EffectDesc>
+			<DisplayName>Hồi Khí Thuật</DisplayName>
+			<Desc>Hấp thu sức mạnh của rừng xanh để hồi phục linh lực bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Hồi Khí Thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong9_1">
-			<DisplayName>วัฏจักรย้อนกลับ</DisplayName>
-			<Desc>ใช้กฎแห่งวัฏจักรเป็นตายเพื่อฟื้นฟูปราณของตัวเองอย่างมหาศาล</Desc>
-			<EffectDesc>[size=10][color=#D06508]ได้รับเวท: วัฏจักรย้อนกลับ[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Chuyển Luân Hồi</DisplayName>
+			<Desc>Sử dụng quy luật sinh tử luân hồi để hồi phục lượng lớn linh lực bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học phép: Nghịch Chuyển Luân Hồi[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

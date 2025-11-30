@@ -1,44 +1,44 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MainUIWorldTime">
-			<Notes>ความคิดเห็นเกี่ยวกับนาฬิกาโลก</Notes>
-			<Title>นาฬิกาโลก</Title>
-			<Desc>เวลาของโลกจะเพิ่มขึ้นตามความรุดหน้าของเกมส์</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]นาฬิกาโลก[/color]</Tips>
+			<Notes>Nhận xét về Đồng hồ Thế giới</Notes>
+			<Title>Đồng hồ Thế giới</Title>
+			<Desc>Thời gian thế giới sẽ tăng lên theo tiến độ của trò chơi.</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Đồng hồ Thế giới[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWeather">
-			<Notes>ใช้เพียงแสดงเคล็ดลับเกี่ยวกับความคิดเห็นในหน้าต่างสภาพอากาศ</Notes>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]สภาพอากาศ[/color]</Tips>
+			<Notes>Chỉ sử dụng để hiển thị mẹo về nhận xét trong cửa sổ thời tiết.</Notes>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Thời tiết[/color]</Tips>
 		</Text>
 		<Text Name="MainUISectFengShui">
-			<Notes>ความคิดเห็นเกี่ยวกับฮวงจุ้ยของสำนัก</Notes>
-			<Title>ฮวงจุ้ยของสำนัก</Title>
-			<Desc>เกี่ยวกับฮวงจุ้ยของสำนัก</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]ฮวงจุ้ยของสำนัก[/color]</Tips>
+			<Notes>Nhận xét về Phong thủy Môn phái</Notes>
+			<Title>Phong thủy Môn phái</Title>
+			<Desc>Về phong thủy của môn phái</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Phong thủy Môn phái[/color]</Tips>
 		</Text>
 		<Text Name="MainUIRoomFengShui">
-			<Notes>ความคิดเห็นเกี่ยวกับฮวงจุ้ยของห้อง</Notes>
-			<Title>ฮวงจุ้ยของห้อง</Title>
-			<Desc>เกี่ยวกับฮวงจุ้ยของห้อง</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]ฮวงจุ้ยของห้อง[/color]</Tips>
+			<Notes>Nhận xét về Phong thủy Phòng</Notes>
+			<Title>Phong thủy Phòng</Title>
+			<Desc>Về phong thủy của phòng</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Phong thủy Phòng[/color]</Tips>
 		</Text>
 		<Text Name="MainUILingShi">
-			<Notes>ความคิดเห็นเกี่ยวกับหินวิญญาณ</Notes>
-			<Title>หินวิญญาณ</Title>
-			<Desc>สิ่งที่ทุกคนยอมรับและใช้ในการซื้อขายแลกเปลี่ยนกันในโลกของผู้ฝึกตน</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]หินวิญญาณ[/color]</Tips>
+			<Notes>Nhận xét về Linh Thạch</Notes>
+			<Title>Linh Thạch</Title>
+			<Desc>Đơn vị tiền tệ được chấp nhận và sử dụng để giao dịch trong thế giới tu chân.</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Linh Thạch[/color]</Tips>
 		</Text>
 		<Text Name="MainUIInfluence">
-			<Notes>ความคิดเห็นเกี่ยวกับพลังอิทธิพล</Notes>
-			<Title>พลังอิทธิพล</Title>
-			<Desc>สิ่งที่บ่งบอกถึงอิทธิพลของสำนักของท่านที่มีต่อโลกมนุษย์ สามารถใช้ในการกระจายพลังอำนาจของท่านไปในโลกมนุษย์</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]พลังอิทธิพล[/color]</Tips>
+			<Notes>Nhận xét về Sức ảnh hưởng</Notes>
+			<Title>Sức ảnh hưởng</Title>
+			<Desc>Chỉ số thể hiện ảnh hưởng của môn phái đối với thế giới phàm trần, có thể dùng để mở rộng thế lực của bạn.</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Sức ảnh hưởng[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWuXingGraph">
-			<Notes>ความคิดเห็นเกี่ยวกับวัฏจักรห้าธาตุ</Notes>
-			<Title>วัฏจักรห้าธาตุ</Title>
-			<Desc>วัฏจักรห้าธาตุนั้นจะแสดงถึงการเกื้อหนุนและปฏิปักของธาตุทั้งห้าได้แก่ ทอง ไม้ น้ำ ไฟ ดิน</Desc>
-			<Tips>คลิกขวาเพื่อเปิดหน้าความคิดเห็นเกี่ยวกับ[color=#D06508]วัฏจักรห้าธาตุ[/color]</Tips>
+			<Notes>Nhận xét về Ngũ Hành Tương Sinh Tương Khắc</Notes>
+			<Title>Ngũ Hành</Title>
+			<Desc>Vòng ngũ hành thể hiện sự tương sinh và tương khắc của 5 nguyên tố: Kim, Mộc, Thủy, Hỏa, Thổ.</Desc>
+			<Tips>Nhấn chuột phải để mở trang nhận xét về [color=#D06508]Ngũ Hành[/color]</Tips>
 		</Text>
 	</List>
 </Texts>

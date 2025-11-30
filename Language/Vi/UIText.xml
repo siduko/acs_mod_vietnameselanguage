@@ -1117,8 +1117,8 @@ sử dụng vùng thừa kế để làm cho nó xứng đáng. để làm cho c
 	<string name="0xrxw6g77a6u3p-n87_plhi" mz="n87">Tình dục:</string>
 	<string name="0xrxw6g7k2ud2ovt5-n22_svyf" mz="n22">Cao</string>
 	<string name="0xrxw6g7gyliovp3-n123_tvpb" mz="zhenCoreNpcName">Tên lõi</string>
-	<string name="0xrxw6g7nez0ljrz48-n11_nez0" mz="n11">ช่องมรดก +1
-รางวัลโบนัส XXX</string>
+	<string name="0xrxw6g7nez0ljrz48-n11_nez0" mz="n11">Ô Di Vật +1
+Phần Thưởng Thêm XXX</string>
 	<string name="0xrxw6g7e8ydljrypy-n283_e8yd" mz="n283">Đặt lại</string>
 	<string name="0xrxw6g7rjyvljryq1-n187_rjyv" mz="n187">Đổi tên của ký tự</string>
 	<string name="0xrxw6g79fbecf-n92_9fbe-tips" mz="n92">Thủy: Kích thích gỗ chống lửa</string>
@@ -1703,7 +1703,7 @@ Thiếu nhân viên xây dựng</string>
 	<string name="0xrxw6g7jq2v2a-n15_izp4" mz="n15">Đặc biệt:</string>
 	<string name="0xrxw6g7gyliovp3-n141_gs6y" mz="back2list2">Trở lại danh sách</string>
 	<string name="0xrxw6g7qi9togftcn-n0_qi9t-texts_2" mz="title">Bình tĩnh</string>
-	<string name="0xrxw6g7c24rogftc4-n95_c24r" mz="buy">XXXX หยวน</string>
+	<string name="0xrxw6g7c24rogftc4-n95_c24r" mz="buy">XXXX Tệ</string>
 	<string name="0xrxw6g7mooaljryq5-n282_jtgt" mz="n282">Xác nhận</string>
 	<string name="0xrxw6g7rd8g52ow4q-n135_rd8g-tips" mz="n135">Hiển thị cửa sổ riêng để gửi thông điệp này</string>
 	<string name="0xrxw6g7hu0sovpf-n5_hu0s" mz="lv">Hãy hiến dâng linh hồn mình</string>
@@ -1881,7 +1881,7 @@ Thiếu nhân viên xây dựng</string>
 	<string name="0xrxw6g7k0zi4b-n157_ck7p" mz="n157">Tư thế phòng thủ</string>
 	<string name="0xrxw6g7fnsyljryql-n12_h3mp-tips" mz="fengshui">Foggi</string>
 	<string name="0xrxw6g7rex4ljrypw-n281_m34v" mz="n281">Vẫn chưa</string>
-	<string name="0xrxw6g7xf5dljryqg-n67_xf5d" mz="n67">ชื่อเสียงของสำนักคุณถึง XXX แล้ว ความแข็งแกร่งของศัตรูที่บุกมาจะเพิ่มขึ้นตามมา โปรดเตรียมพร้อม!</string>
+	<string name="0xrxw6g7xf5dljryqg-n67_xf5d" mz="n67">Danh tiếng môn phái của bạn đã đạt XXX. Sức mạnh của kẻ thù tấn công sẽ tăng lên tương ứng. Hãy chuẩn bị sẵn sàng!</string>
 	<string name="0xrxw6g7el231y-n250_d0ic" mz="n250">Chọn vài danh sách</string>
 	<string name="0xrxw6g7jq2v2h-n149_l10g-tips" mz="n149">Thay đổi biệt danh đi</string>
 	<string name="0xrxw6g7shy138-n228_gtsu" mz="n228">Tiện ích</string>
@@ -2944,7 +2944,7 @@ Tác động của sự hỗn loạn của thiên đường sẽ kéo dài mãi 
 	<string name="0xrxw6g7el231y-n1_el23-7" mz="MainMenu">Tạo</string>
 	<string name="0xrxw6g79nebljrz0o-n96_knza" mz="OK">Bật</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o" mz="consider">Nghĩ đi</string>
-	<string name="0xrxw6g7j6klogftbz-n91_j6kl" mz="buy">XXXX หยวน</string>
+	<string name="0xrxw6g7j6klogftbz-n91_j6kl" mz="buy">XXXX Tệ</string>
 	<string name="0xrxw6g7tq04ljryq8-n221_tq04" mz="n221">Max. hiện số khung</string>
 	<string name="0xrxw6g79nebljrz0o-n78_9neb" mz="n78">Số điện thoại ở nhà</string>
 	<string name="0xrxw6g7c4dtogft78-n0_c4dt" mz="frame">Chi sắp tan chảy rồi</string>

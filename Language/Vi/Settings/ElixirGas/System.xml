@@ -1,128 +1,128 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="single_jin">
-			<Display>ปราณทองคำ</Display>
-			<Desc>เพิ่มธาตุทองในสิ่งแวดล้อมและอัตราความก้าวหน้าของวิชาบ่มเพาะธาตุทอง</Desc>
+			<Display>Kim Khí</Display>
+			<Desc>Tăng nguyên tố Kim trong môi trường và tốc độ tu luyện công pháp hệ Kim.</Desc>
 		</Text>
 		<Text Name="single_mu">
-			<Display>ปราณพฤกษา</Display>
-			<Desc>เพิ่มธาตุไม้ในสิ่งแวดล้อมและอัตราความก้าวหน้าของวิชาบ่มเพาะธาตุไม้</Desc>
+			<Display>Mộc Khí</Display>
+			<Desc>Tăng nguyên tố Mộc trong môi trường và tốc độ tu luyện công pháp hệ Mộc.</Desc>
 		</Text>
 		<Text Name="single_shui">
-			<Display>ปราณวารี</Display>
-			<Desc>เพิ่มธาตุน้ำในสิ่งแวดล้อมและอัตราความก้าวหน้าของวิชาบ่มเพาะธาตุน้ำ</Desc>
+			<Display>Thủy Khí</Display>
+			<Desc>Tăng nguyên tố Thủy trong môi trường và tốc độ tu luyện công pháp hệ Thủy.</Desc>
 		</Text>
 		<Text Name="single_huo">
-			<Display>ปราณอัคคี</Display>
-			<Desc>เพิ่มธาตุไฟในสิ่งแวดล้อมและอัตราความก้าวหน้าของวิชาบ่มเพาะธาตุไฟ</Desc>
+			<Display>Hỏa Khí</Display>
+			<Desc>Tăng nguyên tố Hỏa trong môi trường và tốc độ tu luyện công pháp hệ Hỏa.</Desc>
 		</Text>
 		<Text Name="single_tu">
-			<Display>ปราณพสุธา</Display>
-			<Desc>เพิ่มธาตุดินในสิ่งแวดล้อมและอัตราความก้าวหน้าของวิชาบ่มเพาะธาตุดิน</Desc>
+			<Display>Thổ Khí</Display>
+			<Desc>Tăng nguyên tố Thổ trong môi trường và tốc độ tu luyện công pháp hệ Thổ.</Desc>
 		</Text>
 		<Text Name="jin_mu">
-			<Display>ปราณแดนแล้ง</Display>
-			<Desc>เพิ่มความเร็วในการเก็บไม้และการเก็บเกี่ยวของลูกศิษย์อย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Thân</Display>
+			<Desc>Tăng đáng kể tốc độ chặt gỗ và thu hoạch của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_shui">
-			<Display>ปราณละเอียดอ่อน</Display>
-			<Desc>เพิ่มความเร็วในการทำงานประดิษฐ์และการตัดเย็บของเหล่าศิษย์อย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Dần</Display>
+			<Desc>Tăng đáng kể tốc độ chế tạo thủ công và may vá của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_huo">
-			<Display>ปราณแห่งการหลอม</Display>
-			<Desc>เพิ่มความเร็วการขุดแร่ของเหล่าศิษย์อย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Ngọ</Display>
+			<Desc>Tăng đáng kể tốc độ khai thác của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_tu">
-			<Display>ปราณสั่งสม</Display>
-			<Desc>เพิ่มผลผลิตรการขุดแร่ของเหล่าศิษย์อย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Tuất</Display>
+			<Desc>Tăng đáng kể sản lượng khai thác của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_shui">
-			<Display>ปราณแห่งอุดมสมบูรณ์</Display>
-			<Desc>เพิ่มผลผลิตในการเก็บเกี่ยวของศิษย์ในสำนักและความอุดมสมบูรณ์ของแผนที่สำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Ất Hợi</Display>
+			<Desc>Tăng đáng kể sản lượng thu hoạch của đệ tử và sự màu mỡ của bản đồ môn phái.</Desc>
 		</Text>
 		<Text Name="mu_huo">
-			<Display>ปราณแห่งการแผดเผา</Display>
-			<Desc>เพิ่มความเร็วในการตีเหล็กและปรุงอาหารของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Ất Tỵ</Display>
+			<Desc>Tăng đáng kể tốc độ rèn đúc và nấu ăn của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_tu">
-			<Display>ปราณแห่งการผนึกตรึง</Display>
-			<Desc>เพิ่มความเร็วในการก่อสร้างของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Ất Mão</Display>
+			<Desc>Tăng đáng kể tốc độ xây dựng của đệ tử.</Desc>
 		</Text>
 		<Text Name="shui_huo">
-			<Display>ปราณแห่งการมอดดับ</Display>
-			<Desc>เพิ่มความเร็วในการบรรเทาภัยพิบัติและอัตราความสำเร็จของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Dần</Display>
+			<Desc>Tăng đáng kể tốc độ cứu trợ thiên tai và tỷ lệ thành công của đệ tử.</Desc>
 		</Text>
 		<Text Name="shui_tu">
-			<Display>ปราณทะลุขีด</Display>
-			<Desc>เพิ่มความสำเร็จในการรักษาและการฟื้นฟูตามธรรมชาติของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Thìn</Display>
+			<Desc>Tăng đáng kể tỷ lệ thành công khi chữa bệnh và khả năng tự hồi phục của đệ tử.</Desc>
 		</Text>
 		<Text Name="huo_tu">
-			<Display>ปราณแห่งเถ้าถ่าน</Display>
-			<Desc>เพิ่มความเร็วในการรื้อถอนและความเร็วในการทำงานหินของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Đinh Mùi</Display>
+			<Desc>Tăng đáng kể tốc độ tháo dỡ và tốc độ gia công đá của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_mu_shui">
-			<Display>ปราณต้นกล้าแรกเกิด</Display>
-			<Desc>เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุไม้ของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Giáp Dần</Display>
+			<Desc>Tăng đáng kể sự tương thích công pháp hệ Mộc của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_mu_huo">
-			<Display>ปราณพฤกษาเติบใหญ่</Display>
-			<Desc>เพิ่มผลผลิตในการหลอมโอสถของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Giáp Ngọ</Display>
+			<Desc>Tăng đáng kể sản lượng luyện đan của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_mu_tu">
-			<Display>ปราณพสุธาปฐพี</Display>
-			<Desc>เพิ่มความเร็วในการฝึกสร้างรากฐาน, ความเร็วในการบ่มเพาะ, และฐานสภาวะจิตของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Giáp Thìn</Display>
+			<Desc>Tăng đáng kể tốc độ xây dựng căn cơ, tốc độ tu luyện, và cảnh giới tâm thần của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_shui_huo">
-			<Display>ปราณทองคำบริสุทธิ์</Display>
-			<Desc>เพิ่มโอกาสสำเร็จในการหลอมอาวุธวิเศษของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Dần</Display>
+			<Desc>Tăng đáng kể tỷ lệ thành công khi luyện pháp bảo của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_shui_tu">
-			<Display>ปราณห้วงวารีลึก</Display>
-			<Desc>เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุน้ำของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Thìn</Display>
+			<Desc>Tăng đáng kể sự tương thích công pháp hệ Thủy của đệ tử.</Desc>
 		</Text>
 		<Text Name="jin_huo_tu">
-			<Display>ปราณโลหะแกร่ง</Display>
-			<Desc>เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุทองของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Canh Ngọ</Display>
+			<Desc>Tăng đáng kể sự tương thích công pháp hệ Kim của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_shui_huo">
-			<Display>ปราณประกายเพลิง</Display>
-			<Desc>เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุไฟของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Dần</Display>
+			<Desc>Tăng đáng kể sự tương thích công pháp hệ Hỏa của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_shui_tu">
-			<Display>ปราณวารีเย็นสงบ</Display>
-			<Desc>เพิ่มความเร็วในการหลอมโอสถของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Thìn</Display>
+			<Desc>Tăng đáng kể sản lượng luyện đan của đệ tử.</Desc>
 		</Text>
 		<Text Name="mu_huo_tu">
-			<Display>ปราณพสุธามั่นคง</Display>
-			<Desc>เพิ่มความเข้ากันได้ของวิชาบ่มเพาะธาตุดินของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Ngọ</Display>
+			<Desc>Tăng đáng kể sự tương thích công pháp hệ Thổ của đệ tử.</Desc>
 		</Text>
 		<Text Name="shui_huo_tu">
-			<Display>ปราณตะวันผลาญ</Display>
-			<Desc>เพิ่มความเร็วในการหลอมอาวุธวิเศษของศิษย์ในสำนักอย่างมีนัยสำคัญ</Desc>
+			<Display>Khí Bính Thân</Display>
+			<Desc>Tăng đáng kể tốc độ luyện pháp bảo của đệ tử.</Desc>
 		</Text>
 		<Text Name="no_jin">
-			<Display>ปราณตัดทองคำ</Display>
-			<Desc>เพิ่มการลดความเสียหายจากธาตุทอง (โดยรวม)</Desc>
+			<Display>Khí Kiếp Kim</Display>
+			<Desc>Tăng đáng kể khả năng kháng sát thương hệ Kim (tổng cộng).</Desc>
 		</Text>
 		<Text Name="no_mu">
-			<Display>ปราณตัดพฤกษา</Display>
-			<Desc>เพิ่มการลดความเสียหายจากธาตุไม้ (โดยรวม)</Desc>
+			<Display>Khí Kiếp Mộc</Display>
+			<Desc>Tăng đáng kể khả năng kháng sát thương hệ Mộc (tổng cộng).</Desc>
 		</Text>
 		<Text Name="no_shui">
-			<Display>ปราณตัดวารี</Display>
-			<Desc>เพิ่มการลดความเสียหายจากธาตุน้ำ (โดยรวม)</Desc>
+			<Display>Khí Kiếp Thủy</Display>
+			<Desc>Tăng đáng kể khả năng kháng sát thương hệ Thủy (tổng cộng).</Desc>
 		</Text>
 		<Text Name="no_huo">
-			<Display>ปราณตัดอัคคี</Display>
-			<Desc>เพิ่มการลดความเสียหายจากธาตุไฟ (โดยรวม)</Desc>
+			<Display>Khí Kiếp Hỏa</Display>
+			<Desc>Tăng đáng kể khả năng kháng sát thương hệ Hỏa (tổng cộng).</Desc>
 		</Text>
 		<Text Name="no_tu">
-			<Display>ปราณตัดพสุธา</Display>
-			<Desc>เพิ่มการลดความเสียหายจากธาตุดิน (โดยรวม)</Desc>
+			<Display>Khí Kiếp Thổ</Display>
+			<Desc>Tăng đáng kể khả năng kháng sát thương hệ Thổ (tổng cộng).</Desc>
 		</Text>
 		<Text Name="hunyuan">
-			<Display>ปราณปฐมกาล</Display>
-			<Desc>ลดเมล็ดเต๋า, เพิ่มความเร็วในการเรียนรู้</Desc>
+			<Display>Khí Hỗn Nguyên</Display>
+			<Desc>Giảm đạo chủng, tăng tốc độ học tập.</Desc>
 		</Text>
 	</List>
 </Texts>

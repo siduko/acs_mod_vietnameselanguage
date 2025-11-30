@@ -1,7 +1,7 @@
 ## 1. Implementation
-- [ ] 1.1 Translate `Language/Vi/UIText.xml` content from Thai to Vietnamese.
-- [ ] 1.2 Translate `Language/Vi/CodeDictionary.txt` content from Thai to Vietnamese.
-- [ ] 1.3 Translate `Language/Vi/MapStoryDictionary.txt` content from Thai to Vietnamese.
+- [x] 1.1 Translate `Language/Vi/UIText.xml` content from Thai to Vietnamese.
+- [x] 1.2 Translate `Language/Vi/CodeDictionary.txt` content from Thai to Vietnamese.
+- [x] 1.3 Translate `Language/Vi/MapStoryDictionary.txt` content from Thai to Vietnamese.
 - [ ] 1.4 Review and translate XML files under `Language/Vi/Settings/Achievement/`.
 - [ ] 1.5 Review and translate XML files under `Language/Vi/Settings/CommandDef/`.
 - [ ] 1.6 Review and translate XML files under `Language/Vi/Settings/Comment/`.

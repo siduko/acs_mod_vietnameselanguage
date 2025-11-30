@@ -1,203 +1,203 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SystemMessage">
-			<Notes>ความคิดเห็นเกี่ยวกับระบบข้อความ</Notes>
-			<Title>ระบบข้อความ</Title>
-			<Desc>หมวดระบบข้อความ</Desc>
+			<Notes>Nhận xét về hệ thống tin nhắn</Notes>
+			<Title>Hệ thống tin nhắn</Title>
+			<Desc>Mục hệ thống tin nhắn</Desc>
 		</Text>
 		<Text Name="Architecture">
-			<Notes>ความคิดเห็นเกี่ยวกับสิ่งปลูกสร้าง</Notes>
-			<Title>สิ่งปลูกสร้าง</Title>
-			<Desc>หมวดสิ่งปลูกสร้าง</Desc>
+			<Notes>Nhận xét về kiến trúc</Notes>
+			<Title>Kiến trúc</Title>
+			<Desc>Mục kiến trúc</Desc>
 		</Text>
 		<Text Name="NpcProperty">
-			<Notes>ความคิดเห็นเกี่ยวกับสถานะตัวละคร</Notes>
-			<Title>สภานะตัวละคร</Title>
-			<Desc>หมวดสภานะตัวละคร</Desc>
+			<Notes>Nhận xét về thuộc tính nhân vật</Notes>
+			<Title>Thuộc tính nhân vật</Title>
+			<Desc>Mục thuộc tính nhân vật</Desc>
 		</Text>
 		<Text Name="NpcSociality">
-			<Notes>ความคิดเห็นเกี่ยวกับสังคมของตัวละคร</Notes>
-			<Title>สังคมของตัวละคร</Title>
-			<Desc>หมวดสังคมของตัวละคร</Desc>
+			<Notes>Nhận xét về quan hệ xã hội</Notes>
+			<Title>Quan hệ xã hội</Title>
+			<Desc>Mục quan hệ xã hội</Desc>
 		</Text>
 		<Text Name="NpcHealth">
-			<Notes>ความคิดเห็นเกี่ยวกับพลังชีวิตของตัวละคร</Notes>
-			<Title>พลังชีวิต</Title>
-			<Desc>หมวดพลังชีวิต</Desc>
+			<Notes>Nhận xét về sức khỏe</Notes>
+			<Title>Sức khỏe</Title>
+			<Desc>Mục sức khỏe</Desc>
 		</Text>
 		<Text Name="NpcPractice">
-			<Notes>ความคิดเห็นเกี่ยวกับการบ่มเพาะ/การฝึกฝนของตัวละคร</Notes>
-			<Title>ตัวละคร</Title>
-			<Desc>หมวดตัวละคร</Desc>
+			<Notes>Nhận xét về tu luyện</Notes>
+			<Title>Tu luyện</Title>
+			<Desc>Mục tu luyện</Desc>
 		</Text>
 		<Text Name="NpcZhuJi">
-			<Notes>ความคิดเห็นเกี่ยวกับการฝึกพื้นฐานของตัวละคร</Notes>
-			<Title>การฝึกพื้นฐาน</Title>
-			<Desc>หมวดการฝึกพื้นฐาน</Desc>
+			<Notes>Nhận xét về Trúc Cơ</Notes>
+			<Title>Trúc Cơ</Title>
+			<Desc>Mục Trúc Cơ</Desc>
 		</Text>
 		<Text Name="NpcGnosis">
-			<Notes>ความคิดเห็นเกี่ยวกับค่าความฉลาดของตัวละคร</Notes>
-			<Title>ค่าความฉลาด</Title>
-			<Desc>หมวดค่าความฉลาด</Desc>
+			<Notes>Nhận xét về ngộ tính</Notes>
+			<Title>Ngộ tính</Title>
+			<Desc>Mục ngộ tính</Desc>
 		</Text>
 		<Text Name="NpcEquipment">
-			<Notes>ความคิดเห็นเกี่ยวกับอุปกรณ์ของตัวละคร</Notes>
-			<Title>อุปกรณ์</Title>
-			<Desc>หมวดอุปกรณ์</Desc>
+			<Notes>Nhận xét về trang bị</Notes>
+			<Title>Trang bị</Title>
+			<Desc>Mục trang bị</Desc>
 		</Text>
 		<Text Name="NpcEquipmentOfBodyPractice">
-			<Notes>ความคิดเห็นเกี่ยวกับอุปกรณ์และความลับในการปรับแต่งร่างกาย</Notes>
-			<Title>อุปกรณ์และความลับในการปรับแต่งร่างกาย</Title>
-			<Desc>อุปกรณ์และความลับในการปรับแต่งร่างกาย</Desc>
+			<Notes>Nhận xét về trang bị Thể Tu</Notes>
+			<Title>Trang bị Thể Tu</Title>
+			<Desc>Trang bị và bí mật của Thể Tu</Desc>
 		</Text>
 		<Text Name="NpcCombatStyle">
-			<Notes>ความคิดเห็นเกี่ยวกับแผนการรบของตัวละคร</Notes>
-			<Title>แผนการรบ</Title>
-			<Desc>หมวดแผนการรบ</Desc>
+			<Notes>Nhận xét về chiến thuật</Notes>
+			<Title>Chiến thuật</Title>
+			<Desc>Mục chiến thuật</Desc>
 		</Text>
 		<Text Name="NpcDetailProperty">
-			<Notes>ความคิดเห็นเกี่ยวกับรายละเอียดสถานะของตัวละคร</Notes>
-			<Title>รายละเอียดสถานะ</Title>
-			<Desc>หมวดรายละเอียดสถานะ</Desc>
+			<Notes>Nhận xét về chi tiết thuộc tính</Notes>
+			<Title>Chi tiết thuộc tính</Title>
+			<Desc>Mục chi tiết thuộc tính</Desc>
 		</Text>
 		<Text Name="NpcDrugResistance">
-			<Notes>ความคิดเห็นเกี่ยวกับความต้านทานโอสถของตัวละคร</Notes>
-			<Title>ความต้านทานโอสถ</Title>
-			<Desc>หมวดความต้านทานโอสถ</Desc>
+			<Notes>Nhận xét về kháng thuốc</Notes>
+			<Title>Kháng thuốc</Title>
+			<Desc>Mục kháng thuốc</Desc>
 		</Text>
 		<Text Name="Secret">
-			<Notes>ความคิดเห็นเกี่ยวกับความลึกลับ</Notes>
-			<Title>ความลึกลับ</Title>
-			<Desc>หมวดความลึกลับ</Desc>
+			<Notes>Nhận xét về bí mật</Notes>
+			<Title>Bí mật</Title>
+			<Desc>Mục bí mật</Desc>
 		</Text>
 		<Text Name="Character">
-			<Notes>ความคิดเห็นเกี่ยวกับNPC</Notes>
+			<Notes>Nhận xét về NPC</Notes>
 			<Title>NPC</Title>
-			<Desc>หมวด NPC</Desc>
+			<Desc>Mục NPC</Desc>
 		</Text>
 		<Text Name="Clue">
-			<Notes>ความคิดเห็นเกี่ยวกับเบาะแส</Notes>
-			<Title>เบาะแส</Title>
-			<Desc>หมวดเบาะแส</Desc>
+			<Notes>Nhận xét về manh mối</Notes>
+			<Title>Manh mối</Title>
+			<Desc>Mục manh mối</Desc>
 		</Text>
 		<Text Name="ZhenGraph">
-			<Notes>ความคิดเห็นเกี่ยวกับผังค่ายกล</Notes>
-			<Title>ผังค่ายกล</Title>
-			<Desc>หมวดผังค่ายกล</Desc>
+			<Notes>Nhận xét về trận đồ</Notes>
+			<Title>Trận đồ</Title>
+			<Desc>Mục trận đồ</Desc>
 		</Text>
 		<Text Name="ZhenEdit">
-			<Notes>ความคิดเห็นเกี่ยวกับการปรับแต่งค่ายกล</Notes>
-			<Title>การปรับแต่งค่ายกล</Title>
-			<Desc>หมวดการปรับแต่งค่ายกล</Desc>
+			<Notes>Nhận xét về chỉnh sửa trận pháp</Notes>
+			<Title>Chỉnh sửa trận pháp</Title>
+			<Desc>Mục chỉnh sửa trận pháp</Desc>
 		</Text>
 		<Text Name="ZhenEyesOverview">
-			<Notes>ความคิดเห็นเกี่ยวกับองค์ประกอบค่ายกล</Notes>
-			<Title>องค์ประกอบค่ายกล</Title>
-			<Desc>หมวดองค์ประกอบค่ายกล</Desc>
+			<Notes>Nhận xét về tổng quan trận nhãn</Notes>
+			<Title>Tổng quan trận nhãn</Title>
+			<Desc>Mục tổng quan trận nhãn</Desc>
 		</Text>
 		<Text Name="WorkSchedule">
-			<Notes>ความคิดเห็นเกี่ยวกับตารางงาน</Notes>
-			<Title>ตารางงาน</Title>
-			<Desc>หมวดตารางงาน</Desc>
+			<Notes>Nhận xét về lịch làm việc</Notes>
+			<Title>Lịch làm việc</Title>
+			<Desc>Mục lịch làm việc</Desc>
 		</Text>
 		<Text Name="SectOverview">
-			<Notes>ความคิดเห็นเกี่ยวกับสำนักโดยรวม</Notes>
-			<Title>สำนัก</Title>
-			<Desc>สำนัก</Desc>
+			<Notes>Nhận xét về tổng quan môn phái</Notes>
+			<Title>Tổng quan môn phái</Title>
+			<Desc>Tổng quan môn phái</Desc>
 		</Text>
 		<Text Name="SectStructure">
-			<Notes>ความคิดเห็นเกี่ยวกับโครางสร้างสำนัก</Notes>
-			<Title>โครางสร้างสำนัก</Title>
-			<Desc>โครางสร้างสำนัก</Desc>
+			<Notes>Nhận xét về cấu trúc môn phái</Notes>
+			<Title>Cấu trúc môn phái</Title>
+			<Desc>Cấu trúc môn phái</Desc>
 		</Text>
 		<Text Name="SectFollower">
-			<Notes>ความคิดเห็นเกี่ยวกับศิษย์ในสำนัก</Notes>
-			<Title>ศิษย์ในสำนัก</Title>
-			<Desc>ศิษย์ในสำนัก</Desc>
+			<Notes>Nhận xét về đệ tử môn phái</Notes>
+			<Title>Đệ tử môn phái</Title>
+			<Desc>Đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="SectRelationship">
-			<Notes>ความคิดเห็นเกี่ยวกับการทูตของสำนัก</Notes>
-			<Title>การทูตของสำนัก</Title>
-			<Desc>การทูตของสำนัก</Desc>
+			<Notes>Nhận xét về ngoại giao</Notes>
+			<Title>Ngoại giao</Title>
+			<Desc>Ngoại giao</Desc>
 		</Text>
 		<Text Name="PowerManagement">
-			<Notes>ความคิดเห็นเกี่ยวกับบริหารจัดการพลัง</Notes>
-			<Title>การบริหารจัดการพลัง</Title>
+			<Notes>Nhận xét về quản lý quyền lực</Notes>
+			<Title>Quản lý quyền lực</Title>
 		</Text>
 		<Text Name="SectGift">
-			<Notes>ความคิดเห็นเกี่ยวกับส่งของขวัญสำนัก</Notes>
-			<Title>ของขวัญ</Title>
-			<Desc>ของขวัญสำนัก</Desc>
+			<Notes>Nhận xét về quà tặng</Notes>
+			<Title>Quà tặng</Title>
+			<Desc>Quà tặng môn phái</Desc>
 		</Text>
 		<Text Name="SectTransaction">
-			<Notes>ความคิดเห็นเกี่ยวกับการค้าขายระหว่างสำนัก</Notes>
-			<Title>การค้าขายระหว่างสำนัก</Title>
-			<Desc>การค้าขายระหว่างสำนัก</Desc>
+			<Notes>Nhận xét về giao dịch môn phái</Notes>
+			<Title>Giao dịch môn phái</Title>
+			<Desc>Giao dịch môn phái</Desc>
 		</Text>
 		<Text Name="SectMessageManagement">
-			<Notes>ความคิดเห็นเกี่ยวกับข้อความสำนัก</Notes>
-			<Title>ข้อความสำนัก</Title>
-			<Desc>ข้อความสำนัก</Desc>
+			<Notes>Nhận xét về tin nhắn môn phái</Notes>
+			<Title>Tin nhắn môn phái</Title>
+			<Desc>Tin nhắn môn phái</Desc>
 		</Text>
 		<Text Name="SectLaws">
-			<Notes>ความคิดเห็นเกี่ยวกับกฎสำนัก</Notes>
-			<Title>กฎสำนัก</Title>
-			<Desc>กฎสำนัก</Desc>
+			<Notes>Nhận xét về môn quy</Notes>
+			<Title>Môn quy</Title>
+			<Desc>Môn quy</Desc>
 		</Text>
 		<Text Name="PedlarTransaction">
-			<Notes>ความคิดเห็นเกี่ยวกับการค้าขาย</Notes>
-			<Title>การค้าขาย</Title>
-			<Desc>การค้าขาย</Desc>
+			<Notes>Nhận xét về giao dịch thương nhân</Notes>
+			<Title>Giao dịch thương nhân</Title>
+			<Desc>Giao dịch thương nhân</Desc>
 		</Text>
 		<Text Name="KeyholeReport">
-			<Notes>ความคิดเห็นเกี่ยวกับความลับ</Notes>
-			<Title>ความลับ</Title>
-			<Desc>ความลับ</Desc>
+			<Notes>Nhận xét về báo cáo bí mật</Notes>
+			<Title>Báo cáo bí mật</Title>
+			<Desc>Báo cáo bí mật</Desc>
 		</Text>
 		<Text Name="RefineBody">
-			<Notes>ความคิดเห็นเกี่ยวกับหลอมร่าง</Notes>
-			<Title>หลอมร่าง</Title>
-			<Desc>หลอมร่าง</Desc>
+			<Notes>Nhận xét về luyện thể</Notes>
+			<Title>Luyện thể</Title>
+			<Desc>Luyện thể</Desc>
 		</Text>
 		<Text Name="DomesticateSpiritBeast">
-			<Notes>ความคิดเห็นเกี่ยวกับการเลี้ยงสัตว์อสูรสำนัก</Notes>
-			<Title>การเลี้ยงสัตว์อสูรสำนัก</Title>
-			<Desc>การเลี้ยงสัตว์อสูรสำนัก</Desc>
+			<Notes>Nhận xét về thuần hóa Linh Thú</Notes>
+			<Title>Thuần hóa Linh Thú</Title>
+			<Desc>Thuần hóa Linh Thú</Desc>
 		</Text>
 		<Text Name="TrainSpiritBeast">
-			<Notes>ความคิดเห็นเกี่ยวกับการฝึกสัตว์อสูรสำนัก</Notes>
-			<Title>การเฝึกสัตว์อสูรสำนัก</Title>
-			<Desc>การเฝึกสัตว์อสูรสำนัก</Desc>
+			<Notes>Nhận xét về huấn luyện Linh Thú</Notes>
+			<Title>Huấn luyện Linh Thú</Title>
+			<Desc>Huấn luyện Linh Thú</Desc>
 		</Text>
 		<Text Name="FeedSpiritBeast">
-			<Notes>ความคิดเห็นเกี่ยวกับโภชนาการของสัตว์อสูรสำนัก</Notes>
-			<Title>โภชนาการของสัตว์อสูรสำนัก</Title>
-			<Desc>โภชนาการของสัตว์อสูรสำนัก</Desc>
+			<Notes>Nhận xét về cho Linh Thú ăn</Notes>
+			<Title>Cho Linh Thú ăn</Title>
+			<Desc>Cho Linh Thú ăn</Desc>
 		</Text>
 		<Text Name="BehaviorRecordSpiritBeast">
-			<Notes>ความคิดเห็นเกี่ยวกับพฤกติกรรมของสัตว์อสูรสำนัก</Notes>
-			<Title>พฤกติกรรมของสัตว์อสูรสำนัก</Title>
-			<Desc>พฤกติกรรมของสัตว์อสูรสำนัก</Desc>
+			<Notes>Nhận xét về ghi chép hành vi Linh Thú</Notes>
+			<Title>Ghi chép hành vi Linh Thú</Title>
+			<Desc>Ghi chép hành vi Linh Thú</Desc>
 		</Text>
 		<Text Name="EmotionAndThinkingOfAnimal">
-			<Notes>ความคิดเห็นเกี่ยวกับความคิดและความนึกคิด</Notes>
-			<Title>ความคิดและความนึกคิด</Title>
-			<Desc>ความคิดและความนึกคิด</Desc>
+			<Notes>Nhận xét về cảm xúc và suy nghĩ</Notes>
+			<Title>Cảm xúc và suy nghĩ</Title>
+			<Desc>Cảm xúc và suy nghĩ</Desc>
 		</Text>
 		<Text Name="EmotionATarget">
-			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับการตระหนักรู้</Notes>
-			<Title>ความคิด: การตระหนักรู้</Title>
-			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งการตระหนักรู้สามารรถรวมเป็นหนึ่งการตระหนักรู้ได้</Desc>
+			<Notes>Về suy nghĩ: Nhận xét về nhận thức</Notes>
+			<Title>Suy nghĩ: Nhận thức</Title>
+			<Desc>Một trong ba nguyên tắc. Mảnh vỡ nhận thức có thể hợp nhất thành một nhận thức hoàn chỉnh.</Desc>
 		</Text>
 		<Text Name="EmotionAScene">
-			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับความมีเหตุผล</Notes>
-			<Title>ความคิด: ความมีเหตุผล</Title>
-			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งความมีเหตุผลสามารรถรวมเป็นหนึ่งความมีเหตุผลได้</Desc>
+			<Notes>Về suy nghĩ: Nhận xét về lý trí</Notes>
+			<Title>Suy nghĩ: Lý trí</Title>
+			<Desc>Một trong ba nguyên tắc. Mảnh vỡ lý trí có thể hợp nhất thành một lý trí hoàn chỉnh.</Desc>
 		</Text>
 		<Text Name="EmotionAEmotion">
-			<Notes>เกี่ยวกับความนึกคิด: ความคิดเห็นเกี่ยวกับแนวความคิด</Notes>
-			<Title>ความคิด: แนวความคิด</Title>
-			<Desc>หนึ่งในสามหลักการ เสี้ยวผลึกแห่งแนวความคิดสามารรถรวมเป็นหนึ่งแนวความคิดได้</Desc>
+			<Notes>Về suy nghĩ: Nhận xét về khái niệm</Notes>
+			<Title>Suy nghĩ: Khái niệm</Title>
+			<Desc>Một trong ba nguyên tắc. Mảnh vỡ khái niệm có thể hợp nhất thành một khái niệm hoàn chỉnh.</Desc>
 		</Text>
 	</List>
 </Texts>

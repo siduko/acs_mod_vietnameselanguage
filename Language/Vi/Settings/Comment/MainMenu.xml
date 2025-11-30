@@ -1,14 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MainMenuEnv">
-			<Notes>ความคิดเห็นเกี่ยวกับสภาพของหน้าจอเมนูหลักของผู้ใช้งาน</Notes>
-			<Title>สิ่งแวดล้อม</Title>
-			<Desc>โดยการเลือกอสูร,ที่พำนักและสมบัติวิเศษ เพื่อเปลี่ยนสภาพแวดล้อมและทำให้เกมแตกต่างไปจากเดิม</Desc>
+			<Notes>Nhận xét về giao diện chính của người dùng</Notes>
+			<Title>Môi trường</Title>
+			<Desc>Bằng cách chọn linh thú, nơi ở và pháp bảo để thay đổi môi trường và làm cho trò chơi trở nên khác biệt.</Desc>
 		</Text>
 		<Text Name="MainMenuImmortal">
-			<Notes>ความคิดเห็นเกี่ยวกับสภาพของหน้าจอเมนูหลักของผู้ใช้งาน</Notes>
-			<Title>โหมดเซียน</Title>
-			<Desc>เพิ่มความยากโดยการเลือกเพิ่มเติม สิ่งนี้จะเพิ่มความหลากหลายและการได้รับถ้วยแห่งเกียรติยศจากโหมดนี้</Desc>
+			<Notes>Nhận xét về giao diện chính của người dùng</Notes>
+			<Title>Chế độ Tiên</Title>
+			<Desc>Tăng độ khó bằng cách chọn thêm các tùy chọn. Điều này sẽ làm tăng sự đa dạng và cơ hội nhận được danh hiệu vinh dự từ chế độ này.</Desc>
 		</Text>
 	</List>
 </Texts>

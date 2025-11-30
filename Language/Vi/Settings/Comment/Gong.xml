@@ -1,20 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GongDengXian">
-			<Title>วิชาระดับสวรรค์</Title>
-			<Desc>วิชาบ่มเพาะประเภทนี้จะทำให้ท่านเข้าสู่วิถีเซียนได้โดยตรง เปิดโอกาสให้ท่านมีโอสกาสกลายเป็นเซียนได้</Desc>
+			<Title>Công Pháp Thiên Giai</Title>
+			<Desc>Loại công pháp này giúp bạn trực tiếp bước vào tiên đạo, mở ra cơ hội trở thành tiên nhân.</Desc>
 		</Text>
 		<Text Name="GongYuanShen">
-			<Title>วิชาระดับวิญญาณปฐมกาล</Title>
-			<Desc>วิชาบ่มเพาะประเภทนี้จะเปิดโอกาสให้ท่านเข้าสู่ขอบเขตวิญญาณปฐมกาลได้</Desc>
+			<Title>Công Pháp Nguyên Thần Giai</Title>
+			<Desc>Loại công pháp này giúp bạn bước vào cảnh giới Nguyên Thần.</Desc>
 		</Text>
 		<Text Name="GongJinDan">
-			<Title>วิชาระดับแก่นทองคำ</Title>
-			<Desc>วิชาบ่มเพาะประเภทนี้จะเปิดโอกาสให้ท่านเข้าสู่ขอบเขตแก่นทองคำได้</Desc>
+			<Title>Công Pháp Kim Đan Giai</Title>
+			<Desc>Loại công pháp này giúp bạn bước vào cảnh giới Kim Đan.</Desc>
 		</Text>
 		<Text Name="GongFanSu">
-			<Title>วิชาระดับปฐพี</Title>
-			<Desc>วิชาบ่มเพาะประเภทนี้เป็นแค่วิชาทั่วไป ไม่แม้แต่จะช่วยให้ท่านเข้าสู่ขอบเขตสร้างแก่นลมปราณได้</Desc>
+			<Title>Công Pháp Phàm Tục</Title>
+			<Desc>Loại công pháp này chỉ là kỹ năng bình thường, thậm chí không giúp bạn bước vào cảnh giới Kết Đan.</Desc>
 		</Text>
 	</List>
 </Texts>

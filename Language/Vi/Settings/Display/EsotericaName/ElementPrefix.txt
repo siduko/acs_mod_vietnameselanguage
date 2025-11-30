@@ -1,6 +1,6 @@
-ทองคำ,เลื่อมพราย,กระจ่าง,ตะวันตก,พยัคฆ์ขาว,สายฟ้ากัมปนาท,อัสนี,พายุสายฟ้า,โลหะทมิฬ,วิสิฐ,รกร้าง,ทำลายล้าง
-พฤกษา,เจริญงอกงาม,เขียวอ่อน,แก่นนภา,อำพัน,ยืนยาว,ตะวันออก,แก่นวารี,เขียวชอุ่ม,ไพศาล,สั่นสะเทือน
-วารี,น้ำตก,สมดุล,บูรพา,เต่าดำ,อสรพิษ,ปฐมกาล,บรรพกาล,บรรจบ,สายน้ำ,วารีขจี,มหาสมุทร
-อัคคี,แรงกล้า,เร่าร้อน,ทักษิณ,วิหคสีชาด,ลุกโชน,ร้อนแรง,เพลิงนภา,แสงอัคคี,เพลิงกัลป์,แผดเผา,แสงเพลิง
-ปฐพี,โหดเหี้ยม,มืดมัว,แกนกลาง,กิเลน,มังกรดิน,พันธะธรณี,ภูผาชัน,หุบเหวลึก,พันลี้,ก้าวย่างปฐพี,ยอดเขา
-ธาตุผสม,โกลาหล
+Kim,Lấp lánh,Rực rỡ,Phương Tây,Bạch Hổ,Sấm sét,Sấm sét,Bão sét,Kim loại đen,Tối thượng,Hoang tàn,Hủy diệt
+Mộc,Tươi tốt,Xanh lục,Đông phương,Thanh Long,Gió lốc,Sấm vang,Cây cối,Xanh tươi,Rộng lớn,Rung chuyển
+Thủy,Thác nước,Cân bằng,Phương Bắc,Huyền Vũ,Mãng xà,Thủy nguyên,Thâm sâu,Hòa hợp,Sông ngòi,Trong xanh,Đại dương
+Hỏa,Mãnh liệt,Rực cháy,Phương Nam,Chu Tước,Bùng cháy,Nóng bỏng,Hỏa diệm,Ánh lửa,Thiên hỏa,Thiêu đốt,Hỏa quang
+Thổ,Khắc nghiệt,U ám,Trung tâm,Kỳ Lân,Địa Long,Địa linh,Núi cao,Hẻm vực,Ngàn dặm,Bước chân,Đỉnh cao
+Hỗn hợp,Hỗn loạn

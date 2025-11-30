@@ -1,24 +1,24 @@
-ศิษย์ชายนิกายม่านฟ้า,ช ม่าน I s,ญ ม่าน II s,ญ ม่าน III s
-ศิษย์หญิงนิกายม่านฟ้า ,ญ ม่าน I s,ญ ม่าน II s,ญ ม่าน III s
-ศิษย์ชายตำหนักคุนหลุน ,ช คุน I s,ญ คุน II s,ญ คุน III s
-ศิษย์หญิงตำหนักคุนหลุน ,ญ คุน I s,ญ คุน II s,ญ คุน III s
-ศิษย์ชายวังเหนือนภา ,ช นภา I s,ญ นภา II s,ญ นภา III s
-ศิษย์หญิงวังเหนือนภา ,ญ นภา I s,ญ นภา II s,ญ นภา III s
-ศิษย์ชายอารามเมฆาม่วง ,ช ม่วง I s,ญ ม่วง II s,ญ ม่วง III s
-ศิษย์หญิงอารามเมฆาม่วง ,ญ ม่วง I s,ญ ม่วง II s,ญ ม่วง III s
-ศิษย์ชายสำนักเอกลี้ลับ ,ช เอก I s,ญ เอก II s,ญ เอก III s
-ศิษย์หญิงสำนักเอกลี้ลับ ,ญ เอก I s,ญ เอก II s,ญ เอก III s
-ศิษย์ชายอารามบัวสีคราม ,ช บัว I s,ญ บัว II s,ญ บัว III s
-ศิษย์หญิงอารามบัวสีคราม ,ญ บัว I s,ญ บัว II s,ญ บัว III s
-ศิษย์ชายนิกายแสงราตรี ,ช แสง I s,ญ แสง II s,ญ แสง III s
-ศิษย์หญิงนิกายแสงราตรี ,ญ แสง I s,ญ แสง II s,ญ แสง III s
-ศิษย์ชายภูเขาร้อยแมลง ,ช แมลง I s,ญ แมลง II s,ญ แมลง III s
-ศิษย์หญิงภูเขาร้อยแมลง ,ญ แมลง I s,ญ แมลง II s,ญ แมลง III s
-ศิษย์ชายนิกายหลุมอเวจี ,ช Pit I s,ญ Pit II s,ญ Pit III s
-ศิษย์หญิงนิกายหลุมอเวจี ,ญ Pit I s,ญ Pit II s,ญ Pit III s
-ศิษย์ชายสำนักเจ็ดวิถีสังหาร ,ช Pit I s,ญ Pit II s,ญ Pit III s
-ศิษย์หญิงสำนักเจ็ดวิถีสังหาร ,ญ Pit I s,ญ Pit II s,ญ Pit III s
-ศิษย์ชายสำนักสราญรมย์ ,ช สราญ I s,ญ สราญ II s,ญ สราญ III s
-ศิษย์หญิงสำนักสราญรมย์ ,ญ สราญ I s,ญ สราญ II s,ญ สราญ III s
-ศิษย์ชายอารามหมื่นอสูร ,ช อสูร I s,ญ อสูร II s,ญ อสูร III s
-ศิษย์หญิงอารามหมื่นอสูร ,ญ อสูร I s,ญ อสูร II s,ญ อสูร III s
+Đệ tử nam Mạc Thiên tông,Nam Mạc I s,Nữ Mạc II s,Nữ Mạc III s
+Đệ tử nữ Mạc Thiên tông,Nữ Mạc I s,Nữ Mạc II s,Nữ Mạc III s
+Đệ tử nam Côn Luân cung,Nam Côn I s,Nữ Côn II s,Nữ Côn III s
+Đệ tử nữ Côn Luân cung,Nữ Côn I s,Nữ Côn II s,Nữ Côn III s
+Đệ tử nam Tuyệt Thiên cung,Nam Tuyệt I s,Nữ Tuyệt II s,Nữ Tuyệt III s
+Đệ tử nữ Tuyệt Thiên cung,Nữ Tuyệt I s,Nữ Tuyệt II s,Nữ Tuyệt III s
+Đệ tử nam Tử Vi đạo quán,Nam Tử I s,Nữ Tử II s,Nữ Tử III s
+Đệ tử nữ Tử Vi đạo quán,Nữ Tử I s,Nữ Tử II s,Nữ Tử III s
+Đệ tử nam Thái Nhất môn,Nam Thái I s,Nữ Thái II s,Nữ Thái III s
+Đệ tử nữ Thái Nhất môn,Nữ Thái I s,Nữ Thái II s,Nữ Thái III s
+Đệ tử nam Thanh Liên kiếm tông,Nam Thanh I s,Nữ Thanh II s,Nữ Thanh III s
+Đệ tử nữ Thanh Liên kiếm tông,Nữ Thanh I s,Nữ Thanh II s,Nữ Thanh III s
+Đệ tử nam Lạc Nhật cung,Nam Lạc I s,Nữ Lạc II s,Nữ Lạc III s
+Đệ tử nữ Lạc Nhật cung,Nữ Lạc I s,Nữ Lạc II s,Nữ Lạc III s
+Đệ tử nam Bách Trùng sơn,Nam Bách I s,Nữ Bách II s,Nữ Bách III s
+Đệ tử nữ Bách Trùng sơn,Nữ Bách I s,Nữ Bách II s,Nữ Bách III s
+Đệ tử nam A Tỳ địa ngục,Nam A Tỳ I s,Nữ A Tỳ II s,Nữ A Tỳ III s
+Đệ tử nữ A Tỳ địa ngục,Nữ A Tỳ I s,Nữ A Tỳ II s,Nữ A Tỳ III s
+Đệ tử nam Thất Sát giáo,Nam Thất Sát I s,Nữ Thất Sát II s,Nữ Thất Sát III s
+Đệ tử nữ Thất Sát giáo,Nữ Thất Sát I s,Nữ Thất Sát II s,Nữ Thất Sát III s
+Đệ tử nam Hoan Hỉ tông,Nam Hoan Hỉ I s,Nữ Hoan Hỉ II s,Nữ Hoan Hỉ III s
+Đệ tử nữ Hoan Hỉ tông,Nữ Hoan Hỉ I s,Nữ Hoan Hỉ II s,Nữ Hoan Hỉ III s
+Đệ tử nam Vạn Yêu điện,Nam Vạn Yêu I s,Nữ Vạn Yêu II s,Nữ Vạn Yêu III s
+Đệ tử nữ Vạn Yêu điện,Nữ Vạn Yêu I s,Nữ Vạn Yêu II s,Nữ Vạn Yêu III s
